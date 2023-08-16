@@ -16,7 +16,7 @@
 
 #
 
-![qYxP9R](https://github.com/Quantum-Software-Development/.github/assets/113218619/4cf1906c-8ae3-4731-91c8-8c4a9409778a)
+
 
 
 
