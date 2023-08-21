@@ -22,7 +22,7 @@
 
 #
 
-Torus Quantum Earth Magnetic Field
+#### <p align="center"> Torus Quantum Earth Magnetic Field
 
 ![Earth-Magnetic-Field](https://github.com/Quantum-Software-Development/.github/assets/113218619/7159594e-2da0-4595-a7a5-c0b54620954c)
 
