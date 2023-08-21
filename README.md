@@ -30,7 +30,7 @@
 
 <p align="center">
 <img src="
-![Earth-Magnetic-Field](https://github.com/Quantum-Software-Development/.github/assets/113218619/7159594e-2da0-4595-a7a5-c0b54620954c)
+https://github.com/Quantum-Software-Development/.github/assets/113218619/7159594e-2da0-4595-a7a5-c0b54620954c
 
 
 
