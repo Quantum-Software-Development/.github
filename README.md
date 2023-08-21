@@ -24,8 +24,7 @@
 <p align="center">
 <img src="https://github.com/Quantum-Software-Development/.github/assets"/>
 
- 
-https://github.com/Quantum-Software-Development/.github/assets/113218619/a004457a-6436-48f1-9d17-644f0247147d
+ ub/assets/113218619/a004457a-d
 
 #
 
