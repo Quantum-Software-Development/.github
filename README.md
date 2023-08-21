@@ -7,8 +7,7 @@
 #### <p align="center"> Torus Quantum Magnetic Field
 
 <p align="center">
-<img src="
-https://github.com/Quantum-Software-Development/.github/assets/113218619/efd1e779-d915-4a9f-b81b-fa182a9c8dd4" />
+<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/efd1e779-d915-4a9f-b81b-fa182a9c8dd4" />
 
 #
 
