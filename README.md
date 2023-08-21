@@ -25,7 +25,6 @@
 <img src=""/>
 
 
-https://github.com/Quantum-Software-Development/.github/assets/113218619/9fece34c-9751-4fc7-9704-81fa6034fe8f
 
 
 #
