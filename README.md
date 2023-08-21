@@ -24,15 +24,12 @@
 <p align="center">
 <img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/c2e7bd4c-1498-40e8-a5f7-f688053549d8"/>
 
-
-
-
-
-
 #
 
 #### <p align="center"> Torus Quantum Earth Magnetic Field
 
+<p align="center">
+<img src="
 ![Earth-Magnetic-Field](https://github.com/Quantum-Software-Development/.github/assets/113218619/7159594e-2da0-4595-a7a5-c0b54620954c)
 
 
