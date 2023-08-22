@@ -15,7 +15,7 @@
 #
 
 <p align="center">
-<img src="
+<img src=""/>
 
 ![qYxP9R](https://github.com/Quantum-Software-Development/.github/assets/113218619/a7024f4a-725f-4993-a812-53dcadaa14f2)
 
