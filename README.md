@@ -14,10 +14,10 @@
 
 #
 
-Quantum field Torus 
+##### <p align="center"> Quantum field Torus 
 
 <p align="center">
-<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/a7024f4a-725f-4993-a812-53dcadaa14f2"/>
+<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/a7024f4a-725f-49
 
 #
 
