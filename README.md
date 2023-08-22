@@ -6,9 +6,9 @@
 
 #
 
-Quantum field Torus is a theoretical construct in physics that describes the behavior of quantum fields in a torus-shaped space.
+#### Quantum field Torus is a theoretical construct in physics that describes the behavior of quantum fields in a torus-shaped space.
 
-This concept is used in various areas of theoretical physics, including string theory and quantum chromodynamics and quantum technologies.
+### This concept is used in various areas of theoretical physics, including string theory and quantum chromodynamics and quantum technologies.
 
 
 #
