@@ -51,7 +51,7 @@
 
 #
 
-#### Copyright (c) 2023 Quantum Software Development
+#### <p align="center"> Copyright (c) 2023 Quantum Software Development
 
 
 
