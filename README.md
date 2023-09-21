@@ -2,7 +2,6 @@
 
 #
 
-### <p align="center"> 🚀 [![committers.top badge](https://user-badge
 
 #
 
