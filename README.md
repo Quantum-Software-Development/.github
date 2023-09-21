@@ -8,6 +8,17 @@ The synergy between quantum computing and data science encompasses quantum-enhan
 
 #
 
+## Quantum Computers: What Are They?
+
+Quantum computers are becoming the next frontiers demonstrating capabilities a traditional computer cannot solve.
+
+Ever wondered how the term ‘quantum’ came into existence?
+
+Quantum computing certainly works under the principle of quantum physics perform rapid calculations using qubits and quantum bits. A total contrast of what is present in the current traditional computers. A traditional classical computer works on classical physics and performs calculations using bits of all we know. But on the other hand, quantum computers can make calculations in split seconds. Wherein in the case of a classical computer, it may take tens of thousands of years to even perform such calculations.
+
+From drug development to weather forecasts and stock trades, quantum computers will revolutionize everything. Therefore, it should not come as a surprise as to why the world is racing to build its first quantum computer.
+
+Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology.
 
 
 
