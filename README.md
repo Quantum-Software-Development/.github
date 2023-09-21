@@ -52,12 +52,11 @@ There are multiple services available, two of which the tech giants themselves p
 
 - Xanadu — is a hardware-based cloud started by a Canadian startup. This processor can handle 8-, 12, and 24-qubit chips.
 
-
 - IBM Q Experience — an online platform that allows its users from the general public access to a certain set of IBM’s prototype quantum processor using the Cloud.
 
 
 
-##
+## In Brief
 
 
 
