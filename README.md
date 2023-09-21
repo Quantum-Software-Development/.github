@@ -48,6 +48,7 @@ To remain effective, NISQ processors need to closely work with classical co-proc
 
 There are multiple services available, two of which the tech giants themselves provide (Google and IBM).
 
+- Forest — this service is offered by Rigetti Computing. This tool suite includes development tools and programming languages.
 
 
 
