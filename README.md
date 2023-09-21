@@ -40,6 +40,8 @@ It is also referred to as any type of data that can occur in both a natural and 
 
 A hybrid quantum-classical model represents and generalizes data using the quantum mechanical origin. This is because, in the near term, most quantum processors are more likely to remain noisy and small, thus making it difficult for quantum models to generalize quantum data using just the quantum processor.
 
+
+
 To remain effective, NISQ processors need to closely work with classical co-processors.
 
 
@@ -50,6 +52,7 @@ There are multiple services available, two of which the tech giants themselves p
 - Forest — this service is offered by Rigetti Computing. This tool suite includes development tools and programming languages.
 
 - Xanadu — is a hardware-based cloud started by a Canadian startup. This processor can handle 8-, 12, and 24-qubit chips.
+
 
 - IBM Q Experience — an online platform that allows its users from the general public access to a certain set of IBM’s prototype quantum processor using the Cloud.
 
