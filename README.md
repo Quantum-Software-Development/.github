@@ -39,6 +39,7 @@ It is also referred to as any type of data that can occur in both a natural and 
 
 ## What’s a Hybrid Quantum-classical Model?
 
+A hybrid quantum-classical model represents and generalizes data using the quantum mechanical origin. This is because, in the near term, most quantum processors are more likely to remain noisy and small, thus making it difficult for quantum models to generalize quantum data using just the quantum processor.
 
 
 
