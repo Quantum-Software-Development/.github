@@ -50,6 +50,8 @@ There are multiple services available, two of which the tech giants themselves p
 
 - Forest — this service is offered by Rigetti Computing. This tool suite includes development tools and programming languages.
 
+- Xanadu — is a hardware-based cloud started by a Canadian startup. This processor can handle 8-, 12, and 24-qubit chips.
+
 
 
 
