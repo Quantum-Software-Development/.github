@@ -35,8 +35,9 @@ It is also referred to as any type of data that can occur in both a natural and 
 - Pennylane — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
 
 - Qiskit — an open-source library useful to quantum computers. Qiskit provides tools to create and manipulate quantum programs while running them on devices (prototyped). It functions by creating a quantum neural network using a parameterized quantum circuit through a hidden layer for the neural network.
+  
 
-## 
+## What’s a Hybrid Quantum-classical Model?
 
 
 
