@@ -8,6 +8,11 @@ The synergy between quantum computing and data science encompasses quantum-enhan
 
 #
 
+
+
+
+#
+
 ##### <p align="center"> Quantum field Torus 
 
 <p align="center">
