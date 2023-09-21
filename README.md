@@ -44,7 +44,7 @@ A hybrid quantum-classical model represents and generalizes data using the quant
 To remain effective, NISQ processors need to closely work with classical co-processors.
 
 
-## Quantum Machine Learning
+## Quantum Machine Learning Services
 
 
 
