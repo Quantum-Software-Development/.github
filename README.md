@@ -1,9 +1,6 @@
 ## <p align="center"> ☆ We Go {Q}uantum ☆
 
-#
 
-
-#
 
 #### Quantum field Torus is a theoretical construct in physics that describes the behavior of quantum fields in a torus-shaped space.
 
