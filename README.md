@@ -27,6 +27,9 @@ From drug development to weather forecasts and stock trades, quantum computers w
 Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology.
 
 
+## What’s Quantum Data?
+
+
 
 #
 
