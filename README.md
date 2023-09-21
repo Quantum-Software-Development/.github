@@ -36,6 +36,8 @@ It is also referred to as any type of data that can occur in both a natural and 
 
 - Qiskit — an open-source library useful to quantum computers. Qiskit provides tools to create and manipulate quantum programs while running them on devices (prototyped). It functions by creating a quantum neural network using a parameterized quantum circuit through a hidden layer for the neural network.
 
+## 
+
 
 
 
