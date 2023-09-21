@@ -58,6 +58,8 @@ There are multiple services available, two of which the tech giants themselves p
 
 ## In Brief
 
+Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
+
 
 
 
