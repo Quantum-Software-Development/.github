@@ -10,7 +10,6 @@ The synergy between quantum computing and data science encompasses quantum-enhan
 
 ![Futuristic-Computer-Concept](https://github.com/Quantum-Software-Development/.github/assets/113218619/6cdf011e-7889-41cf-ab42-83f08fc2dbb1)
 
-#
 
 ## Quantum Computers: What Are They?
 
@@ -43,6 +42,22 @@ A hybrid quantum-classical model represents and generalizes data using the quant
 
 
 
+To remain effective, NISQ processors need to closely work with classical co-processors.
+
+
+## Quantum Machine Learning Services
+
+There are multiple services available, two of which the tech giants themselves provide (Google and IBM).
+
+- Forest — this service is offered by Rigetti Computing. This tool suite includes development tools and programming languages.
+
+- Xanadu — is a hardware-based cloud started by a Canadian startup. This processor can handle 8-, 12, and 24-qubit chips.
+
+
+- IBM Q Experience — an online platform that allows its users from the general public access to a certain set of IBM’s prototype quantum processor using the Cloud.
+
+
+##
 
 
 
