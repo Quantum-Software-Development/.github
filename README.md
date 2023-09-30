@@ -2,6 +2,7 @@
 
 ## <p align="center"> ⚛︎ We Go {Q}uantum 
 
+<br>
 
 The combination of quantum computing and data science offers a solution to these limitations and has the potential to push innovation to new heights.
 
