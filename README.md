@@ -106,8 +106,7 @@ Source: [quantum computing / DZone](https://dzone.com/articles/the-quantum-machi
 #
 
 #### <p align="center"> Torus Quantum Human Body Magnetic Field
-
-<p align="center">
+>
 
 
 #
