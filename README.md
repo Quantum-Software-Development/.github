@@ -94,7 +94,7 @@ Source: [quantum computing / DZone](https://dzone.com/articles/the-quantum-machi
 <p align="center">
 <img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/efd1e779-d915-4a9f-b81b-fa182a9c8dd4" />
 
-#
+#nnnnnnnnnnn
 
 #### <p align="center"> Torus Quantum Flow
 
@@ -107,7 +107,7 @@ Source: [quantum computing / DZone](https://dzone.com/articles/the-quantum-machi
 #### <p align="center"> Torus Quantum Human Body Magnetic Field
 
 <p align="center">
-<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/c2e7bd4c-1498-40e8-a5f7-f688053549d8"/>
+
 
 #
 
