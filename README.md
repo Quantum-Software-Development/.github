@@ -16,11 +16,6 @@ The ability of quantum computing to perform complex calculations at an exponenti
 Quantum Physics has Given us The Theory of Entanglement
 
 
-https://github.com/Quantum-Software-Development/.github/assets/113218619/1d94578b-d6d5-43d9-a253-6cadcc4b0f73
-
-
-
-
 ## Quantum Computers: What Are They?
 
 Quantum computers are becoming the next frontiers demonstrating capabilities a traditional computer cannot solve.
