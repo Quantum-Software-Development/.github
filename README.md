@@ -13,7 +13,6 @@ The ability of quantum computing to perform complex calculations at an exponenti
 
 ##### < We Go {Q}uantum, {Q}uantum 4 All />
 
-<br>
 
 ![Futuristic-Computer-Concept](https://github.com/Quantum-Software-Development/.github/assets/113218619/6cdf011e-7889-41cf-ab42-83f08fc2dbb1)
 
