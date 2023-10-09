@@ -99,8 +99,7 @@ Source: [quantum computing / DZone](https://dzone.com/articles/the-quantum-machi
 
 #### <p align="center"> Torus Quantum Flow
 
-<p align="center">
-<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/54df5887-5445-4698-931f-c9c0a957df96"/>
+
 
 
 #
