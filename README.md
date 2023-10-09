@@ -105,18 +105,6 @@ Source: [quantum computing / DZone](https://dzone.com/articles/the-quantum-machi
 
 #
 
-#### <p align="center"> Torus Quantum Human Body Magnetic Field
->
-
-
-#
-
-#### <p align="center"> Torus Quantum Earth Magnetic Field
-
-
-
-#
-
 #### <p align="center"> Copyright (c) 2023 Quantum Software Development
 
 
