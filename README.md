@@ -13,6 +13,8 @@ The ability of quantum computing to perform complex calculations at an exponenti
 ##### <p align="center"> < We Go {Q}uantum, {Q}uantum 4 All /><br>
 
 
+Quantum Physics has Given us The Theory of Entanglement
+
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/1d94578b-d6d5-43d9-a253-6cadcc4b0f73
 
