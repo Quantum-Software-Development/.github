@@ -93,11 +93,7 @@ Source: [quantum computing / DZone](https://dzone.com/articles/the-quantum-machi
 ##### <p align="center"> Quantum Magnetic Field Torus 
 
 <p align="center">
-<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/efd1e779-d915-4a9f-b81b-fa182a9c8dd4" />
-
-#nnnnnnnnnnn
-
-#### <p align="center"> Torus Quantum Flow
+<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/efd1e779-d915-4a9f-b8
 
 
 
