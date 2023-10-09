@@ -11,7 +11,7 @@ The ability of quantum computing to perform complex calculations at an exponenti
 <br>
 
 ##### <p align="center"> < We Go {Q}uantum, {Q}uantum 4 All /><br>
-<br>
+
 
 ## Quantum Computers: What Are They?
 
