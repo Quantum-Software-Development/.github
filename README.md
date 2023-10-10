@@ -3,7 +3,7 @@
 # <p align="center"> ⚛︎ Welcome to The New Era, Welcome To Quantum !<br>
 <br>
 
-The combination of quantum computing and data science offers a solution to these limitations and has the potential to push innovation to new heights.
+The combination of quantum computing and data science offers a solution to these limitations and has the potential to push innovation to new heights. <br>
 
 <br>
 
