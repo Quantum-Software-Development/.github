@@ -79,6 +79,8 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
+[quantum data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
+
 
 
 
