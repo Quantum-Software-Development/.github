@@ -33,7 +33,7 @@ Quantum computing certainly works under the principle of quantum physics perform
 
 From drug development to weather forecasts and stock trades, quantum computers will revolutionize everything. Therefore, it should not come as a surprise as to why the world is racing to build its first quantum computer.
 
-Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology.<br>
+Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology
 
 <br>
 
@@ -47,9 +47,7 @@ It is also referred to as any type of data that can occur in both a natural and 
 
 <br>
 
-[AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
-
-## AI Programming Languages Involved in Quantum Computing]
+## [AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/) Involved in Quantum Computing
 
 - Pennylane — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
 
