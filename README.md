@@ -30,7 +30,7 @@ Quantum computing certainly works under the principle of quantum physics perform
 
 From drug development to weather forecasts and stock trades, quantum computers will revolutionize everything. Therefore, it should not come as a surprise as to why the world is racing to build its first quantum computer.
 
-Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology.
+Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology.<br>
 
 <br>
 
