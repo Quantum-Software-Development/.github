@@ -4,11 +4,13 @@
 
 <br>
 
-The combination of quantum computing and data science offers a solution to these limitations and has the potential to push innovation to new heights. <br>
+<p align="center"> Welcome to the Future, with Circuits and Qubits 🚀
 
-<br>
 
-The ability of quantum computing to perform complex calculations at an exponentially faster rate than classical computers presents an opportunity to speed up data science applications, including data analysis and decision-making processes.<br>
+In this post, I’m excited to share the code I used to create my first circuits and qubits using the IBM Quantum platform.
+The code is designed to create a quantum circuit with four quantum registers and four classical registers. It applies a variety of quantum gates such as Hadamard, CNOT, and Toffoli gates to the quantum registers and measures them to the classical registers. The circuit is then visualized using the CircuitComposer widget from IBM Quantum.
+IBM is at the forefront with its quantum computing laboratory, developing technologies that will revolutionize our understanding of computing. With quantum computing, we’re able to tackle problems that would be insurmountable for classical computers. ⚛︎
+We’re stepping into a New Era, and I’m eager to see where this journey will lead us…
 <br>
 
 ##### <p align="center"> [ < We Go {Q}uantum, {Q}uantum 4 All /> ](https://github.com/Quantum-Software-Development/.github/assets/113218619/b4440ebf-c015-40d2-9385-275f870bc8ed)
