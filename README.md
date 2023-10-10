@@ -59,7 +59,7 @@ To remain effective, NISQ processors need to closely work with classical co-proc
 
 
 
-## 
+## [Quantum Machine Learning Services](https://qiskit.org/learn/course/machine-learning-course)
 
 There are multiple services available, two of which the tech giants themselves provide (Google and IBM).
 
