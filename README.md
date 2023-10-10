@@ -21,8 +21,6 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62
 
 <br>
 
-
-
 ## [Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
 
 Quantum computers are becoming the next frontiers demonstrating capabilities a traditional computer cannot solve.
@@ -34,6 +32,11 @@ Quantum computing certainly works under the principle of quantum physics perform
 From drug development to weather forecasts and stock trades, quantum computers will revolutionize everything. Therefore, it should not come as a surprise as to why the world is racing to build its first quantum computer.
 
 Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology.
+
+![Futuristic-Computer-Concept](https://github.com/Quantum-Software-Development/.github/assets/113218619/c84e531b-4ab4-4ef6-9f4c-b84659f0d57f)
+
+
+
 
 
 ## What’s Quantum Data?
