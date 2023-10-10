@@ -75,7 +75,9 @@ There are multiple services available, two of which the tech giants themselves p
 
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
 
-Source: [quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
+## Source:
+
+[quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 
 
