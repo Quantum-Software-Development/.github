@@ -77,7 +77,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 ## Source:
 
-[Ana Paula Appel](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel)
+
 
 [quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
