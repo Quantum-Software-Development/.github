@@ -22,9 +22,8 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62
 <br>
 
 
-[Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
 
-## Quantum Computers: What Are They?
+## [Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
 
 Quantum computers are becoming the next frontiers demonstrating capabilities a traditional computer cannot solve.
 
