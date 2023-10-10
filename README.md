@@ -89,29 +89,6 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [quantum data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
-
-
-
-
-
-#
-
-##### <p align="center"> Quantum field Torus 
-
-<p align="center">
-<img src="https://github.com/Quantum-Sof
-  
-
-#
-
-##### <p align="center"> Quantum Magnetic Field Torus 
-
-<p align="center">
-<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/efd1e779-d915-4a9f-b8
-
-
-
-
 #
 
 #### <p align="center"> Copyright (c) 2023 Quantum Software Development
