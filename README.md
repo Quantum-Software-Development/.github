@@ -37,7 +37,7 @@ Promises around quantum computing making strides in the medical field. As a resu
 
 
 
-
+[Quantum Data](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
 ## What’s Quantum Data?
 
