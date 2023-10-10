@@ -14,7 +14,8 @@ We’re stepping into a New Era, and I’m eager to see where this journey will 
 <br>
 
 ##### <p align="center"> [ < We Go {Q}uantum, {Q}uantum 4 All /> ](https://github.com/Quantum-Software-Development/.github/assets/113218619/b4440ebf-c015-40d2-9385-275f870bc8ed)
- <br>
+
+#
 
 ### <p align="center"> Quantum Physics has Given us The Theory of Entanglement
 <br>
