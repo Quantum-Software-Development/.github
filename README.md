@@ -21,7 +21,6 @@ We’re stepping into a New Era, and I’m eager to see where this journey will 
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
 
-<br>
 
 ## [Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
 
