@@ -7,7 +7,7 @@ The combination of quantum computing and data science offers a solution to these
 
 <br>
 
-The ability of quantum computing to perform complex calculations at an exponentially faster rate than classical computers presents an opportunity to speed up data science applications, including data analysis and decision-making processes.
+The ability of quantum computing to perform complex calculations at an exponentially faster rate than classical computers presents an opportunity to speed up data science applications, including data analysis and decision-making processes.<br>
 <br>
 
 ##### <p align="center"> < We Go {Q}uantum, {Q}uantum 4 All /><br>
