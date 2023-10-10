@@ -35,8 +35,7 @@ Promises around quantum computing making strides in the medical field. As a resu
 
 ![Futuristic-Computer-Concept](https://github.com/Quantum-Software-Development/.github/assets/113218619/c84e531b-4ab4-4ef6-9f4c-b84659f0d57f)
 
-
-
+<br>
 
 ## What’s [Quantum Data](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)?
 
