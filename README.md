@@ -90,7 +90,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 #
 
-#### <p align="center"> Copyright (c) 2023 Quantum Software Development
+##### <p align="center"> Copyright (c) 2023 Quantum Software Development
 
 
 
