@@ -36,9 +36,6 @@ Promises around quantum computing making strides in the medical field. As a resu
 
 <br>
 
-
-https://github.com/Quantum-Software-Development/.github/assets/113218619/cebfaeb0-2651-4fed-b20d-d530871e0922
-
 ![Futuristic-Computer-Concept](https://github.com/Quantum-Software-Development/.github/assets/113218619/c84e531b-4ab4-4ef6-9f4c-b84659f0d57f)
 
 <br>
