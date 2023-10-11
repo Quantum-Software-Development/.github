@@ -4,22 +4,24 @@
 
 <br>
 
-The combination of quantum computing and data science offers a solution to these limitations and has the potential to push innovation to new heights. <br>
+<p align="center"> Welcome to the Future, with Circuits and Qubits 🚀
 
-<br>
 
-The ability of quantum computing to perform complex calculations at an exponentially faster rate than classical computers presents an opportunity to speed up data science applications, including data analysis and decision-making processes.<br>
+In this post, I’m excited to share the code I used to create my first circuits and qubits using the IBM Quantum platform.
+The code is designed to create a quantum circuit with four quantum registers and four classical registers. It applies a variety of quantum gates such as Hadamard, CNOT, and Toffoli gates to the quantum registers and measures them to the classical registers. The circuit is then visualized using the CircuitComposer widget from IBM Quantum.
+IBM is at the forefront with its quantum computing laboratory, developing technologies that will revolutionize our understanding of computing. With quantum computing, we’re able to tackle problems that would be insurmountable for classical computers. ⚛︎
+We’re stepping into a New Era, and I’m eager to see where this journey will lead us…
 <br>
 
 ##### <p align="center"> [ < We Go {Q}uantum, {Q}uantum 4 All /> ](https://github.com/Quantum-Software-Development/.github/assets/113218619/b4440ebf-c015-40d2-9385-275f870bc8ed)
- <br>
 
-### <p align="center"> Quantum Physics has Given us The Theory of Entanglement
+https://github.com/Quantum-Software-Development/.github/assets/113218619/cebfaeb0-2651-4fed-b20d-d530871e0922
+
 <br>
+
+## <p align="center"> Quantum Physics has Given us The Theory of Entanglement
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
-
-<br>
 
 ## [Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
 
@@ -31,7 +33,7 @@ Quantum computing certainly works under the principle of quantum physics perform
 
 From drug development to weather forecasts and stock trades, quantum computers will revolutionize everything. Therefore, it should not come as a surprise as to why the world is racing to build its first quantum computer.
 
-Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology.<br>
+Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology
 
 <br>
 
@@ -45,9 +47,15 @@ It is also referred to as any type of data that can occur in both a natural and 
 
 <br>
 
+
 [AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
 ## AI Programming Languages Involved in Quantum Computing
+
+## [AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/) Involved in Quantum Computing
+
+- Pennylane — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
+
 
 - Qiskit — an open-source library useful to quantum computers. Qiskit provides tools to create and manipulate quantum programs while running them on devices (prototyped). It functions by creating a quantum neural network using a parameterized quantum circuit through a hidden layer for the neural network.
 
@@ -73,7 +81,7 @@ There are multiple services available, two of which the tech giants themselves p
 
 
 
-## In Brief
+## For Reflection
 
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
 
@@ -87,32 +95,9 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [quantum data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
-
-
-
-
-
 #
 
-##### <p align="center"> Quantum field Torus 
-
-<p align="center">
-<img src="https://github.com/Quantum-Sof
-  
-
-#
-
-##### <p align="center"> Quantum Magnetic Field Torus 
-
-<p align="center">
-<img src="https://github.com/Quantum-Software-Development/.github/assets/113218619/efd1e779-d915-4a9f-b8
-
-
-
-
-#
-
-#### <p align="center"> Copyright (c) 2023 Quantum Software Development
+##### <p align="center"> Copyright (c) 2023 Quantum Software Development
 
 
 
