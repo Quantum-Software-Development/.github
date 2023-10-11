@@ -7,10 +7,9 @@
 <p align="center"> Welcome to the Future, with Circuits and Qubits 🚀
 
 
-In this post, I’m excited to share the code I used to create my first circuits and qubits using the IBM Quantum platform.
-The code is designed to create a quantum circuit with four quantum registers and four classical registers. It applies a variety of quantum gates such as Hadamard, CNOT, and Toffoli gates to the quantum registers and measures them to the classical registers. The circuit is then visualized using the CircuitComposer widget from IBM Quantum.
-IBM is at the forefront with its quantum computing laboratory, developing technologies that will revolutionize our understanding of computing. With quantum computing, we’re able to tackle problems that would be insurmountable for classical computers. ⚛︎
-We’re stepping into a New Era, and I’m eager to see where this journey will lead us…
+Quantum computing is a technology that uses the properties of quantum physics to overcome the limitations of conventional bits. While a bit is binary, restricted to zero and one, a qubit can represent several combinations of zero and one at the same time. This is possible thanks to the quantum property called superposition.
+
+The evolution of quantum computing promises to revolutionize the way we perform complex tasks. Imagine a future in which problems that today would take years to be solved could be solved in a matter of minutes or seconds! There is still much to be discovered and developed in the field of quantum computing, but it is certain that this technology has the potential to change the world as we know it.
 <br>
 
 ##### <p align="center"> [ < We Go {Q}uantum, {Q}uantum 4 All /> ](https://github.com/Quantum-Software-Development/.github/assets/113218619/b4440ebf-c015-40d2-9385-275f870bc8ed)
