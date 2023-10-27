@@ -13,7 +13,8 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 #### <p align="center"> [ < We Go {Q}uantum, {Q}uantum 4 All /> ](https://github.com/Quantum-Software-Development/.github/assets/113218619/b4440ebf-c015-40d2-9385-275f870bc8ed)
 <br>
 
-##
+
+## <p align="center"> 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298a-aa2c-4d89-a00f-406d738a1d64
 <br>
 
