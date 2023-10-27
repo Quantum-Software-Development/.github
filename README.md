@@ -16,7 +16,6 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 <br>
 
 ## <p align="center"> Quantum Physics has Given us The Theory of Entanglement
-
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
 
 ## [Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
