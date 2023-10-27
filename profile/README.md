@@ -18,7 +18,5 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 
 
-https://github.com/Quantum-Software-Development/.github/assets/113218619/e3eddc12-a963-4e84-ba6c-63e02907ba27
-
 
 
