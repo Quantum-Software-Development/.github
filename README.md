@@ -50,8 +50,7 @@ It is also referred to as any type of data that can occur in both a natural and 
 <br>
 
 
-[AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23
-
+[AI Quantum Programming Language]
 ## AI Programming Languages Involved in Quantum Computing
 
 ## [AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/) Involved in Quantum Computing
