@@ -47,7 +47,6 @@ Promises around quantum computing making strides in the medical field. As a resu
 
 It is also referred to as any type of data that can occur in both a natural and an artificial quantum system. Such data can be easily gathered or generated using quantum computers. The quantum data is said to exhibit entanglement and superposition that may lead to joining probable distributions. These distributions can further require an extensive amount of classical computational resources for storing purposes.
 
-<br>
 
 ## [AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/) Involved in Quantum Computing
 
@@ -58,12 +57,12 @@ It is also referred to as any type of data that can occur in both a natural and 
 
 - Pennylane — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
 
+  
 ## What’s a Hybrid Quantum-classical Model?
 
 A hybrid quantum-classical model represents and generalizes data using the quantum mechanical origin. This is because, in the near term, most quantum processors are more likely to remain noisy and small, thus making it difficult for quantum models to generalize quantum data using just the quantum processor.
 
 To remain effective, NISQ processors need to closely work with classical co-processors.
-
 
 
 ## [Quantum Machine Learning Services](https://qiskit.org/learn/course/machine-learning-course)
@@ -77,10 +76,10 @@ There are multiple services available, two of which the tech giants themselves p
 - IBM Q Experience — an online platform that allows its users from the general public access to a certain set of IBM’s prototype quantum processor using the Cloud.
 
 
-
 ## For Reflection
 
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
+
 
 ## Source:
 
