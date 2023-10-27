@@ -2,7 +2,6 @@
 
 # <p align="center"> ⚛︎ Welcome to The New Era, Welcome To Quantum !<br>
 
-## <p align="center"> Welcome to the Future, with Circuits and Qubits 🚀    
 ### <p align="center"> Step into the Future, with Circuits and Qubits 🚀
 
 
