@@ -3,6 +3,13 @@
 # <p align="center"> ⚛︎ Welcome to The New Era, Welcome To Quantum !<br>
 <br>
 
+#
+
+### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![committers.top badge](https://user-badge.committers.top/brazil/FabianaCampanari.svg)](https://user-badge.committers.top/brazil/FabianaCampanari) [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)  
+
+
+#
+
 ### <p align="center"> Step into the Future, with Circuits and Qubits 🚀
 
 Quantum computing is a technology that uses the properties of quantum physics to overcome the limitations of conventional bits. While a bit is binary, restricted to zero and one, a qubit can represent several combinations of zero and one at the same time. This is possible thanks to the quantum property called superposition.
