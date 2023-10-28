@@ -9,6 +9,18 @@ Quantum computing is a technology that uses the properties of quantum physics to
 The evolution of quantum computing promises to revolutionize the way we perform complex tasks. Imagine a future in which problems that today would take years to be solved could be solved in a matter of minutes or seconds! There is still much to be discovered and developed in the field of quantum computing, but it is certain that this technology has the potential to change the world as we know it.
 <br><br>
 
+**Superconducting - Qbits Types** 
+
+https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298a-aa2c-4d89-a00f-406d738a1d64
+
+<br>
+
+**Quantum Physics has Given us The Theory of Entanglement**
+
+https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
+
+<br>
+
 
 
 
