@@ -7,6 +7,10 @@
 ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)  
 
 
+[![Sponsor Quantum-Software-Development](https://img.shields.io/badge/Sponsor-Quantum-Software-Development-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)(https://github.com/sponsors/Quantum-Software-Development)
+
+
+
 #
 
 ### <p align="center"> Step into the Future, with Circuits and Qubits 🚀
