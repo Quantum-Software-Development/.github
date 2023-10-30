@@ -12,7 +12,7 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 #### <p align="center"> [We Go Quantum, Quantum 4 All](https://github.com/Quantum-Software-Development/.github/assets/113218619/0b823838-b3fc-406d-8608-4a3f9d3215e6)
 
-<br><br>
+<br>
 
 **Superconducting - Qbits Types** 
 
@@ -29,12 +29,6 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62
 #
 
 ### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
-
-## <p align="center">[![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
-
-
 
 
 
