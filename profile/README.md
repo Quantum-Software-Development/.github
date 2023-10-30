@@ -2,8 +2,6 @@
 
 # <p align="center"> ⚛︎ Welcome to The New Era, Embrace Quantum!<br>
 
-[![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
 
 ### <p align="center"> Step into the Future, with Circuits and Qubits 🚀
 
@@ -28,6 +26,8 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
 
 <br>
+
+#
 
 
 
