@@ -26,9 +26,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62
 
 <br>
 
-#
 
-### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
 
