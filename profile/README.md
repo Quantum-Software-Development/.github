@@ -2,6 +2,9 @@
 
 # <p align="center"> ⚛︎ Welcome to The New Era, Embrace Quantum!<br>
 
+### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="50">  [![Sponsor FabianaCampanari](https://img.shields.io/badge/Sponsor-FabianaCampanari-brightgreen?logo=GitHub)](https://github.com/sponsors/FabianaCampanari)  
+
+
 
 ### <p align="center"> Step into the Future, with Circuits and Qubits 🚀
 
