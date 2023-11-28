@@ -96,9 +96,10 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [The Quantum Insider Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
-[quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 [quantum data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
+
+[quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 #
 
