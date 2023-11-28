@@ -101,8 +101,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
-[Tensor Flow Quantum](https://github.com/tensorflow/quantum)
-
+[Tensor Flow Quantum]
 #
 
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/.github/blob/0ba3e5689fd1f18bf5ea0c9a990e56ae1674869e/LICENSE)
