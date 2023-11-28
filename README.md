@@ -85,7 +85,7 @@ There are multiple services available, two of which the tech giants themselves p
 - IBM Q Experience — an online platform that allows its users from the general public access to a certain set of IBM’s prototype quantum processor using the Cloud.
 
 
-## For Reflection
+## For Reflection https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/
 
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
 
@@ -102,6 +102,9 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 [quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 [Tensor Flow Quantum](https://www.tensorflow.org/quantum)
+
+MIT     technologyreview https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/
+
 #
 
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/.github/blob/0ba3e5689fd1f18bf5ea0c9a990e56ae1674869e/LICENSE)
