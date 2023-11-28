@@ -106,6 +106,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 MIT [Technology Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 
 
+#
 
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/.github/blob/0ba3e5689fd1f18bf5ea0c9a990e56ae1674869e/LICENSE)
 
