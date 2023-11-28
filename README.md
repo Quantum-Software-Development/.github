@@ -97,6 +97,10 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 #
 
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE)
+
+
+
 
 
 
