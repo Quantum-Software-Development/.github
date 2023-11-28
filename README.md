@@ -99,7 +99,6 @@ The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-
 
 Quantum [Data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
-DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
 
