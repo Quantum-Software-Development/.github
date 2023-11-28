@@ -58,10 +58,7 @@ It is also referred to as any type of data that can occur in both a natural and 
 
 
 - Qiskit — an open-source library useful to quantum computers. Qiskit provides tools to create and manipulate quantum programs while running them on devices (prototyped). It functions by creating a quantum neural network using a parameterized quantum circuit through a hidden layer for the neural network.
-
-- Pennylane — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
-
-  
+ 
 ## What’s a Hybrid Quantum-classical Model?
 
 A hybrid quantum-classical model represents and generalizes data using the quantum mechanical origin. This is because, in the near term, most quantum processors are more likely to remain noisy and small, thus making it difficult for quantum models to generalize quantum data using just the quantum processor.
