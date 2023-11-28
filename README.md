@@ -67,7 +67,7 @@ It is also referred to as any type of data that can occur in both a natural and 
 - Pennylane — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
 
  
-## What’s a Hybrid Quantum-classical Model? [Hybrid Quantum-classical Model?](https://www.tensorflow.org/quantum)
+## What’s a Hybrid Quantum-classical Model? 
 
 A hybrid quantum-classical model represents and generalizes data using the quantum mechanical origin. This is because, in the near term, most quantum processors are more likely to remain noisy and small, thus making it difficult for quantum models to generalize quantum data using just the quantum processor.
 
