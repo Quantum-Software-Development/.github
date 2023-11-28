@@ -94,6 +94,10 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 Ana Paula Appel [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
 
+
+DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
+
+
 The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
 
