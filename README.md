@@ -101,7 +101,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 DZone [quantum computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
-[Tensor Flow Quantum](https://www.tensorflow.org/quantum)
+Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
 
 MIT [Technology Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 
