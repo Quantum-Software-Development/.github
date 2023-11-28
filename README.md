@@ -85,7 +85,7 @@ There are multiple services available, two of which the tech giants themselves p
 - IBM Q Experience — an online platform that allows its users from the general public access to a certain set of IBM’s prototype quantum processor using the Cloud.
 
 
-## For Reflection https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/
+## 
 
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
 
