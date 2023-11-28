@@ -99,7 +99,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [quantum data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
-DZone [quantum computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
+DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
 
