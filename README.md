@@ -101,7 +101,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [quantum computing / DZone](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
-https://github.com/tensorflow/quantum
+[Tensor Flow Quantum](https://github.com/tensorflow/quantum)
 
 #
 
