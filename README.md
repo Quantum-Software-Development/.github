@@ -103,7 +103,9 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 [Tensor Flow Quantum](https://www.tensorflow.org/quantum)
 
-MIT     technologyreview https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/
+MIT      https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply
+
+technologyreview https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/
 
 #
 
