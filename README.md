@@ -111,13 +111,6 @@ Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
 
 
 
-
-The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
-
-
-
-
-
 #
 
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/.github/blob/0ba3e5689fd1f18bf5ea0c9a990e56ae1674869e/LICENSE)
