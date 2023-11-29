@@ -98,6 +98,10 @@ Ana Paula Appel [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-
 DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 
+MIT [Technology Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
+
+
+
 The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
 
