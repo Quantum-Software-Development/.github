@@ -107,6 +107,9 @@ Quantum [Data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relab
 Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
 
 
+The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+
+
 
 
 
