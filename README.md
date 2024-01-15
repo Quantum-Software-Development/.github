@@ -25,7 +25,7 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br>
 
-### **<p align="center">  
+### **<p align="center"> ** 
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78e-65fd-4570-a204-9952013edcfd
 
