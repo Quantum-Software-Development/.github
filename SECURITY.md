@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Project versions currently being supported with thsecurity updates.
+Project versions currently being supported with the following security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
