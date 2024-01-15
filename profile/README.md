@@ -17,7 +17,6 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br>
 
-https://github.com/Quantum-Software-Development/Q-Star/issues/60#issue-2082441104
 
 <br>
 
