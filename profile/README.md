@@ -33,13 +33,15 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 ### **<p align="center"> Quantum Physics has Given us The Theory of Entanglement**
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
 
-#
 
-#### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/.github/blob/0ba3e5689fd1f18bf5ea0c9a990e56ae1674869e/LICENSE)
 
 <br>
 
 ## [Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
+
+#
+
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/.github/blob/0ba3e5689fd1f18bf5ea0c9a990e56ae1674869e/LICENSE)
 
 
 
