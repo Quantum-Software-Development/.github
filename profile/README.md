@@ -15,6 +15,7 @@ Quantum computing is a technology that uses the properties of quantum physics to
 
 The evolution of quantum computing promises to revolutionize the way we perform complex tasks. Imagine a future in which problems that today would take years to be solved could be solved in a matter of minutes or seconds! There is still much to be discovered and developed in the field of quantum computing, but it is certain that this technology has the potential to change the world as we know it.<br>
 
+<br>
 
 #### <p align="center"> [We Go Quantum, Quantum 4 All](https://github.com/Quantum-Software-Development/.github/assets/113218619/0b823838-b3fc-406d-8608-4a3f9d3215e6)
 
