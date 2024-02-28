@@ -1,7 +1,7 @@
 <br>
 
-# <p align="center"> Welcome to The New Era  ⚛︎ Embrace Quantum !<br>
-<br>
+# <p align="center"> Welcome to The New Era  ⚛︎ Embrace Quantum !
+<br><br>
 
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
