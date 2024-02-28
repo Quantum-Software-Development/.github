@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> Welcome to The New Era  ⚛︎ Embrace Quantum !
+# <p align="center"> Welcome to The New Era ! Embrace Quantum !
 <br><br>
 
 
@@ -119,7 +119,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 #
 
-###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.]()
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/.github/blob/666a85f0ddf7c05eee375297da2236468454baaf/LICENSE)
 
 
 
