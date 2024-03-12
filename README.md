@@ -4,12 +4,6 @@
 <br><br>
 
 
-def fibonacci(n)
-  return n if ( 0..1 ).include? n
-  (fibonacci(n - 1) + fibonacci(n - 2)) #recursive calls
-end
-
-
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
