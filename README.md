@@ -4,6 +4,13 @@
 <br><br>
 
 
+def fibonacci(n)
+  return n if ( 0..1 ).include? n
+  (fibonacci(n - 1) + fibonacci(n - 2)) #recursive calls
+end
+
+
+
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
