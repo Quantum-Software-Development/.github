@@ -40,6 +40,8 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 ## **<p align="center"> Quantum Physics has Given us The Theory of Entanglement**
 
+<br>
+
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
 
 <br>
