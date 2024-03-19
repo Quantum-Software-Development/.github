@@ -102,7 +102,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - [MIT Technology Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 
-- [Quantum Classiq Technologies]()
+- [Quantum Classiq Technologies](https://platform.classiq.io/)
 
 
 - Quantum [Data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
