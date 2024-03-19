@@ -44,7 +44,7 @@ Quantum computers are becoming the next frontiers demonstrating capabilities a t
 
 Ever wondered how the term ‘quantum’ came into existence?
 
-Quantum computing certainly works under the principle of quantum physics perform rapid calculations using qubits and quantum bits. A total contrast of what is present in the current traditional computers.
+Quantum computing certainly works under the principle of quantum physics perform rapid calculations using qubits and quantum bits. A total contrast of what is present in the current traditional computers. A traditional classical computer works on classical physics and performs calculations using bits of all we know. But on the other hand, quantum computers can make calculations in split seconds. Wherein in the case of a classical computer, it may take tens of thousands of years to even perform such calculations.
 
 
 
