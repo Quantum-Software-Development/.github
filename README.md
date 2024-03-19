@@ -112,9 +112,9 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - TensorFlow [Quantum](https://www.tensorflow.org/quantum)
 
-- The Tensor Flow [Quantum (library for hybrid quantum-classical machine learning)](https://www.tensorflow.org/quantum)
+- The TensorFlow [Quantum (library for hybrid quantum-classical machine learning)](https://www.tensorflow.org/quantum)
 
-- [TensorFlow Quantum (TFQ)on GitHub](https://github.com/tensorflow/quantum) 
+- [TensorFlow Quantum (TFQ) on GitHub](https://github.com/tensorflow/quantum) 
 
 - [The Quantum Insider Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
