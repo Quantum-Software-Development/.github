@@ -28,10 +28,9 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78e-65fd-4570-a204-9952013edcfd
 
-
 <br>
 
-### **<p align="center"> Superconducting - Qbits Types** 
+## **<p align="center"> Superconducting - Qbits Types** 
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298a-aa2c-4d89-a00f-406d738a1d64
 
