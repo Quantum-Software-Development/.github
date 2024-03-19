@@ -103,16 +103,12 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - Ana Paula Appel [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
 
-
 - DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
-
 
 - MIT [Technology Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 
 
 - Quantum [Data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
-
-
 
 - Tensorflow [Quantum (TFQ)](https://www.tensorflow.org/quantum)
 
@@ -121,7 +117,8 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - [TensorFlow Quantum on GitHub](https://github.com/tensorflow/quantum) 
 
-- The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+- [The Quantum Insider Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+
 
 
 #
