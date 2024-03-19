@@ -4,8 +4,8 @@
 <br><br>
 
 
-
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+
 
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
@@ -58,7 +58,6 @@ From drug development to weather forecasts and stock trades, quantum computers w
 
 Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology
 
-<br>
 
 ## What’s [Quantum Data](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)?
 
@@ -113,7 +112,6 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 - [TensorFlow Quantum (TFQ) on GitHub](https://github.com/tensorflow/quantum) 
 
 - [The Quantum Insider Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
-
 
 
 #
