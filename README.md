@@ -119,7 +119,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 - The Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
 
 
-- TensorFlow Quantum on GitHub 
+- [TensorFlow Quantum on GitHub](https://github.com/tensorflow/quantum) 
 
 - The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
