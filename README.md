@@ -113,7 +113,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 - Quantum [Data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
 
-- Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
+- The Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
 
 
 - The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
