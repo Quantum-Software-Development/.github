@@ -60,10 +60,6 @@ Promises around quantum computing making strides in the medical field. As a resu
 
 <br>
 
-![Futuristic-Computer-Concept](https://github.com/Quantum-Software-Development/.github/assets/113218619/c84e531b-4ab4-4ef6-9f4c-b84659f0d57f)
-
-<br>
-
 ## What’s [Quantum Data](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)?
 
 It is also referred to as any type of data that can occur in both a natural and an artificial quantum system. Such data can be easily gathered or generated using quantum computers. The quantum data is said to exhibit entanglement and superposition that may lead to joining probable distributions. These distributions can further require an extensive amount of classical computational resources for storing purposes.
