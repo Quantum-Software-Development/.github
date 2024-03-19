@@ -11,31 +11,36 @@
 
 <br>
 
-### <p align="center"> 🛰 Step into the Future, with Circuits and Qubits 
+## <p align="center"> 🛰 Step into the Future, with Circuits and Qubits 
+
+<br>
 
 Quantum computing is a technology that uses the properties of quantum physics to overcome the limitations of conventional bits. While a bit is binary, restricted to zero and one, a qubit can represent several combinations of zero and one at the same time. This is possible thanks to the quantum property called superposition.
 
 The evolution of quantum computing promises to revolutionize the way we perform complex tasks. Imagine a future in which problems that today would take years to be solved could be solved in a matter of minutes or seconds! There is still much to be discovered and developed in the field of quantum computing, but it is certain that this technology has the potential to change the world as we know it.
 <br><br>
 
-
-
 <br>
 
-### **<p align="center"> **Commutator in Quantum Mechanics** 
+## **<p align="center"> Commutator in Quantum Mechanics </p>** 
+
+<br>
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78e-65fd-4570-a204-9952013edcfd
 
-
 <br>
 
-### **<p align="center"> Superconducting - Qbits Types** 
+## **<p align="center"> Superconducting - Qbits Types** 
+
+<br>
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298a-aa2c-4d89-a00f-406d738a1d64
 
 <br>
 
-### **<p align="center"> Quantum Physics has Given us The Theory of Entanglement**
+## **<p align="center"> Quantum Physics has Given us The Theory of Entanglement**
+
+<br>
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
 
@@ -108,7 +113,11 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 - Quantum [Data](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
 
+
 - Tensorflow [Quantum (TFQ)](https://www.tensorflow.org/quantum)
+
+- The Tensor Flow [Quantum](https://www.tensorflow.org/quantum)
+
 
 - TensorFlow Quantum on GitHub 
 
