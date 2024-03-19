@@ -33,15 +33,29 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 <br>
 
-
 ## Quantum Physics has Given us The Theory of Entanglement**
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
-
-
 
 <br>
 
 ## [Quantum Computers](https://www.ibm.com/topics/quantum-computing): What Are They?
+
+Quantum computers are becoming the next frontiers demonstrating capabilities a traditional computer cannot solve.
+
+Ever wondered how the term ‘quantum’ came into existence?
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #
 
