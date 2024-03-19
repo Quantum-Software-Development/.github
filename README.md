@@ -32,6 +32,8 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 ## **<p align="center"> Superconducting - Qbits Types** 
 
+<br>
+
 https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298a-aa2c-4d89-a00f-406d738a1d64
 
 <br>
