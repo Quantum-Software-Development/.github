@@ -1,13 +1,12 @@
 <br>
 
-# <p align="center"> ⚛︎ Welcome to The New Era ! Embrace Quantum !
+# <p align="center"> ⚛︎ Welcome to The New Era ! Embrace Quantum ! </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
 <br><br>
 
 
 ## <p align="center"> 🛰 Step into the Future, with Circuits and Qubits 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 <br>
 
