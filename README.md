@@ -7,6 +7,12 @@
 <br><br>
 
 
+ 
+$${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+ 
+$${\color{Green} \boldsymbol{E=m c^2}}$$
+
+
 ## <p align="center"> 🛰 Step into the Future, with Circuits and Qubits 
 
 <br>
