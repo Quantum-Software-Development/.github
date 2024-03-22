@@ -118,6 +118,9 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
 
+###### <p align="center"> [Copyright 2024 The Quantum Authors. Code released under the Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
+
+
 
 
 
