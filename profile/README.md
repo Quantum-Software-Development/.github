@@ -5,9 +5,9 @@
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-
 <br><br>
-## <p align="center">  
+
+### <p align="center">  
 $$
 \begin{aligned}
 & S=\frac{\left(v^2-v_0{ }^2\right)}{2 a} \quad \Delta U=A+Q \quad F=\frac{G M m}{R^2} \quad X=x m a x \cdot \cos \omega t \quad Q=\lambda m \\
