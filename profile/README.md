@@ -2,7 +2,7 @@
 
 # <p align="center">  Welcome to The New Era ! Embrace Quantum ! 🛰
 <br><br>
-### <p align="center">  
+## <p align="center">  
 $$
 \begin{aligned}
 & S=\frac{\left(v^2-v_0{ }^2\right)}{2 a} \quad \Delta U=A+Q \quad F=\frac{G M m}{R^2} \quad X=x m a x \cdot \cos \omega t \quad Q=\lambda m \\
