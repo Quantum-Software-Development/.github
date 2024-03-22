@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> ⚛︎ Welcome to The New Era ! Embrace Quantum ! 
+# <p align="center">  Welcome to The New Era ! Embrace Quantum ! 
 <br><br>
 
 
