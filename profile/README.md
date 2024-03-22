@@ -26,6 +26,7 @@ $$
 & \rho=\frac{m}{V} \\
 & F y=-k x \\
 & d \cdot \sin \phi=k \lambda \\
+& \cdot \sin \phi=k \lambda \quad v=v_0+a t \quad E=m c^2
 &
 \end{aligned}
 $$
