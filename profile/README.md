@@ -7,8 +7,8 @@
 
 <br><br>
 
-
-<img src="https://cdn.mathpix.com/snip/images/1yR5I5WYTqwCuw-i6JfwzwKd9RW2O_8HLfRp1j4w38Y.original.fullsize.png"/>
+<!-- Image Source
+<img src="https://cdn.mathpix.com/snip/images/1yR5I5WYTqwCuw-i6JfwzwKd9RW2O_8HLfRp1j4w38Y.original.fullsize.png"/>  -->
 
 ### <p align="center">  
 $$
