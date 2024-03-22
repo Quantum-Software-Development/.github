@@ -98,7 +98,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - Jack Hidary - [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
 
-- [MIT Technology Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
+- MIT Technology [Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 
 - Quantum Data - TensorFlow Quantum Design - [The TensorFlow Authors](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
 
@@ -109,9 +109,11 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
+- The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum) 
+
 - [The TensorFlow Quantum - Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum)
 
-- The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum) 
+
 
 
 
