@@ -4,8 +4,6 @@
 <br><br>
 
 
-<br>
-
 ## <p align="center"> 🛰 Step into the Future, with Circuits and Qubits 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
