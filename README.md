@@ -100,17 +100,14 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - [MIT Technology Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 
+- Quantum Data - TensorFlow Quantum Design - [The TensorFlow Authors](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
+
+
 - [Quantum Classiq Technologies](https://platform.classiq.io/)
-
-
-- Quantum Data - [TensorFlow Quantum Design](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
 - Sandbox[AQ](https://www.sandboxaq.com/)
 
 - The Quantum Insider - [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
-
-
-- The TensorFlow Authors - [Quantum Data ](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
 
 - [The TensorFlow Quantum - Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum)
 
