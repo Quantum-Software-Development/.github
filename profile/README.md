@@ -7,8 +7,7 @@ $$
 \begin{aligned}
 & S=\frac{\left(v^2-v_0{ }^2\right)}{2 a} \quad \Delta U=A+Q \quad F=\frac{G M m}{R^2} \quad X=x m a x \cdot \cos \omega t \quad Q=\lambda m \\
 & N=N_0 2^{-t / \pi} \quad A=F S \cos \alpha \quad P=\frac{F}{S} \quad \Delta d=\frac{(2 k+1) \lambda}{2} \quad \phi=\frac{P}{P_0 \cdot 100 \%} \\
-& v_2=\frac{\left(v_1+v\right)}{1+v_1 v / c^2} \quad T=2 \pi \sqrt{L C} \\
-& P=I U \\
+& v_2=\frac{\left(v_1+v\right)}{1+v_1 v / c^2} \quad T=2 \pi \sqrt{L C} \quad P=I U \\
 & E=\frac{m v^2}{2} \quad \eta=\frac{\left(Q_1-Q_2\right)}{Q_1} \\
 & F=m g \\
 & t=\frac{t_1}{\sqrt{1}}-\frac{v^2}{c^2} \quad \lambda=v T \\
