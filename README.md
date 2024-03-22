@@ -2,15 +2,13 @@
 
 # <p align="center">  Welcome to The New Era ! Embrace Quantum ! 
 
+<!-- $${\color{Green} \boldsymbol{E=m c^2}}$$  -->
+# $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+ 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 <br><br>
 
-
- 
-<!-- $${\color{Green} \boldsymbol{E=m c^2}}$$  -->
-# $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
- 
 
 
 ## <p align="center"> 🛰 Step into the Future, with Circuits and Qubits 
