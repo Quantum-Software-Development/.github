@@ -107,14 +107,16 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - [SandboxAQ](https://www.sandboxaq.com/)
 
+- The Quantum Insider - [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+
+
 - The TensorFlow Authors - [Quantum Data ](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
 
 - [The TensorFlow Quantum - Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum)
 
 - [TensorFlow Quantum (TFQ) on GitHub](https://github.com/tensorflow/quantum) 
 
-- [The Quantum Insider Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
-
+- 
 
 #
 
