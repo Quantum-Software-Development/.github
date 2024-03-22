@@ -103,7 +103,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 - [Quantum Classiq Technologies](https://platform.classiq.io/)
 
 
-- Quantum Data - [TensorFlow Quantum Design](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
+- Quantum Data - The TensorFlow Authors [TensorFlow Quantum Design](https://www.tensorflow.org/quantum/tutorials/quantum_data#2_relabeling_and_computing_pqk_features)
 
 - [SandboxAQ](https://www.sandboxaq.com/)
 
