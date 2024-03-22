@@ -114,9 +114,9 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - [The TensorFlow Quantum - Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum)
 
-- [TensorFlow Quantum (TFQ) on GitHub](https://github.com/tensorflow/quantum) 
+- The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum) 
 
-- 
+
 
 #
 
