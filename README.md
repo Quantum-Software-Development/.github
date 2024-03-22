@@ -107,7 +107,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - Sandbox[AQ](https://www.sandboxaq.com/)
 
-- The Quantum Insider - [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+- The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
 - [The TensorFlow Quantum - Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum)
 
