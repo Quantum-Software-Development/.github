@@ -22,6 +22,7 @@
 <!-- Image Source
 <img src="https://cdn.mathpix.com/snip/images/1yR5I5WYTqwCuw-i6JfwzwKd9RW2O_8HLfRp1j4w38Y.original.fullsize.png"/>  -->
 
+<!-- 
 ### <p align="center">  
 $$
 \begin{aligned}
@@ -44,9 +45,9 @@ $$
 & d \cdot \sin \phi=k \lambda \quad v=v_0+a t \quad E=m c^2
 &
 \end{aligned}
-$$
+$$ -->
 
-## <p align="center">  Step into the Future, with Circuits and Qubits 
+## <p align="center">  Step into the Future, with Circuits and Qubits 🛰️
 
 <br>
 
