@@ -6,12 +6,15 @@
 
 <br><br>
 
-<!-- $${\color{Green} \boldsymbol{E=m c^2}}$$ 
-# $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$ -->
+<!-- START QUANTUM FORMULAS
+$${\color{Green} \boldsymbol{E=m c^2}}$$ 
+# $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$ 
 
 #### <p align="center"> Entanglement:
 
 ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+
+   END QUANTUM FORMULAS -->
 
 ## $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
