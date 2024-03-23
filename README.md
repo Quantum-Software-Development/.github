@@ -6,8 +6,8 @@
 
 <br><br>
 
-<!-- $${\color{Green} \boldsymbol{E=m c^2}}$$  -->
-# $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$
+<!-- $${\color{Green} \boldsymbol{E=m c^2}}$$ 
+# $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$ -->
 
 #### <p align="center"> Entanglement:
 
