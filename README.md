@@ -2,7 +2,7 @@
 
 <!-- Start Headrer -->
 
-# <p align="center">  Welcome to The New Era 🚀 Embrace Quantum ! 
+# <p align="center">  Welcome to The New Era, Embrace Quantum! [|0⟩ e |1⟩]()
 
 <br><br>
 
