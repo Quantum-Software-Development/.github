@@ -1,51 +1,30 @@
-
-
-
 <br>
-<!--START HEARDERR -->
-## <p align="center">  Welcome to The New Era ! Embrace Quantum ! 
 
-<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+<!-- Start Headrer -->
 
-<br>
+# <p align="center">  Welcome to The New Era, Embrace Quantum! 
+
+<br><br>
+
+<!-- START QUANTUM FORMULAS
+$${\color{Green} \boldsymbol{E=m c^2}}$$ 
+# $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$ 
+
+#### <p align="center"> Entanglement:
+
+### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+
+   END QUANTUM FORMULAS -->
 
 ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-<!--END HEARDERR -->
 
+<!-- End Headrer -->
 <br><br>
 
-<!-- Image Source
-<img src="https://cdn.mathpix.com/snip/images/1yR5I5WYTqwCuw-i6JfwzwKd9RW2O_8HLfRp1j4w38Y.original.fullsize.png"/>  -->
-
-<!-- 
-### <p align="center">  
-$$
-\begin{aligned}
-& S=\frac{\left(v^2-v_0{ }^2\right)}{2 a} \quad \Delta U=A+Q \quad F=\frac{G M m}{R^2} \quad X=x m a x \cdot \cos \omega t \quad Q=\lambda m \\
-& N=N_0 2^{-t / \pi} \quad A=F S \cos \alpha \quad P=\frac{F}{S} \quad \Delta d=\frac{(2 k+1) \lambda}{2} \quad \phi=\frac{P}{P_0 \cdot 100 \%} \\
-& v_2=\frac{\left(v_1+v\right)}{1+v_1 v / c^2} \quad T=2 \pi \sqrt{L C} \quad P=I U \\
-& E=\frac{m v^2}{2} \quad \eta=\frac{\left(Q_1-Q_2\right)}{Q_1} \\
-& F=m g \\
-& t=\frac{t_1}{\sqrt{1}}-\frac{v^2}{c^2} \quad \lambda=v T \\
-& Z=\sqrt{(X c-X L)^2+R^2} \\
-& E=2 \pi k \sigma \\
-& Q=C\left(T_2-T_1\right) \\
-& F=\rho g V \\
-& P=m(g+a) \\
-& F=\frac{k q_1 q_2}{R_2} \\
-& \frac{V}{T}=\text { const } \\
-& \rho=\frac{m}{V} \\
-& F y=-k x \\
-& d \cdot \sin \phi=k \lambda \\
-& d \cdot \sin \phi=k \lambda \quad v=v_0+a t \quad E=m c^2
-&
-\end{aligned}
-$$ -->
-
-## <p align="center">  Step into the Future, with Circuits and Qubits 🛰️
+## <p align="center"> [🛰 Step into the Future, with Circuits and Qubits]() 
 
 <br>
 
@@ -151,13 +130,13 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum) 
 
+  
+
 #
 
+###### <p align="center"> [Copyright 2024 The Quantum Authors. Code released under the Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
+
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
-
-
-
-
 
 
 
