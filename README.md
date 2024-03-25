@@ -2,7 +2,7 @@
 
 <!-- Start Headrer -->
 
-# <p align="center">  Welcome to The New Era, Embrace Quantum! 
+## <p align="center">  Welcome to The New Era, Embrace Quantum! 
 
 <br><br>
 
@@ -16,7 +16,7 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
    END QUANTUM FORMULAS -->
 
-## $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
 <br>
 
