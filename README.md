@@ -6,7 +6,10 @@
 
 # <p align="center">  Welcome to The New Era, Embrace Quantum! 
 
+####  Quantum 4 All
+
 #### <p align="center"> Quantum 4 All
+
 
 <br><br>
 
