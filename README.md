@@ -8,6 +8,9 @@
 
 ####  Quantum 4 All
 
+#### <p align="center"> Quantum 4 All
+
+
 <br><br>
 
 <!-- START QUANTUM FORMULAS
