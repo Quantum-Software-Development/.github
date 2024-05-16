@@ -1,7 +1,7 @@
 
-1. Schrödinger Equation:
+## Schrödinger Equation:
 
-1. Vlasov Equation:
+ Vlasov Equation:
 PHYSICS IN
 
 $$
