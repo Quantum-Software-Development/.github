@@ -33,7 +33,7 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 <!-- End Headrer -->
 <br><br>
 
-## [🛰 Step into the Future, with Circuits and Qubits]() 
+## ** [🛰 Step into the Future, with Circuits and Qubits]()**  
 
 <br>
 
@@ -53,7 +53,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <br>
 
-## **<p align="center"> [Superconducting - Qbits Types]()** 
+## **[Superconducting - Qbits Types]()** 
 
 <br>
 
