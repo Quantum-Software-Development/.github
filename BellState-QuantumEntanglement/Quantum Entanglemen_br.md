@@ -7,6 +7,8 @@ Nesta fórmula, ∣Φ+⟩
  é o estado quântico, e ∣00⟩
  e ∣11⟩
  são estados de base. O símbolo ⟩
+ é usado para denotar um vetor em um espaço de Hilbert, que é o cenário matemático para a mecânica quântica. O sinal de mais (+) entre ∣00⟩
+
 
 
 
