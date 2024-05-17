@@ -65,7 +65,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be mathematically represented by the formula:
 
-$$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+$$\mathbf{\mathbf{}{\color |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
 
 
