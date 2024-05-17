@@ -4,7 +4,7 @@
 
 <!-- Start Headrer -->
 
-# <p align="center">  Welcome to The New Era, Embrace Quantum!
+# <p align="center">  🛰 Welcome to The New Era, Embrace Quantum!
 
 #### <p align="center">  Quantum 4 All 
 
@@ -31,7 +31,7 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 <!-- End Headrer -->
 <br><br>
 
-## [🛰 Step into the Future, with Circuits and Qubits]()
+## [Step into the Future, with Circuits and Qubits]()
 
 <br>
 
