@@ -10,7 +10,7 @@ Nesta fórmula, ∣Φ+⟩
  é usado para denotar um vetor em um espaço de Hilbert, que é o cenário matemático para a mecânica quântica. O sinal de mais (+) entre ∣00⟩
   e ∣11⟩
  indica uma superposição de estados, que é uma característica fundamental da mecânica quântica.
-O fator 2​1​ é uma constante de normalização, garantindo que a soma das probabilidades 
+O fator 2​1​ é uma constante de normalização, garantindo que a soma das probabilidades de encontrar o sistema em qualquer um dos estados de base seja 1.
  
 
 
