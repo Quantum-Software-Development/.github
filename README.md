@@ -67,6 +67,8 @@ $$\mathbf{\mathbf{}{\color |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
 
+In summary, this formula describes a state in which two qubits(the basic units of quantum information, analogous to bits in classical computing are in a superposition of being both 0 or both 1, with equal probability. This is an example of quantum entanglement, a phenomenon in which particles become interconnected in such a way that the state of one particle is immediately correlated with the state of the other , no matter how far apart they are.
+
 
 <br>
 
