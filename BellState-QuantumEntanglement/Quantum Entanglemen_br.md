@@ -14,9 +14,7 @@ O fator 2​1​ é uma constante de normalização, garantindo que a soma das p
 
 Isso é uma exigência da mecânica quântica.
 
-Em resumo, esta fórmula descreve um estado em que dois qubits (as unidades básicas de informação quântica, análogas aos bits na computação clássica estão em uma superposição de serem ambos 0 ou ambos 1, com igual probabilidade. Este é um exemplo de emaranhamento quântico, um fenômeno no qual partículas se tornam interconectadas 
-
- 
+Em resumo, esta fórmula descreve um estado em que dois qubits (as unidades básicas de informação quântica, análogas aos bits na computação clássica estão em uma superposição de serem ambos 0 ou ambos 1, com igual probabilidade. Este é um exemplo de emaranhamento quântico, um fenômeno no qual partículas se tornam interconectadas de tal forma que o estado de uma partícula 
 
 
 
