@@ -6,7 +6,7 @@
 
 # <p align="center">  Welcome to The New Era, Embrace Quantum!
 
-#### <p align="center">  Step into the Future, with Circuits and Qubits  
+### <p align="center">  Quantum 4 All 
 
 
 
