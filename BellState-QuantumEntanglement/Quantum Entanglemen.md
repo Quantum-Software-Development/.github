@@ -11,5 +11,10 @@ $$|\Phi^+\rangle$$
 
 is the quantum state, and
 
+$$|00\rangle$$
+
+
+
+
 
 
