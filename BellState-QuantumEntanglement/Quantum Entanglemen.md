@@ -5,19 +5,8 @@ $$|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$$
 
 This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
 
-In this formula,
-
-1.
-$$|\Phi^+\rangle$$ is the quantum state, and
-
-2.
-$$|00\rangle$$ are base states.
-
-3.
-The symbol
-
-$$|11\rangle$$
-
+In this formula, ∣Φ+⟩
+ is the quantum state, and ∣00⟩
 
 
 
