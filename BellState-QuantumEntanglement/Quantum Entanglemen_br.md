@@ -9,7 +9,9 @@ Nesta fórmula, ∣Φ+⟩
  são estados de base. O símbolo ⟩
  é usado para denotar um vetor em um espaço de Hilbert, que é o cenário matemático para a mecânica quântica. O sinal de mais (+) entre ∣00⟩
   e ∣11⟩
- indica uma superposição de estados, 
+ indica uma superposição de estados, que é uma característica fundamental da mecânica quântica.
+O fator 2​1​
+ 
 
 
 
