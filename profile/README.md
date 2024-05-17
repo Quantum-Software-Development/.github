@@ -130,7 +130,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
--[IBM Quantum Quiskit](https://www.ibm.com/quantum/qiskit)
+- IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
 
 - Jack Hidary - [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
 
