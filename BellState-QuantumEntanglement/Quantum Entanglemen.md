@@ -11,5 +11,6 @@ Here is the English translation of your text:
 In this formula, $$|\Phi^+\rangle$$ is the quantum state, 
 and $$|00\rangle$$ and $$|11\rangle$$ are base states.
 The symbol $$\rangle$$ is used to denote a vector in a Hilbert space, which is the mathematical setting for quantum mechanics. 
+The plus (+) sign between $$|00\rangle$$ and $$|11\rangle$$ 
 
 
