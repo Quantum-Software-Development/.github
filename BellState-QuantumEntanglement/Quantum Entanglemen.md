@@ -9,3 +9,7 @@ In this formula,
 
 $$|\Phi^+\rangle$$
 
+is the quantum state, and
+
+
+
