@@ -11,6 +11,7 @@ Nesta fórmula, ∣Φ+⟩
   e ∣11⟩
  indica uma superposição de estados, que é uma característica fundamental da mecânica quântica.
 O fator 2​1​ é uma constante de normalização, garantindo que a soma das probabilidades de encontrar o sistema em qualquer um dos estados de base seja 1. 
+
 Isso é uma exigência da mecânica quântica.
 
  
