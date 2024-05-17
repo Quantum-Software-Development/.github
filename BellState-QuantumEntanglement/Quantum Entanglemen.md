@@ -5,4 +5,7 @@ $$|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)$$
 
 This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
 
+In this formula,
+
+$$|\Phi^+\rangle$$
 
