@@ -61,7 +61,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 ## [Quantum Physics has Given us The Theory of Entanglement]()
 
-which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be [mathematically represented by the formula]():
+which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be [mathematically represented by the formula](https://github.com/Quantum-Software-Development/.github/blob/b0077a21bd295284561cef734580728f99051bd4/BellState-QuantumEntanglement/Quantum%20Entanglemen.md):
 
 $$\mathbf{\mathbf{}{\color |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
