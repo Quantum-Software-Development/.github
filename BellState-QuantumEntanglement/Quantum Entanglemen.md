@@ -11,9 +11,10 @@ In this formula,
 $$|\Phi^+\rangle$$ is the quantum state, and
 
 2.
-$$|00\rangle$$
+$$|00\rangle$$ are base states.
 
-are base states. The symbol
+3.
+The symbol
 
 $$|11\rangle$$
 
