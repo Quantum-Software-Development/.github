@@ -13,6 +13,10 @@ is the quantum state, and
 
 $$|00\rangle$$
 
+are base states. The symbol
+
+$$|11\rangle$$
+
 
 
 
