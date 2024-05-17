@@ -62,7 +62,8 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 <br>
 
 ## [Quantum Physics has Given us The Theory of Entanglement:]()
-which in quantum mechanics can be connected with the Bell State (Quantum Entanglement)
+which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be mathematically represented by the formula
+
 
 <br>
 
