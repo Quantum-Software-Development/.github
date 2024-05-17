@@ -4,9 +4,9 @@
 
 <!-- Start Headrer -->
 
-# <p align="center">  Welcome to The New Era, Embrace Quantum! 
+# <p align="center">  Welcome to The New Era, Embrace Quantum!
 
-#### <p align="center"> Quantum 4 All
+#### <p align="center">  Quantum 4 All 
 
 
 <br><br>
@@ -23,14 +23,15 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
 ### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
-
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### </p> <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
 
 <!-- End Headrer -->
 <br><br>
 
-## <p align="center"> [🛰 Step into the Future, with Circuits and Qubits]() 
+## [🛰 Step into the Future, with Circuits and Qubits]()
 
 <br>
 
@@ -42,7 +43,7 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br>
 
-## **<p align="center"> [Commutator in Quantum Mechanics]() </p>** 
+## **[Commutator in Quantum Mechanics]()** 
 
 <br>
 
@@ -50,7 +51,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <br>
 
-## **<p align="center"> [Superconducting - Qbits Type]()s** 
+## [Superconducting - Qbits Types]()
 
 <br>
 
@@ -58,7 +59,16 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 <br>
 
-## **<p align="center"> [Quantum Physics has Given us The Theory of Entanglement]()**
+## [Quantum Physics has Given us The Theory of Entanglement]()
+
+which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be [mathematically represented by the formula](https://github.com/Quantum-Software-Development/.github/blob/b0077a21bd295284561cef734580728f99051bd4/BellState-QuantumEntanglement/Quantum%20Entanglemen.md):
+
+$$\mathbf{\mathbf{}{\color |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+
+This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
+
+In summary, this formula describes a state in which two qubits(the basic units of quantum information, analogous to bits in classical computing are in a superposition of being both 0 or both 1, with equal probability. This is an example of quantum entanglement, a phenomenon in which particles become interconnected in such a way that the state of one particle is immediately correlated with the state of the other , no matter how far apart they are.
+
 
 <br>
 
