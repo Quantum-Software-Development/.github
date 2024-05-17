@@ -14,7 +14,12 @@ O fator 2​1​ é uma constante de normalização, garantindo que a soma das p
 
 Isso é uma exigência da mecânica quântica.
 
-Em resumo, esta fórmula descreve um estado 
+Em resumo, esta fórmula descreve um estado em que dois qubits (as unidades básicas de informação quântica,
+
+
+ 
+
+
 
 
 
