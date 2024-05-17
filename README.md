@@ -67,6 +67,9 @@ which in quantum mechanics can be connected with the Bell State (Quantum Entangl
 
 $$\mathbf{\mathbf{}{\color |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
+This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
+
+
 
 
 <br>
