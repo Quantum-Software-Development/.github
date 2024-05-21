@@ -4,7 +4,7 @@
 
 <!-- Start Header -->
 
-# <p align="center"> Bem-vindo à Nova Era, Abraçando o Quantum!
+# <p align="center"> Bem-vindo à Nova Era, Bem vindo ao Quantum!
 
 <br><br>
 
