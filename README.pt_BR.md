@@ -8,7 +8,7 @@
 
 <br><br>
 
-<!-- START QUANTUM FORMULAS
+<!-- INÍCIO DAS FÓRMULAS QUÂNTICAS
 
 $${\color{Green} \boldsymbol{E=m c^2}}$$
 
