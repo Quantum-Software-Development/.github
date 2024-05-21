@@ -33,6 +33,12 @@ END QUANTUM FORMULAS -->
 
 <br><br>
 
+<p align=“center”> 🛰 Entre no Futuro, com Circuitos e Qubits
+  
+<br>
+
+
+
 
 
 
