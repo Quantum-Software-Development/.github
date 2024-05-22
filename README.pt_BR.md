@@ -41,7 +41,7 @@ A computação quântica é uma tecnologia que usa as propriedades da física qu
 
 Enquanto um bit é binário, restrito a zero e um, um qubit pode representar várias combinações de zero e um ao mesmo tempo. Isso é possível graças à propriedade quântica chamada **SUPERPOSIÇÃO**.
 
-A evolução da computação quântica promete revolucionar a maneira como realizamos tarefas complexas. Imagine um futuro em que problemas que hoje levariam anos para serem resolvidos 
+A evolução da computação quântica promete revolucionar a maneira como realizamos tarefas complexas. Imagine um futuro em que problemas que hoje levariam anos para serem resolvidos poderiam ser resolvidos em questão de minutos ou segundos! 
 
 
 
