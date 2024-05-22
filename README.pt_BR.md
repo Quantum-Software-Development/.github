@@ -37,6 +37,11 @@ END QUANTUM FORMULAS -->
   
 <br>
 
+A computação quântica é uma tecnologia que usa as propriedades da física quântica para superar as limitações dos bits convencionais.
+
+Enquanto um bit é binário, restrito a zero e um, um qubit pode representar várias combinações de zero e um ao mesmo tempo. Isso é possível graças à propriedade quântica chamada **SUPERPOSIÇÃO**.
+
+
 
 
 
