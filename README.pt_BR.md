@@ -46,7 +46,7 @@ A evolução da computação quântica promete revolucionar a maneira como reali
 <br><br>
 
 
-<p align=“center”> Comutador em Mecânica Quântica </p>
+## <p align=“center”> Comutador em Mecânica Quântica </p>
 
 
 
