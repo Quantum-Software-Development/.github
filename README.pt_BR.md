@@ -54,7 +54,8 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <br>
 
-
+## <p align=“center”> Supercondutor - Tipos de Qbits
+  
 
 
 
