@@ -6,9 +6,7 @@
 
 # <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
 
-#### <p align="center">   Research and Exploration in the Field of Quantum Computing 🔬
-
-<br><br>
+#### <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
 
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
