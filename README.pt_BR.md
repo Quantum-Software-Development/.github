@@ -4,7 +4,7 @@
 
 <!-- Start Header -->
 
-# <p align="center"> Bem-vindo à Nova Era, Bem vindo ao Quantum!
+# <p align="center"> 🛰 Bem-vindo à Nova Era, Bem vindo ao Quantum!
 
 <br><br>            
 
@@ -33,7 +33,7 @@ END QUANTUM FORMULAS -->
 
 <br><br>        
 
-## <p align=“center”> 🛰 O Futuro Começa Agora com Circuitos e Qubits
+## <p align=“center”>  O Futuro Começa Agora com Circuitos e Qubits
   
 <br>
 
