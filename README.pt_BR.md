@@ -33,7 +33,7 @@ END QUANTUM FORMULAS -->
 
 <br><br>        
 
-## <p align=“center”>  O Futuro Começa Agora com Circuitos e Qubits
+## <p align=“center”> [👩🏻‍🚀 O Futuro Começa Agora com Circuitos e Qubits]()
   
 <br>
 
