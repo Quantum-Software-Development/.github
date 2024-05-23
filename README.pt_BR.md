@@ -6,7 +6,7 @@
 
 # <p align="center"> Bem-vindo à Nova Era, Bem vindo ao Quantum!
 
-<br><br>
+<br><br>            
 
 <!-- INÍCIO DAS FÓRMULAS QUÂNTICAS
 
@@ -31,7 +31,7 @@ END QUANTUM FORMULAS -->
 
 <!-- End Headrer -->
 
-<br><br>
+<br><br>        
 
 ## <p align=“center”> 🛰 Entre no Futuro, com Circuitos e Qubits
   
