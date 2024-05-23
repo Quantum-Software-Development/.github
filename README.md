@@ -33,7 +33,7 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 <!-- End Headrer -->
 <br><br>
 
-## [👩🏻‍🚀👩🏻‍🚀👩🏻‍🚀👩🏻‍🚀👩🏻‍🚀👩🏻‍🚀👩🏻‍🚀🧑🏾‍🚀👩🏻‍🚀👩🏻‍🚀👨🏽‍🚀👨🏽‍🚀👩🏻‍🚀👩🏻‍🚀👩🏻‍🚀 Step into the Future, with Circuits and Qubits]()
+## [👩🏻‍🚀 Step into the Future, with Circuits and Qubits]()
 
 <br>
 
