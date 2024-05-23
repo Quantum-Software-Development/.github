@@ -44,7 +44,7 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br><br>
 
-## **[🔄⚛️ Commutator in Quantum Mechanics]()** 
+## **[🔄⚛️ Commutator in Quantum Mechanics Formula]()** 
 
 <br>
 
