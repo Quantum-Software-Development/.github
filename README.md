@@ -23,6 +23,8 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
 ### $${\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
 
+### $${\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+
 <br>
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
