@@ -1,15 +1,13 @@
- \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
+
+  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
 
 <br>
 
 <!-- Start Headrer -->
 
-# <p align="center">  🛰 Welcome to The New Era, Embrace Quantum!
+# <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
 
-#### <p align="center">  Quantum 4 All 
-
-
-<br><br>
+#### <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
 
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
@@ -21,7 +19,9 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
    END QUANTUM FORMULAS -->
 
-### $$\mathbf{\mathbf{}{\color{Green} |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+<br>
+
+### $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
 <br>
 
@@ -29,23 +29,23 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
-<!-- End Headrer -->
 
+<!-- End Headrer -->
 <br><br>
 
-## [Step into the Future, with Circuits and Qubits]()
+## [👩🏻‍🚀 Step into the Future, with Circuits and Qubits]()
 
 <br>
 
-Quantum computing is a technology that uses the properties of quantum physics to overcome the limitations of conventional bits. While a bit is binary, restricted to zero and one, a qubit can represent several combinations of zero and one at the same time. This is possible thanks to the quantum property called superposition.
+Quantum computing is a technology that uses the properties of quantum physics to overcome the limitations of conventional bits. 
+
+While a bit is binary, restricted to zero and one, a qubit can represent several combinations of zero and one at the same time. This is possible thanks to the quantum property called **SUPERPOSITION**.
 
 The evolution of quantum computing promises to revolutionize the way we perform complex tasks. Imagine a future in which problems that today would take years to be solved could be solved in a matter of minutes or seconds! There is still much to be discovered and developed in the field of quantum computing, but it is certain that this technology has the potential to change the world as we know it.
+
 <br><br>
 
-
-<br>
-
-## **[Commutator in Quantum Mechanics]()** 
+## **[🔄⚛️ Commutator in Quantum Mechanics]()** 
 
 <br>
 
@@ -53,7 +53,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <br>
 
-## [Superconducting - Qbits Types]()
+## [🔀⚛️  Superconducting - Qbits Types]()
 
 <br>
 
@@ -61,11 +61,15 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 <br>
 
-## [Quantum Physics has Given us The Theory of Entanglement]()
+## [🔬⚛️ Quantum Physics has Given us The Theory of Entanglement]()
 
 which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be [mathematically represented by the formula](https://github.com/Quantum-Software-Development/.github/blob/b0077a21bd295284561cef734580728f99051bd4/BellState-QuantumEntanglement/Quantum%20Entanglemen.md):
 
-$$\mathbf{\mathbf{}{\color |\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}$$
+<br>
+
+$${\color{Gray} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+
+<br>
 
 This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
 
@@ -133,6 +137,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 - DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 - IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
+  
 
 - Jack Hidary - [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
 
