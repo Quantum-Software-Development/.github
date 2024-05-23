@@ -6,8 +6,7 @@
 
 # <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
 
-#### <p align="center">  Quantum 4 All 
-
+#### <p align="center"> 🔬 Quantum 4 All - Research and Exploration in the Field of Quantum Computing
 
 <br><br>
 
