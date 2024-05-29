@@ -3,6 +3,8 @@
 
 <br>
 
+ ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*
+
 <!-- Start Headrer -->
 
 # <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
