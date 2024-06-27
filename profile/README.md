@@ -11,13 +11,13 @@
 
 <!-- Start Headrer -->
 
-# <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
+## <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
 
 ### <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
 
-### <p align="center">  ***< developed with vibe, frequency & joy />*** 🪬  </p>
+#### <p align="center">  ***< developed with vibe, frequency & joy />*** 🪬  </p>
 
-###  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
