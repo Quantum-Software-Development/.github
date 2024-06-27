@@ -17,7 +17,7 @@
 
 ### <p align="center">  ***< developed with vibe, frequency & joy />*** 🪬  </p>
 
-###  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+###  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
