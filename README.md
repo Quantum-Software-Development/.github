@@ -1,20 +1,30 @@
- \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
+
+  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
 
 <br>
 
 <!--
 
-###  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*
+ ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*
 
--->
-
-
+ -->
 
 <!-- Start Headrer -->
 
 ## <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
 
-###  <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
+### <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
+
+#### <p align="center">  ***< developed with vibe, frequency & joy />*** 🪬  </p>
+
+####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+<br>
+
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
+<br>
+
 
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
@@ -25,10 +35,8 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 ### $${\color{Cyan} \mathbf{{\color{Cyan} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
    END QUANTUM FORMULAS -->
-
-<br>
-
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+   
+#
 
 <br>
 
@@ -56,15 +64,9 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br><br>
 
-## **[🔄⚛️ Commutator in Quantum Mechanics Formula]()** 
+## **[🔄⚛️ Commutator in Quantum Mechanics]()** 
 
 <br>
-
-<!--
-
-https://github.com/Quantum-Software-Development/.github/assets/113218619/8e30cecb-6f44-47ba-b16a-cac69e94a2eb
-
--->
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78e-65fd-4570-a204-9952013edcfd
 
