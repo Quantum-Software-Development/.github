@@ -40,7 +40,7 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
 <br>
 
-# $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+## $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
 <br>
 
