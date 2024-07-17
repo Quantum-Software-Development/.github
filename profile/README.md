@@ -2,9 +2,6 @@
   \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
 
 
-https://websim.ai/c/cJy1uybLmEgkMWneM
-  
-
 <br>
 
 <!--
@@ -15,7 +12,7 @@ https://websim.ai/c/cJy1uybLmEgkMWneM
 
 <!-- Start Headrer -->
 
-https://websim.ai/c/cJy1uybLmEgkMWneM
+
 
 
 
