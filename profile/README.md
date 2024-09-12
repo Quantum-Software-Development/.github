@@ -14,6 +14,12 @@
 
 
 
+https://videos.cern.ch/record/2757407
+Embed
+<iframe scrolling="no" src="https://videos.cern.ch/video/CERN-VIDEO-2021-011-001" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+
+#### [Cern - The Higgs boson, back to the basics]()
+
 
 
 # <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
