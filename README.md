@@ -2,6 +2,10 @@
 
   \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
 
+  <!-- Start Headrer -->
+
+## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
+
 <br>
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
@@ -14,9 +18,6 @@ https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
  -->
 
-<!-- Start Headrer -->
-
-## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
 
 ### <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
 
