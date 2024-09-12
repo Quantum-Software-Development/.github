@@ -6,7 +6,6 @@
 
   <!-- Start Headrer -->
 ## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
-
 ### <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
 
 <br>
@@ -23,10 +22,7 @@ https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
 
 #### <p align="center">  ***< developed with vibe, frequency & joy />*** 🪬  </p>
-
 ####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-
-<br>
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
