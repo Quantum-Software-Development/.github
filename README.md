@@ -12,7 +12,6 @@
 
 <br>
 
-$${\large\color{Green i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)$$
 
 <br>
 
@@ -50,11 +49,6 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 #
 
 <br>
-
-$${\large\color{Green} \mathbf{{\color{Green} } i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)$$
-
-
-
 
 $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
