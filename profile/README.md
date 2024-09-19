@@ -1,8 +1,6 @@
 
+
   \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
-
-
-<br>
 
 <!--
 
@@ -10,29 +8,43 @@
 
  -->
 
-<!-- Start Headrer -->
+
+  <br>
 
 
-<!--
-https://videos.cern.ch/record/2757407
-Embed
-<iframe scrolling="no" src="https://videos.cern.ch/video/CERN-VIDEO-2021-011-001" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+  <!-- Start Headrer -->
+## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
+### <p align="center">  🔬Research and Exploration in Quantum 
 
-#### [Cern - The Higgs boson, back to the basics]()
--->
-
-
-# <p align="center"> [🛰 Welcome to The New Era, Embrace Quantum!]()
-
-### <p align="center">  🔬 Research and Exploration in the Field of Quantum Computing 
-
-#### <p align="center">  ***< developed with vibe, frequency & joy />*** 🪬  </p>
-
+#### <p align="center">  ***< created with vibe, frequency & joy />*** 🪬  </p>
 ####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br>
 
+$$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
+
+
+<br>
+
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
+#
+
+<br>
+
+### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
+
+![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+
+<br>
+
+### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
+
+<br>
+
+![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
+
+https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
 <br>
 
@@ -51,7 +63,7 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
 <br>
 
-$${\Large \color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+$${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
 <br>
 
@@ -164,7 +176,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - Ana Paula Appel - [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
 
-- Black Hole [Hub]()
+- [BLack Hole Hub](https://l.instagram.com/?u=http%3A%2F%2Fblackholehub.org%2F&e=AT1PiRhdQad2RwRJ33__VCYm-jiO5pm2id_Haafme6z71BoLe9evKbbxwyiFEzpsreO8_Ypryv4TZ_l7vhMtXIT7qxMRsrZx2a678WnyT6lHlY14FGZF)
 
 - DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
