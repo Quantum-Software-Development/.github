@@ -36,8 +36,6 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 
 ![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
 
-#
-
 <br>
 
 ### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
@@ -48,7 +46,7 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
-<br><br>
+<br>
 
 
 <!-- START QUANTUM FORMULAS
@@ -95,7 +93,7 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78e-65fd-4570-a204-9952013edcfd
 
-<br>
+<br><br><br>
 
 ## [🔀⚛️  Superconducting - Qbits Types]()
 
