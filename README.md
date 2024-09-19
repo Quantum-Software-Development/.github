@@ -25,11 +25,7 @@
 #### <p align="center">  ***< developed with vibe, frequency & joy />*** 🪬  </p>
 ####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-<br>
-
-Performance of the QKNN-KNN algorithms applied in quantum computing
-
-![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+<br
 
 
 <br>
@@ -44,6 +40,12 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 <br>
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
+<br>
+
+Performance of the QKNN-KNN algorithms applied in quantum computing
+
+![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
 
 <br>
 
