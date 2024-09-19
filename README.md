@@ -16,9 +16,6 @@
 ## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
 ### <p align="center">  🔬Research and Exploration in Quantum 
 
-<br>
-
-![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
 
 <br>
 
@@ -43,6 +40,10 @@ Performance of the QKNN-KNN algorithms applied in quantum computing
 <br>
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
+
+<br>
+
+![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
 
 <br>
 
