@@ -29,6 +29,9 @@
 
 Performance of the QKNN-KNN algorithms applied in quantum computing
 
+![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+
+
 <br>
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
