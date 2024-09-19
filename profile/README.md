@@ -36,7 +36,7 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 
 ![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
 
-<br>
+#
 
 ### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
 
