@@ -16,7 +16,7 @@
 ## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
 ### <p align="center">  🔬Research and Exploration in Quantum 
 
-#### <p align="center">  ***< created with vibe, frequency & joy />*** 🪬  </p>
+#### <p align="center">  ***< made with vibe, frequency & joy />*** 🪬  </p>
 ####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br>
@@ -32,13 +32,13 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 
 <br>
 
-#### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
+### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
 
 ![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
 
-<br>
+#
 
-#### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
+### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
 
 <br>
 
