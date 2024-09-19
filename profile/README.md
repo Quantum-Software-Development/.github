@@ -48,7 +48,7 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
-<br>
+<br><br>
 
 
 <!-- START QUANTUM FORMULAS
