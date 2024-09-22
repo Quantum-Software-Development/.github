@@ -1,4 +1,6 @@
 
+## Schrödinger Equation 
+
 The Schrödinger equation is a fundamental equation in quantum mechanics that describes how the quantum state of a physical system changes over time. It was formulated by Erwin Schrödinger in 1925 and is essential for understanding the behavior of particles at the quantum level.
 
 ## Key Concepts
