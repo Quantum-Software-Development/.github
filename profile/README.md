@@ -19,13 +19,15 @@
 
 #
 
-<br><br>
-
+<br>
 
 #### <p align="center"> ☟ [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/552a1cf3142a04d192474c8e2d747f8e9162ec02/Schr%C3%B6dingeEquation.md) 
 
+<br>
+
 $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
 
+<br>
 
 ####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
