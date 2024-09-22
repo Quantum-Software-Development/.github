@@ -15,14 +15,17 @@
   <!-- Start Headrer -->
 ## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
 ### <p align="center">  🔬Research and Exploration in Quantum 
+#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-#### <p align="center">  ***< made with vibe, frequency & joy />*** 🪬  </p>
-####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+#
+
+<br>
+
+#### <p align="center"> ☟ [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) 
 
 <br>
 
 $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
-
 
 <br>
 
