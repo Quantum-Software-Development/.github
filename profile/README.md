@@ -14,11 +14,12 @@
 
   <!-- Start Headrer -->
 ## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
-### <p align="center">  🔬Research and Exploration in Quantum  #### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+### <p align="center">  🔬Research and Exploration in Quantum 
+#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+#
 
 <br>
-
-
 
 $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
 #### <p align="center"> [Schrödinger Equation]() 
