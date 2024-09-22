@@ -15,8 +15,6 @@
   <!-- Start Headrer -->
 ## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
 ### <p align="center">  🔬Research and Exploration in Quantum 
-
-#### <p align="center">  ***< made with vibe, frequency & joy />*** 🪬  </p>
 ####  <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br>
