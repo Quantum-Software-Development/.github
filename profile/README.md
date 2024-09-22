@@ -21,7 +21,7 @@
 
 <br>
 
-#### <p align="center"> ☟ [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/552a1cf3142a04d192474c8e2d747f8e9162ec02/Schr%C3%B6dingeEquation.md) 
+#### <p align="center"> ☟ [Schrödinger Equation]() 
 
 <br>
 
