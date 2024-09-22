@@ -11,7 +11,7 @@ It was formulated by Erwin Schrödinger in 1925 and is essential for understandi
 
 Time-Dependent Schrödinger Equation: This form of the equation describes how the wave function evolves over time:
 
-i\hbar \frac{\partial \Psi}{\partial t} = \hat{H} \Psi  Here, (i) is the imaginary unit, (\hbar) is the reduced Planck constant,
+$i\hbar \frac{\partial \Psi}{\partial t$ = $\hat{H} \Psi$  Here, (i) is the imaginary unit, $(\hbar)$ is the reduced Planck constant,
 
 (\frac{\partial \Psi}{\partial t}) is the partial derivative of the wave function with respect to time, and (\hat{H}) is the Hamiltonian operator, which represents the total energy of the system.
 
