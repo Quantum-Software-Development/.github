@@ -15,4 +15,4 @@ Time-Independent Schrödinger Equation: When the potential energy in the system 
 
 
 ## Importance
-The Schrödinger equation is crucial because it allows us to predict the behavior of particles at the quantum level, such as electrons in an atom. It provides a way to calculate the probability of finding a particle in a particular state, which is essential for understanding phenomena like chemical bonding and the properties of materials12.
+The Schrödinger equation is crucial because it allows us to predict the behavior of particles at the quantum level, such as electrons in an atom. It provides a way to calculate the probability of finding a particle in a particular state, which is essential for understanding phenomena like chemical bonding and the properties of materials.
