@@ -1,6 +1,5 @@
 
-
-  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
 ##### CERN-VIDEO-2021-011-001-1080p
