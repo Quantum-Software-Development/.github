@@ -9,6 +9,20 @@
 #### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 
+<br>
+
+#### <p align="center"> ☟ [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) 
+
+<br>
+
+$$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
+
+<br>
+
+####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
+
+
+
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
@@ -32,17 +46,6 @@
 
 #
 
-<br>
-
-#### <p align="center"> ☟ [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) 
-
-<br>
-
-$$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
-
-<br>
-
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 #
 
