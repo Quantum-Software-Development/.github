@@ -3,6 +3,13 @@
 
 
 
+  <!-- Start Headrer -->
+## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
+### <p align="center">  🔬Research and Exploration in Quantum 
+#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+
+
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
 
@@ -22,10 +29,6 @@
 
 
 
-  <!-- Start Headrer -->
-## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
-### <p align="center">  🔬Research and Exploration in Quantum 
-#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 #
 
