@@ -2,9 +2,12 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
-#### CERN Video 
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
+ 
+#### CERN Video 
+
+#### <p align="center">
 
 
 
