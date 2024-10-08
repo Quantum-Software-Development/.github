@@ -24,8 +24,32 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 <br>
 
 
+#### <p align="center"> ☟ [Entanglement Equation]()
 
-$${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+$${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$   🌀.
+$${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$   🌀.📐
+
+
+
+<!--
+The superposition principle in quantum mechanics states that a quantum system can exist simultaneously in multiple states until it is measured. The mathematical representation of superposition is given by:
+
+\[
+|\psi\rangle = \sum_{i} c_i | \phi_i \rangle
+\]
+
+In this equation, \( |\psi\rangle \) represents the total quantum state of the system, while \( | \phi_i \rangle \) are the basis states that span the state space of the system. The coefficients \( c_i \) are complex numbers that signify the contribution of each basis state to the overall state. The absolute square of these coefficients, \( |c_i|^2 \), gives the probability of finding the system in the state \( | \phi_i \rangle \) upon measurement.
+
+Entanglement, on the other hand, is a phenomenon that occurs in quantum mechanics when two or more particles become correlated in such a way that the state of one particle cannot be described independently of the state of the other(s), even when the particles are separated by large distances. In the context of entangled states, the combined state of multiple particles can be expressed as:
+
+\[
+|\psi\rangle_{AB} = \sum_{i,j} c_{ij} | \phi_i \rangle_A \otimes | \chi_j \rangle_B
+\]
+
+Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two distinct quantum systems A and B, respectively. The coefficients \( c_{ij} \) again determine the probabilities of the combined states. Importantly, if A and B are entangled, measurements made on A will instantaneously affect the state of B, and vice versa, regardless of the distance separating them. This non-locality is one of the peculiar aspects of quantum mechanics that challenges classical intuitions about separability and independence.
+
+-->
+
 
 <br>
 
