@@ -37,6 +37,11 @@ $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2
  ### <p align="center">    🔄  [Superposition Equation]()
 
 
+$$|\psi\rangle = \sum_{i} c_i | \phi_i \rangle$$
+
+
+
+
 
 <!--
 The superposition principle in quantum mechanics states that a quantum system can exist simultaneously in multiple states until it is measured. The mathematical representation of superposition is given by:
