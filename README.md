@@ -40,7 +40,7 @@ $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2
  ### <p align="center">    🔄  [Superposition Equation]()
 
 
-$$|\psi\rangle = \sum_{i} c_i | \phi_i \rangle$$
+$$\huge \color{green} {\color{green} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
 
 
