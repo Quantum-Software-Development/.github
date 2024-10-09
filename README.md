@@ -26,10 +26,14 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 <br>
 
 
-### <p align="center">    🌀 [Entanglement Equation]()
+### <p align="center">    🪢  [Entanglement Equation]()
 
 
 $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$   
+
+<br>
+
+ ### <p align="center">    🔄  [Superposition Equation]()
 
 
 
