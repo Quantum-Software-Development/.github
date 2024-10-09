@@ -29,7 +29,7 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 
 <br>
 
-$${\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
+$$\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
 
 #
 
