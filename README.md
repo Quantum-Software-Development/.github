@@ -18,7 +18,6 @@
 
 #### <p align="center">   [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) 
 
-<b
 $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
 
 #
