@@ -33,6 +33,8 @@ $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2
 
 #
 
+<br>
+
 ##### <p align="center">  🔄  [Superposition Equation]()
 $$\huge \color{green} {\color{green} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
