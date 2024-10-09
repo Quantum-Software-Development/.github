@@ -30,14 +30,13 @@ $$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r
 <br>
 
 
-### <p align="center">    🪢  [Entanglement Equation]()
+### <p align="center">    🪢  [Entanglement Equation
 
+<br>
 
 $${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$   
 
 <br>
-
-
 
 
 $$\huge \color{green} {\color{green} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
@@ -64,17 +63,9 @@ Entanglement, on the other hand, is a phenomenon that occurs in quantum mechanic
 \]
 
 Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two distinct quantum systems A and B, respectively. The coefficients \( c_{ij} \) again determine the probabilities of the combined states. Importantly, if A and B are entangled, measurements made on A will instantaneously affect the state of B, and vice versa, regardless of the distance separating them. This non-locality is one of the peculiar aspects of quantum mechanics that challenges classical intuitions about separability and independence.
-
 -->
 
-
-<br>
-
-
-
-
-
-
+<br><br>
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
