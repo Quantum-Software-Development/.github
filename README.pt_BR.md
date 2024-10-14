@@ -135,6 +135,18 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 <br>
 
+## [🔬⚛️ A Física Quântica nos Deu a Teoria do Emaranhamento]()
+
+que na mecânica quântica pode ser conectada com o Estado de Bell (Emaranhamento Quântico), que pode ser [representado matematicamente pela fórmula](https://github.com/Quantum-Software-Development/.github/blob/b0077a21bd295284561cef734580728f99051bd4/BellState-QuantumEntanglement/Quantum%20Entanglemen.md):
+
+<br>
+
+$${\color{Gray} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
+
+<br>
+
+
+
 
 
 
