@@ -1,5 +1,68 @@
 
-  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸English](README.md)**\]
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
+
+<br><br>
+
+  <!-- Start Headrer -->
+## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
+#### <p align="center">  🔬Research and Exploration in Quantum  ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+<br><br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+<br>
+
+#
+
+<br>
+
+#### <p align="center">   [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) 
+$$\huge  \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
+
+#
+
+<br>
+
+#### <p align="center">     [Entanglement Equation]()
+$$\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
+
+#
+
+<br>
+
+#### <p align="center">   [Superposition Equation]()
+$$\huge \color{green} {\color{green} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
+
+
+
+<!--
+The superposition principle in quantum mechanics states that a quantum system can exist simultaneously in multiple states until it is measured. The mathematical representation of superposition is given by:
+
+\[
+|\psi\rangle = \sum_{i} c_i | \phi_i \rangle
+\]
+
+In this equation, \( |\psi\rangle \) represents the total quantum state of the system, while \( | \phi_i \rangle \) are the basis states that span the state space of the system. The coefficients \( c_i \) are complex numbers that signify the contribution of each basis state to the overall state. The absolute square of these coefficients, \( |c_i|^2 \), gives the probability of finding the system in the state \( | \phi_i \rangle \) upon measurement.
+
+Entanglement, on the other hand, is a phenomenon that occurs in quantum mechanics when two or more particles become correlated in such a way that the state of one particle cannot be described independently of the state of the other(s), even when the particles are separated by large distances. In the context of entangled states, the combined state of multiple particles can be expressed as:
+
+\[
+|\psi\rangle_{AB} = \sum_{i,j} c_{ij} | \phi_i \rangle_A \otimes | \chi_j \rangle_B
+\]
+
+Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two distinct quantum systems A and B, respectively. The coefficients \( c_{ij} \) again determine the probabilities of the combined states. Importantly, if A and B are entangled, measurements made on A will instantaneously affect the state of B, and vice versa, regardless of the distance separating them. This non-locality is one of the peculiar aspects of quantum mechanics that challenges classical intuitions about separability and independence.
+-->
+
+<br><br>
+
+ https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
+
+
+#### <p align="center">
+
+
 
 <!--
 
@@ -9,26 +72,6 @@
 
 
   <br>
-
-
-  <!-- Start Headrer -->
-# <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
-### <p align="center">  🔬Research and Exploration in Quantum 
-#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-
-#
-
-<br>
-
-### <p align="center"> ☟ [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) 
-
-<br>
-
-$$\large \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
-
-<br>
-
-####  <p align="center"> [![Top GitHub Users](https://github.com/gayanvoice/top-github-users/actions/workflows/action.yml/badge.svg)](https://github.com/gayanvoice/top-github-users/blob/a21ad6fb4c8e302f4caebc5262554259e58aeceb/markdown/public_contributions/brazil.md)  
 
 #
 
@@ -50,7 +93,6 @@ https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
 <br>
 
-
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
 # $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$ 
@@ -62,18 +104,6 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
    END QUANTUM FORMULAS -->
    
 #
-
-<br>
-
-$${\large\color{Green} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
-
-<br>
-
-<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
-
-
 <!-- End Headrer -->
 <br><br>
 
