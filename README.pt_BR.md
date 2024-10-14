@@ -1,9 +1,3 @@
- \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
-
-
-Aqui está a tradução para o português mantendo o markdown:
-
----
 
 \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
