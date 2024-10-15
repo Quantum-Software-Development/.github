@@ -180,6 +180,18 @@ Também se refere a qualquer tipo de dado que pode ocorrer tanto em um sistema q
 
  
 
+## [O Que é um Modelo Híbrido Quântico-clássico?](https://www.tensorflow.org/quantum)
+
+Um modelo híbrido quântico-clássico representa e generaliza dados usando a origem mecânica quântica. Isso porque, no curto prazo, a maioria dos processadores quânticos provavelmente continuará ruidosa e pequena, dificultando que os modelos quânticos generalizem dados quânticos apenas usando o processador quântico.
+
+Para permanecerem eficazes, os processadores NISQ precisam trabalhar de perto com coprocessadores clássicos.
+
+## [Serviços de Aprendizado de Máquina Quântica](https://qiskit.org/learn/course/machine-learning-course)
+
+Existem vários serviços disponíveis, dois dos quais são oferecidos por gigantes da tecnologia (Google e IBM).
+
+
+
 
 
 
