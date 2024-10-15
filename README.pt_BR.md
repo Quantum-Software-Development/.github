@@ -197,19 +197,12 @@ Existem vários serviços disponíveis, dois dos quais são oferecidos por gigan
 - IBM Q Experience — uma plataforma online que permite que seus usuários do público geral acessem um conjunto de processadores quânticos protótipos da IBM usando a nuvem.
 
 
+## [Para Reflexão](https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/)
+
+Apesar de estar em estágio inicial, a computação quântica conseguiu gerar grande expectativa na indústria. Resolver o impossível em segundos é o que a computação quântica promete ao mundo.
 
 
-
-
-
-
-
-
-
-
-
-
-
+## [Fonte:]()
 
 
 
