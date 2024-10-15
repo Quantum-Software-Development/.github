@@ -165,7 +165,12 @@ A computação quântica certamente funciona sob o princípio da física quânti
 
 Do desenvolvimento de medicamentos às previsões do tempo e negociações de ações, os computadores quânticos revolucionarão tudo. Portanto, não deve ser surpresa o motivo pelo qual o mundo está correndo para construir seu primeiro computador quântico.
 
+Promessas em torno da computação quântica estão avançando no campo médico. Como resultado, isso pode permitir que especialistas e profissionais de IA trabalhando na área obtenham o máximo benefício da tecnologia.
 
+
+## [O Que é Dados Quânticos?](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+
+Também se refere a qualquer tipo de dado que pode ocorrer tanto em um sistema quântico natural quanto artificial. Esses dados podem ser facilmente coletados ou gerados usando computadores quânticos. Diz-se que os dados quânticos exibem emaranhamento e superposição, o que pode levar à união de distribuições prováveis. Essas distribuições podem exigir uma quantidade extensa de recursos computacionais clássicos para fins de armazenamento.
 
 
 
