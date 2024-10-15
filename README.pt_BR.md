@@ -170,7 +170,26 @@ Promessas em torno da computação quântica estão avançando no campo médico.
 
 ## [O Que é Dados Quânticos?](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
-Também se refere a qualquer tipo de dado que pode ocorrer tanto em um sistema quântico natural quanto artificial. Esses dados podem ser facilmente coletados ou gerados usando computadores quânticos. Diz-se que os dados quânticos exibem emaranhamento e superposição, o que pode levar à união de distribuições prováveis. Essas distribuições podem exigir uma quantidade extensa de recursos computacionais clássicos para fins de armazenamento.
+Também se refere a qualquer tipo de dado que pode ocorrer tanto em um sistema quântico natural quanto artificial. Esses dados podem ser facilmente coletados ou gerados usando computadores quânticos. Diz-se que os dados quânticos exibem emaranhamento e superposição, o que pode levar à união de distribuições prováveis. Essas distribuições podem exigir uma quantidade extensa de recursos computacionais clássicos para fins de armazenamento
+
+## [Linguagem de Programação Quântica de IA](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+
+- Qiskit — uma biblioteca de código aberto útil para computadores quânticos. O Qiskit fornece ferramentas para criar e manipular programas quânticos enquanto os executa em dispositivos (prototipados). Ele funciona criando uma rede neural quântica usando um circuito quântico parametrizado por meio de uma camada oculta para a rede neural.
+
+- Pennylane — uma biblioteca escrita em Python que pode ser facilmente integrada ao Qiskit. Essa ferramenta ajuda a realizar a mudança de parâmetros em meio à otimização de descida de gradiente, o que leva à descida de gradiente quântica.
+
+ 
+## [O Que é um Modelo Híbrido Quântico-clássico?](https://www.tensorflow.org/quantum)
+
+Um modelo híbrido quântico-clássico representa e generaliza dados usando a origem mecânica quântica. Isso porque, no curto prazo, a maioria dos processadores quânticos provavelmente continuará ruidosa e pequena, dificultando que os modelos quânticos generalizem dados quânticos apenas usando o processador quântico.
+
+Para permanecerem eficazes, os processadores NISQ precisam trabalhar de perto com coprocessadores clássicos.
+
+
+
+
+
+
 
 
 
