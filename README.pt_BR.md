@@ -179,11 +179,10 @@ Também se refere a qualquer tipo de dado que pode ocorrer tanto em um sistema q
 - Pennylane — uma biblioteca escrita em Python que pode ser facilmente integrada ao Qiskit. Essa ferramenta ajuda a realizar a mudança de parâmetros em meio à otimização de descida de gradiente, o que leva à descida de gradiente quântica.
 
  
-## [O Que é um Modelo Híbrido Quântico-clássico?](https://www.tensorflow.org/quantum)
 
-Um modelo híbrido quântico-clássico representa e generaliza dados usando a origem mecânica quântica. Isso porque, no curto prazo, a maioria dos processadores quânticos provavelmente continuará ruidosa e pequena, dificultando que os modelos quânticos generalizem dados quânticos apenas usando o processador quântico.
 
-Para permanecerem eficazes, os processadores NISQ precisam trabalhar de perto com coprocessadores clássicos.
+
+
 
 
 
