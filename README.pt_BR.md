@@ -190,6 +190,12 @@ Para permanecerem eficazes, os processadores NISQ precisam trabalhar de perto co
 
 Existem vários serviços disponíveis, dois dos quais são oferecidos por gigantes da tecnologia (Google e IBM).
 
+- Forest — este serviço é oferecido pela Rigetti Computing. Este conjunto de ferramentas inclui ferramentas de desenvolvimento e linguagens de programação.
+
+- Xanadu — uma nuvem baseada em hardware iniciada por uma startup canadense. Este processador pode lidar com chips de 8, 12 e 24 qubits.
+
+- IBM Q Experience — uma plataforma online que permite que seus usuários do público geral acessem um conjunto de processadores quânticos protótipos da IBM usando a nuvem.
+
 
 
 
