@@ -229,6 +229,12 @@ Apesar de estar em estágio inicial, a computação quântica conseguiu gerar gr
 
 - The TensorFlow Quantum - [(TFQ) no GitHub](https://github.com/tensorflow/quantum)
 
+  
+
+<br><br>
+
+<p align="center"> <a href="#top">Voltar ao Topo da Página</a>
+
   #
 
 ###### <p align="center"> [Copyright 2024 Os Autores Quânticos. Código liberado sob a licença Apache-2.0.](https://www.apache.org/licenses/LICENSE-2.0)
