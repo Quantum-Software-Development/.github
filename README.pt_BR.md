@@ -217,6 +217,24 @@ Apesar de estar em estágio inicial, a computação quântica conseguiu gerar gr
 
 - MIT Technology [Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 
+- Quantum Classiq [Technologies](https://platform.classiq.io/)
+
+- Quantum Data - TensorFlow Quantum Design - [Os Autores do TensorFlow](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
+
+- Sandbox[AQ](https://www.sandboxaq.com/)
+
+- The Quantum Insider [Revista](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+
+- The TensorFlow Quantum - [Biblioteca para Aprendizado de Máquina Híbrido Quântico-clássico](https://www.tensorflow.org/quantum)
+
+- The TensorFlow Quantum - [(TFQ) no GitHub](https://github.com/tensorflow/quantum)
+
+  
+
+
+
+
+
 
 
 
