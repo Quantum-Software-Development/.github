@@ -204,5 +204,40 @@ Apesar de estar em estágio inicial, a computação quântica conseguiu gerar gr
 
 ## [Fonte:]()
 
+- Ana Paula Appel - [Embaixadora Quântica na IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
+
+- [BLack Hole Hub](https://l.instagram.com/?u=http%3A%2F%2Fblackholehub.org%2F&e=AT1PiRhdQad2RwRJ33__VCYm-jiO5pm2id_Haafme6z71BoLe9evKbbxwyiFEzpsreO8_Ypryv4TZ_l7vhMtXIT7qxMRsrZx2a678WnyT6lHlY14FGZF)
+
+- DZone [Computação Quântica](https://dzone.com/articles/the-quantum-machine-learning-hype)
+
+- IBM Quantum [Qiskit](https://www.ibm.com/quantum/qiskit)
+  
+
+- Jack Hidary - [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
+
+- MIT Technology [Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
