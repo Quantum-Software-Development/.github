@@ -1,49 +1,11 @@
 \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
 
 
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br><br>
 
   <!-- Início do Cabeçalho -->
 ## <p align="center"> [🛰 Bem-vindo à Nova Era do Quantum!]()
-#### <p align="center">  🔬Pesquisa e Exploração em Quantum  ##### <p align="center">  por [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+#### <p align="center">  🔬Pesquisa e Exploração em Quantum  <p align="center">  por [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br><br>
 
