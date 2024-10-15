@@ -147,9 +147,7 @@ $${\color{Gray} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\
 
 Esse fenômeno permite que partículas distantes interajam instantaneamente, desafiando noções clássicas de espaço e tempo.
 
-Em resumo, essa fórmula descreve um estado em que dois qubits (as unidades básicas de informação quântica, análogas aos bits na computação clássica) estão em uma superposição de serem ambos 0 ou ambos 1, com probabilidade igual. Este é um exemplo de emaranhamento quântico, um fenômeno em que partículas se tornam interconectadas de tal maneira
-
- que o estado de uma delas não pode ser descrito independentemente do estado da outra.
+Em resumo, essa fórmula descreve um estado em que dois qubits (as unidades básicas de informação quântica, análogas aos bits na computação clássica) estão em uma superposição de serem ambos 0 ou ambos 1, com probabilidade igual. Este é um exemplo de emaranhamento quântico, um fenômeno em que partículas se tornam interconectadas de tal maneira que o estado de uma delas não pode ser descrito independentemente do estado da outra.
 
 <br><br><br>
 
@@ -158,6 +156,17 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62
 <br>
 
 ## [Computadores Quânticos: O Que São?](https://www.ibm.com/topics/quantum-computing)
+
+Os computadores quânticos estão se tornando as próximas fronteiras, demonstrando capacidades que um computador tradicional não pode resolver.
+
+Já se perguntou como o termo 'quântico' surgiu?
+
+A computação quântica certamente funciona sob o princípio da física quântica, realizando cálculos rápidos usando qubits e bits quânticos. Um total contraste com o que existe nos computadores tradicionais atuais. Um computador clássico tradicional trabalha com a física clássica e realiza cálculos usando bits que todos conhecemos. Mas, por outro lado, os computadores quânticos podem realizar cálculos em frações de segundos. Enquanto que, no caso de um computador clássico, pode levar dezenas de milhares de anos para realizar tais cálculos.
+
+Do desenvolvimento de medicamentos às previsões do tempo e negociações de ações, os computadores quânticos revolucionarão tudo. Portanto, não deve ser surpresa o motivo pelo qual o mundo está correndo para construir seu primeiro computador quântico.
+
+
+
 
 
 
