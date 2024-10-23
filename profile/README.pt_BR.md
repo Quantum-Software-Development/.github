@@ -57,6 +57,8 @@ Aqui, \( | \phi_i \rangle_A \) e \( | \chi_j \rangle_B \) são estados de dois s
 
 <br><br>
 
+###  <p align="center"> Vídeo produzido pelo CERN.
+
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
 
