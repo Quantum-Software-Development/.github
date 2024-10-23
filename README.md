@@ -61,6 +61,8 @@ Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two di
 
 <br><br>
 
+###  <p align="center"> Video from CERN
+
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
 
