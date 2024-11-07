@@ -13,6 +13,13 @@
 
 <br><br>
 
+###  <p align="center"> CERN produced video.
+
+ https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
+
+
+<br><br>
+
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
@@ -58,15 +65,6 @@ Entanglement, on the other hand, is a phenomenon that occurs in quantum mechanic
 
 Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two distinct quantum systems A and B, respectively. The coefficients \( c_{ij} \) again determine the probabilities of the combined states. Importantly, if A and B are entangled, measurements made on A will instantaneously affect the state of B, and vice versa, regardless of the distance separating them. This non-locality is one of the peculiar aspects of quantum mechanics that challenges classical intuitions about separability and independence.
 -->
-
-<br><br>
-
-###  <p align="center"> CERN produced video.
-
- https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
-
-
-#### <p align="center">
 
 
 
