@@ -9,6 +9,10 @@
 
 <br><br>
 
+ https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
+
+<br><br>
+
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Patrocinar Desenvolvimento de Software Quantum](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
@@ -56,15 +60,6 @@ O emaranhamento, por outro lado, é um fenômeno que ocorre na mecânica quânti
 
 Aqui, \( | \phi_i \rangle_A \) e \( | \chi_j \rangle_B \) são estados de dois sistemas quânticos distintos A e B, respectivamente. Os coeficientes \( c_{ij} \) novamente determinam as probabilidades dos estados combinados. Importante, se A e B estão emaranhados, medições feitas em A afetarão instantaneamente o estado de B, e vice-versa, independentemente da distância que os separa. Esta não-localidade é um dos aspectos peculiares da mecânica quântica que desafia as intuições clássicas sobre separabilidade e independência.
 -->
-
-<br><br>
-
- https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
-
-
-#### <p align="center">
-
-
 
 <!--
 
