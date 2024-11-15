@@ -6,6 +6,14 @@
 
   <!-- Start Headrer -->
 ## <p align="center"> [🛰 Welcome to The New Era of Quantum!]()
+
+
+![_Q apresentacao (1)](https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c)
+
+
+
+
+
 #### <p align="center">  🔬Research and Exploration in Quantum 
 ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
