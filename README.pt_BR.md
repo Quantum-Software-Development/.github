@@ -1,20 +1,46 @@
+\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
-\[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
+
+<br><br>
+
+  <!-- Start Header -->
+
+## <p align="center"> ⚛️ Welcome to a New Era: Quantum 4 All — [From Dark to Light]()
+
+
+<br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>
+
+<br>
+
+#### <p align="center">  🔬Research and Exploration in Quantum Computing
+##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br><br>
 
-  <!-- Início do Cabeçalho -->
-## <p align="center"> [🛰 Bem-vindo à Nova Era do Quantum!]()
-#### <p align="center">  🔬Pesquisa e Exploração em Quantum  ##### <p align="center">  por [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+Na **Quantum Software Development**, convidamos você a explorar o potencial ilimitado da tecnologia quântica—um campo onde a física clássica cede lugar às forças misteriosas e poderosas em nível quântico.
+
+**Quantum 4 All** é mais do que um lema; é um compromisso em tornar a computação quântica acessível a todos. Nosso objetivo é desmantelar as barreiras que restringem o acesso a este campo transformador, proporcionando um espaço para que estudantes e especialistas possam se envolver, descobrir e inovar. A inclusão e o empoderamento impulsionam nossa missão, criando oportunidades para que todos façam parte dessa nova era quântica.
+
+"Em pé à beira dessa transformação, o Desenvolvimento de Software Quântico imagina um futuro onde avanços quânticos resolvem os maiores desafios da humanidade, desde a melhoria da cibersegurança até a abertura de novas possibilidades na tecnologia. A jornada da escuridão à luz começa aqui.
+
+Junte-se a nós enquanto moldamos o futuro da computação quântica. **Bem-vindo ao Quantum 4 All, onde a fronteira quântica aguarda.**"
+
 
 <br><br>
+
+###  <p align="center"> O vídeo foi produzido pelo CERN.
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
 <br><br>
 
+
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Patrocinar Desenvolvimento de Software Quantum](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 <br>
 
@@ -26,13 +52,6 @@
 $$\huge  \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
-
-#
-
-<br>
-
-#### <p align="center">     [Equação de Emaranhamento]()
-$$\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
 
 #
 
@@ -61,6 +80,14 @@ O emaranhamento, por outro lado, é um fenômeno que ocorre na mecânica quânti
 Aqui, \( | \phi_i \rangle_A \) e \( | \chi_j \rangle_B \) são estados de dois sistemas quânticos distintos A e B, respectivamente. Os coeficientes \( c_{ij} \) novamente determinam as probabilidades dos estados combinados. Importante, se A e B estão emaranhados, medições feitas em A afetarão instantaneamente o estado de B, e vice-versa, independentemente da distância que os separa. Esta não-localidade é um dos aspectos peculiares da mecânica quântica que desafia as intuições clássicas sobre separabilidade e independência.
 -->
 
+<br><br>
+
+###  <p align="center"> Vídeo produzido pelo CERN.
+
+ https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
+
+
+
 <!--
 
  ☆•.,¸,.•.🎶*F̘͍͖ͫ͘r̴̨̦͕̝ẹ̿͋̒̕ẹ̿͋̒̕ḑ̴̞͛̒o̯̱̊͊͢ṇ̤͛̒̍ o̯̱̊͊͢f̵͖̜̉ͅ S̵̙͕̀̃p̞̈͑̚͞ẹ̿͋̒̕ẹ̿͋̒̕c͕͗ͤ̕̕ḣ̖̻͛̓+*🎶 *¯`•.,¸,.•*
@@ -85,7 +112,6 @@ Aqui, \( | \phi_i \rangle_A \) e \( | \chi_j \rangle_B \) são estados de dois s
 <br>
 
 ![profundidade](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
-
 
 
 <br>
@@ -226,6 +252,12 @@ Apesar de estar em estágio inicial, a computação quântica conseguiu gerar gr
 
 - The TensorFlow Quantum - [(TFQ) no GitHub](https://github.com/tensorflow/quantum)
 
+
+
+<br><br>
+
+<p align="center"> <a href="#top">Voltar ao Topo da Página</a>
+
   #
 
 ###### <p align="center"> [Copyright 2024 Os Autores Quânticos. Código liberado sob a licença Apache-2.0.](https://www.apache.org/licenses/LICENSE-2.0)
@@ -233,6 +265,10 @@ Apesar de estar em estágio inicial, a computação quântica conseguiu gerar gr
 ###### <p align="center"> [Copyright 2024 Quantum Software Development. Código liberado sob a licença Apache-2.0.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
 
   
+
+
+
+
 
 
 
