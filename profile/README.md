@@ -3,9 +3,25 @@
 
 <br><br>
 
-  <!-- Start Headrer -->
+  <!-- Start Header -->
 
 ## <p align="center"> ⚛️ Welcome to a New Era: Quantum 4 All — [From Dark to Light]()
+
+
+<br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>
+
+<br>
+
+#### <p align="center">  🔬Research and Exploration in Quantum Computing
+##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+<br><br>
+
+
+
 #### <p align="center"> 🔬 Research and Development in Quantum by Quantum Software Development
 ##### <p align="center"> by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
