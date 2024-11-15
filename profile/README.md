@@ -21,10 +21,6 @@
 <br><br>
 
 
-
-#### <p align="center"> 🔬 Research and Development in Quantum by Quantum Software Development
-##### <p align="center"> by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-
 At **Quantum Software Development**, we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
 
 **Quantum 4 All** is more than just a motto; it’s a commitment to making quantum computing accessible to everyone. We aim to dismantle the barriers that have restricted access to this transformative field, providing a space for learners and experts alike to engage, discover, and innovate. Inclusivity and empowerment drive our mission, creating opportunities for all to be part of this new quantum era.
