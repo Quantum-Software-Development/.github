@@ -4,7 +4,7 @@
 <br><br>
 
   <!-- Start Headrer -->
-## <p align="center"> 🛰 Welcome to Quantum 4 All: A New Era in Quantum!
+## <p align="center"> ⚛️ Welcome to a New Era: Quantum 4 All — Dark to Light
 #### <p align="center">  🔬Research and Exploration in Quantum  ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 
