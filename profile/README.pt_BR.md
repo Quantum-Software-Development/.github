@@ -1,16 +1,46 @@
-\[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
+\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
 <br><br>
 
-  <!-- Início do Cabeçalho -->
-## <p align="center"> [🛰 Bem-vindo à Nova Era do Quantum!]()
-#### <p align="center">  🔬Pesquisa e Exploração em Quantum  <p align="center">  por [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+  <!-- Start Header -->
+
+## <p align="center"> ⚛️ Welcome to a New Era: Quantum 4 All — [From Dark to Light]()
+
+
+<br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>
+
+<br>
+
+#### <p align="center">  🔬Research and Exploration in Quantum Computing
+##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br><br>
+
+
+At **Quantum Software Development**, we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
+
+**Quantum 4 All** is more than just a motto; it’s a commitment to making quantum computing accessible to everyone. We aim to dismantle the barriers that have restricted access to this transformative field, providing a space for learners and experts alike to engage, discover, and innovate. Inclusivity and empowerment drive our mission, creating opportunities for all to be part of this new quantum era.
+
+Standing at the edge of this transformation, Quantum Software Development envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from dark to light begins here.
+
+Join us as we shape the future of quantum computing. **Welcome to Quantum 4 All, where the quantum frontier awaits.**
+
+
+<br><br>
+
+###  <p align="center"> CERN produced video.
+
+ https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
+
+<br><br>
+
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Patrocinar Desenvolvimento de Software Quantum](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 <br>
 
@@ -22,13 +52,6 @@
 $$\huge  \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
-
-#
-
-<br>
-
-#### <p align="center">     [Equação de Emaranhamento]()
-$$\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
 
 #
 
