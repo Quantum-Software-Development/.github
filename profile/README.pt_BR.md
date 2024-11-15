@@ -21,18 +21,18 @@
 <br><br>
 
 
-At **Quantum Software Development**, we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
+Na **Quantum Software Development**, convidamos você a explorar o potencial ilimitado da tecnologia quântica—um campo onde a física clássica cede lugar às forças misteriosas e poderosas em nível quântico.
 
-**Quantum 4 All** is more than just a motto; it’s a commitment to making quantum computing accessible to everyone. We aim to dismantle the barriers that have restricted access to this transformative field, providing a space for learners and experts alike to engage, discover, and innovate. Inclusivity and empowerment drive our mission, creating opportunities for all to be part of this new quantum era.
+**Quantum 4 All** é mais do que um lema; é um compromisso em tornar a computação quântica acessível a todos. Nosso objetivo é desmantelar as barreiras que restringem o acesso a este campo transformador, proporcionando um espaço para que estudantes e especialistas possam se envolver, descobrir e inovar. A inclusão e o empoderamento impulsionam nossa missão, criando oportunidades para que todos façam parte dessa nova era quântica.
 
-Standing at the edge of this transformation, Quantum Software Development envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from dark to light begins here.
+"Em pé à beira dessa transformação, o Desenvolvimento de Software Quântico imagina um futuro onde avanços quânticos resolvem os maiores desafios da humanidade, desde a melhoria da cibersegurança até a abertura de novas possibilidades na tecnologia. A jornada da escuridão à luz começa aqui.
 
-Join us as we shape the future of quantum computing. **Welcome to Quantum 4 All, where the quantum frontier awaits.**
+Junte-se a nós enquanto moldamos o futuro da computação quântica. **Bem-vindo ao Quantum 4 All, onde a fronteira quântica aguarda.**"
 
 
 <br><br>
 
-###  <p align="center"> CERN produced video.
+###  <p align="center"> O vídeo foi produzido pelo CERN.
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
