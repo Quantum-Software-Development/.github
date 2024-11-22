@@ -4,11 +4,12 @@
 <br><br>
 
   <!-- Start Header -->
+## <p align="center"> ⚛️ Bem-vindo a uma Nova Era: Quantum 4 All — [Da Escurido ãpara a Luz]()
+### <p align="center"> Eu vejo a matemática como uma linguagem musical e artística e a Física Quântica como uma psicologia do Universo. 𓂀
 
-## <p align="center"> ⚛️ Welcome to a New Era: Quantum 4 All — [From Dark to Light]()
 
+<br><br>
 
-<br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>
