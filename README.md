@@ -6,7 +6,7 @@
   <!-- Start Header -->
 
 ## <p align="center"> ⚛️ Welcome to a New Era: Quantum 4 All — [From Dark to Light]()
-### <p align="center"> *I see Mathematics as a Musical and Artistic language and Quantum Physics as a Psychology of the Universe* 𓂀
+### <p align="center"> *I see Mathematics as a Musical and Artistic language and Quantum Physics as a Psychology of the Universe* [𓂀]().
 
 
 <br><br>
