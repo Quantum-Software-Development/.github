@@ -5,16 +5,17 @@
 
   <!-- Start Header -->
 
-## <p align="center"> ⚛️ Welcome to a New Era: Quantum 4 All — [From Dark to Light]()
-### <p align="center"> I see mathematics as a musical and artistic language and Quantum Physics as a psychology of the Universe 𓂀
+## <p align="center"> ⚛️ Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
+### <p align="center"> *I see Mathematics as a Musical and Artistic language and Quantum Physics as a Psychology of the Universe*. [𓂀]()
 
 
 <br><br>
+
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>
 
-<br><br>
+<br>
 
 #### <p align="center">  🔬Research and Exploration in Quantum Computing
 ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
@@ -22,13 +23,13 @@
 <br><br>
 
 
-At **Quantum Software Development**, we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
+At [**Quantum Software Development**](), we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
 
-**Quantum 4 All** is more than just a motto; it’s a commitment to making quantum computing accessible to everyone. We aim to dismantle the barriers that have restricted access to this transformative field, providing a space for learners and experts alike to engage, discover, and innovate. Inclusivity and empowerment drive our mission, creating opportunities for all to be part of this new quantum era.
+[**Quantum 4 All**]() is more than just a motto; it’s a commitment to making quantum computing accessible to everyone. We aim to dismantle the barriers that have restricted access to this transformative field, providing a space for learners and experts alike to engage, discover, and innovate. Inclusivity and empowerment drive our mission, creating opportunities for all to be part of this new quantum era.
 
-Standing at the edge of this transformation, Quantum Software Development envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from dark to light begins here.
+Standing at the edge of this transformation, [**Quantum Software Development**]() envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from [Dark to Light]() begins here.
 
-Join us as we shape the future of quantum computing. **Welcome to Quantum 4 All, where the quantum frontier awaits.**
+[Join us]() as we shape the future of quantum computing. **Welcome to [Quantum for All](), where the quantum frontier awaits..**
 
 
 <br><br>
@@ -266,9 +267,9 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 #
 
-###### <p align="center"> [Copyright 2024 The Quantum Authors. Code released under the Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
+###### <p align="center"> Copyright 2025 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
 
-###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
+###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
 
 
 
