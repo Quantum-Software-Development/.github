@@ -21,6 +21,12 @@ $$\color{Peru} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 $$\color{Sienna} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
+
+<br>
+<br>
+<br>
+<br>
+
 $$\color{Sienna} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
 
@@ -34,10 +40,6 @@ $$\textcolor{Chocolate}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rang
 #
 
 
-$$\color{copper} {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$
-
-
-$$\color{maroon} {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
 $$\color{red} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
