@@ -1,7 +1,19 @@
 
 ### Quantum Entanglement: Key Concepts and Importance
 
+$$\color{Goldenrod} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
+$$\usepackage[dvipsnames]{xcolor}$$
+
+
+
+
+$$\color{orange} {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$
+
+
+$$\color{maroon} {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}√
+
+$$\color{red} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
 
 $$\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$  
