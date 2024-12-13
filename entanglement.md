@@ -7,7 +7,14 @@ $$\usepackage[dvipsnames]{xcolor}$$
 
 ```latex
 \textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}
+```
 
+
+$$\textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
+
+
+
+#
 
 
 $$\color{copper} {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$
