@@ -1,7 +1,22 @@
 
 ### Quantum Entanglement: Key Concepts and Importance
 
+
+
+<br>
+<br>
+<br>
+<br>
+
 $$\color{Peru} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
+
+
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 $$\color{Sienna} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
