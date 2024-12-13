@@ -17,6 +17,7 @@ $$\usepackage{xcolor}
 \definecolor{copper}{RGB}{184, 115, 51}
 \textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
 
+<span style="color: rgb(184, 115, 51);">$$|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)$$</span>
 
 
 
