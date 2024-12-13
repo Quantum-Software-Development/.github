@@ -5,49 +5,16 @@
 
 <br>
 <br>
-<br>
-<br>
 
 $$\color{Peru} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
 
 <br>
 <br>
-<br>
-<br>
 
 
 
 
-$$\color{Sienna} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
-
-
-<br>
-<br>
-<br>
-<br>
-
-$$\color{Sienna} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
-
-
-
-$$\textcolor{Chocolate}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
-
-
-
-
-
-#
-
-
-
-$$\color{red} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
-
-
-$$\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$  
-
-
-  
 
 #### Key Concepts  
 
