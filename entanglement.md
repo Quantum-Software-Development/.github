@@ -6,23 +6,13 @@ $$\color{Peru} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 $$\color{Sienna} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
-$$\color{DarkGoldenrod} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |1
-
-$$\usepackage[dvipsnames]{xcolor}$$
-
-```latex
-\textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}
-```
+$$\color{Sienna} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
 
-$$\textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
+
+$$\textcolor{Chocolate}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
 
 
-$$\usepackage{xcolor}
-\definecolor{copper}{RGB}{184, 115, 51}
-\textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
-
-<span style="color: rgb(184, 115, 51);">$$|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)$$</span>
 
 
 
