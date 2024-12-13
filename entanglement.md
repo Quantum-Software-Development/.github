@@ -25,4 +25,8 @@ Key principles of entanglement include:
 #### Importance  
 Quantum entanglement is a cornerstone of modern quantum technologies and holds significant implications for both theoretical physics and practical applications:  
 
+1. **Quantum Computing**: Entanglement enables qubits in a quantum computer to perform complex computations exponentially faster than classical bits. It underpins algorithms like Shor’s algorithm and Grover’s search algorithm.  
+
+
+
 
