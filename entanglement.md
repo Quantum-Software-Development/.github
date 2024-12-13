@@ -26,6 +26,10 @@ Key principles of entanglement include:
 Quantum entanglement is a cornerstone of modern quantum technologies and holds significant implications for both theoretical physics and practical applications:  
 
 1. **Quantum Computing**: Entanglement enables qubits in a quantum computer to perform complex computations exponentially faster than classical bits. It underpins algorithms like Shor’s algorithm and Grover’s search algorithm.  
+2. **Quantum Communication**: Entanglement is the basis of quantum key distribution (QKD) protocols like BB84, which offer unbreakable encryption for secure communication.  
+3. **Quantum Teleportation**: Using entanglement, information about a quantum state can be transferred between particles across distances without physically moving the particles themselves.  
+4. **Fundamental Physics**: Entanglement challenges our understanding of locality and reality, providing experimental platforms to test the boundaries of quantum mechanics versus classical physics (e.g., Bell’s inequalities).  
+
 
 
 
