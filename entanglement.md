@@ -6,6 +6,8 @@ $$\color{Peru} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 $$\color{DarkRed} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
+$$\color{DarkGoldenrod} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |1
+
 $$\usepackage[dvipsnames]{xcolor}$$
 
 ```latex
