@@ -13,9 +13,9 @@ $$\usepackage[dvipsnames]{xcolor}$$
 $$\textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
 
 
-\usepackage{xcolor}
+$$\usepackage{xcolor}
 \definecolor{copper}{RGB}{184, 115, 51}
-\textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}
+\textcolor{copper}{|\psi\rangle = \frac{1}{\sqrt{2}} (|00\rangle + |11\rangle)}$$
 
 
 
