@@ -11,7 +11,7 @@ $$\usepackage[dvipsnames]{xcolor}$$
 $$\color{orange} {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$
 
 
-$$\color{maroon} {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}√
+$$\color{maroon} {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
 $$\color{red} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}}$$
 
