@@ -34,7 +34,7 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 <br><br>
 
-###  <p align="center"> CERN produced video.
+###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
