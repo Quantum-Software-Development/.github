@@ -1,10 +1,6 @@
 
 ### Quantum Entanglement:
 
-Key Concepts and Importance
-
-
-
 <br>
 <br>
 
