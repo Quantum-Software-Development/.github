@@ -34,7 +34,7 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 <br><br>
 
-###  <p align="center"> CERN produced video.
+###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
@@ -50,8 +50,13 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 <br>
 
-#### <p align="center">   [Schrödinger Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) 
-$$\huge  \color{Green} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$
+#### <p align="center">   [Schrödinger](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) Equation
+
+<br>
+
+$$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
+
+<br>
 
 https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
@@ -60,14 +65,14 @@ https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
 <br>
 
-#### <p align="center">     [Entanglement Equation]()
+#### <p align="center">     [Entanglement]() Equation
 $$\huge \huge \color{green} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
 
 #
 
 <br>
 
-#### <p align="center">   [Superposition Equation]()
+#### <p align="center">   [Superposition]() Equation
 $$\huge \color{green} {\color{green} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
 
@@ -261,7 +266,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
  <br><br>
 
-<p align="center"> <a href="#top">Back to Top 👆</a>
+<p align="center"> <a href="#top">Back to Top</a>
 
   
 
