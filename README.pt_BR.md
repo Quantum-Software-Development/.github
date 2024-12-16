@@ -6,7 +6,7 @@
   <!-- Start Header -->
 
 ## <p align="center"> ⚛️ Bem-vindo a uma Nova Era: Quantum 4 All — [Da Sombra para a Luz]()
-#### <p align="center"> *Eu vejo a [Matemática]() como uma linguagem musical e artística e a [Física Quântica] como uma psicologia do Universo.** 𓂀
+#### <p align="center"> *Eu vejo a [Matemática]() como uma linguagem musical e artística e a [Física Quântica]() como uma psicologia do Universo.** 𓂀
 
 
 <br><br>
