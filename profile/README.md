@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 <br>
 
 #### <p align="center">     [Entanglement]() Equation
-$$\huge \huge \color{DeepSkyBlue}} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
+$$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}$$   
 
 #
 
