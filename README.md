@@ -52,6 +52,10 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 #### <p align="center">   [Schrödinger](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) Equation
 
+
+#### <p align="center"> Schrödinger [Equation]()
+https://github.com/Quantum-Software-Development/.github/blob/5390660e0dbbafdf07cb26dc59837c423d2d8f47/Schr%C3%B6dingerEquation.md
+
 <br>
 
 $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
