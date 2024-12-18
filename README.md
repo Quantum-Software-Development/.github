@@ -50,11 +50,7 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 <br>
 
-#### <p align="center">   [Schrödinger](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md) Equation
-
-
-#### <p align="center"> Schrödinger [Equation]()
-https://github.com/Quantum-Software-Development/.github/blob/5390660e0dbbafdf07cb26dc59837c423d2d8f47/Schr%C3%B6dingerEquation.md
+#### <p align="center">   Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
 
 <br>
 
@@ -76,8 +72,9 @@ $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
 
 <br>
 
-#### <p align="center">   [Superposition]() Equation
-$$\huge \color{green} {\color{green} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
+#### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+
+$$\huge \color{green} {\color{DeepSkyBlue} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
 
 <!--
