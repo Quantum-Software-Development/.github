@@ -1,5 +1,5 @@
 
-### Quantum Entanglement:
+## Quantum Entanglement:
 
 <br>
 <br>
@@ -14,12 +14,12 @@ $$\color{Peru} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 
 
-#### Key Concepts  
+### Key Concepts  
 
 Quantum entanglement is a fundamental phenomenon in quantum mechanics where two or more particles become correlated in such a way that the state of one particle cannot be described independently of the state of the other(s), regardless of the distance separating them. This unique connection arises when particles interact and share a quantum state.
 
 
-Key principles of entanglement include:  
+### Key principles of entanglement include:  
 
 1. **Nonlocality**: Changes to the quantum state of one entangled particle instantaneously affect its partner(s), even when separated by vast distances.  
 2. **Superposition**: Entangled particles exist in a combination of states until measured, at which point their states are correlated.  
