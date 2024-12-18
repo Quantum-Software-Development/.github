@@ -50,7 +50,7 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 <br>
 
-#### <p align="center">   [Schrödinger](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md) Equation
+#### <p align="center">   Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/607cafa3a209f3972dd33dcfe35652c049dc7966/Schr%C3%B6dingerEquation.md)
 
 <br>
 
