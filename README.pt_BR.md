@@ -27,10 +27,9 @@ Na [**Desenvolvimento de Software Quântico**](), convidamos você a explorar o 
 
 [**Quântica Para Todos**]() é mais do que um lema; é um compromisso em tornar a computação quântica acessível a todos. Nosso objetivo é desmontar as barreiras que restringiram o acesso a esse campo transformador, proporcionando um espaço para que aprendizes e especialistas se envolvam, descubram e inovem. A inclusão e o empoderamento impulsionam nossa missão, criando oportunidades para que todos façam parte dessa nova era quântica.
 
-Standing at the edge of this transformation, [**Quantum Software Development**]() envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from [Dark to Light]() begins here.
+Perante a beira dessa transformação, [**Desenvolvimento de Software Quântico**]() imagina um futuro onde avanços quânticos resolvem os maiores desafios da humanidade, desde o aprimoramento da cibersegurança até a abertura de novas possibilidades na tecnologia. A jornada do [Escuro à Luz]() começa aqui.
 
-[Join us]() as we shape the future of quantum computing. **Welcome to [Quantum for All](), where the quantum frontier awaits..**
-
+[Junte-se a nós]() enquanto moldamos o futuro da computação quântica. **Bem-vindo ao [Quantum for All](), onde a fronteira quântica espera..**
 
 <br><br>
 
