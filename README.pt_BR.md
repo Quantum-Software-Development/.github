@@ -5,8 +5,8 @@
 
   <!-- Start Header -->
 
-## <p align="center"> ⚛️ Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
-#### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀]()
+## <p align="center"> ⚛️ Bem-vindo a uma Nova Era: [Do Escuro para a Luz]() - Quântica [4]() Todos 
+#### <p align="center"> *Eu vejo [Matemática]() como uma Linguagem Musical e Artística e [Física Quântica]() como uma Psicologia do Universo*. [𓂀]()
 
 
 <br><br>
