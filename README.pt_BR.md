@@ -23,9 +23,9 @@
 <br><br>
 
 
-At [**Quantum Software Development**](), we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
+Na [**Desenvolvimento de Software Quântico**](), convidamos você a explorar o potencial ilimitado da tecnologia quântica—um campo onde a física clássica cede lugar às forças misteriosas e poderosas em nível quântico.
 
-[**Quantum 4 All**]() is more than just a motto; it’s a commitment to making quantum computing accessible to everyone. We aim to dismantle the barriers that have restricted access to this transformative field, providing a space for learners and experts alike to engage, discover, and innovate. Inclusivity and empowerment drive our mission, creating opportunities for all to be part of this new quantum era.
+[**Quântica Para Todos**]() é mais do que um lema; é um compromisso em tornar a computação quântica acessível a todos. Nosso objetivo é desmontar as barreiras que restringiram o acesso a esse campo transformador, proporcionando um espaço para que aprendizes e especialistas se envolvam, descubram e inovem. A inclusão e o empoderamento impulsionam nossa missão, criando oportunidades para que todos façam parte dessa nova era quântica.
 
 Standing at the edge of this transformation, [**Quantum Software Development**]() envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from [Dark to Light]() begins here.
 
