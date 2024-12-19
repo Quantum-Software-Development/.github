@@ -190,15 +190,21 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62
 
 ## [Quantum Computers: What Are They?](https://www.ibm.com/topics/quantum-computing)
 
-Quantum computers are becoming the next frontiers demonstrating capabilities a traditional computer cannot solve.
+Os computadores quânticos estão a tornar-se nas próximas fronteiras, demonstrando capacidades que um computador tradicional não consegue resolver.
 
-Ever wondered how the term ‘quantum’ came into existence?
 
-Quantum computing certainly works under the principle of quantum physics perform rapid calculations using qubits and quantum bits. A total contrast of what is present in the current traditional computers. A traditional classical computer works on classical physics and performs calculations using bits of all we know. But on the other hand, quantum computers can make calculations in split seconds. Wherein in the case of a classical computer, it may take tens of thousands of years to even perform such calculations.
+Já se interrogou sobre a origem do termo "quântico"?
 
-From drug development to weather forecasts and stock trades, quantum computers will revolutionize everything. Therefore, it should not come as a surprise as to why the world is racing to build its first quantum computer.
 
-Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology
+A computação quântica funciona certamente segundo o princípio da física quântica, efectuando cálculos rápidos utilizando qubits e bits quânticos. Um contraste total com o que está presente nos computadores tradicionais actuais. Um computador clássico tradicional funciona com base na física clássica e efectua cálculos utilizando bits de tudo o que conhecemos. Mas, por outro lado, os computadores quânticos podem efetuar cálculos em fracções de segundos. No caso de um computador clássico, podem ser necessárias dezenas de milhares de anos para efetuar tais cálculos.
+
+
+Desde o desenvolvimento de medicamentos até às previsões meteorológicas e às transacções de acções, os computadores quânticos irão revolucionar tudo. Por isso, não é de surpreender que o mundo esteja a correr para construir o seu primeiro computador quântico.
+
+
+As promessas em torno da computação quântica estão a dar passos largos no domínio da medicina. Consequentemente, pode permitir que os especialistas e profissionais de IA que trabalham neste domínio obtenham o máximo benefício da tecnologiaOs computadores quânticos estão a tornar-se nas próximas fronteiras, demonstrando capacidades que um computador tradicional não consegue resolver.
+
+
 
 
 ## [What’s Quantum Data ?](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
