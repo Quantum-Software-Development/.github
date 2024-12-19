@@ -220,10 +220,12 @@ As promessas em torno da computação quântica estão a dar passos largos no do
  
 ## [What’s a Hybrid Quantum-classical Model?](https://www.tensorflow.org/quantum)
 
-A hybrid quantum-classical model represents and generalizes data using the quantum mechanical origin. This is because, in the near term, most quantum processors are more likely to remain noisy and small, thus making it difficult for quantum models to generalize quantum data using just the quantum processor.
+Um modelo híbrido quântico-clássico representa e generaliza os dados utilizando a origem mecânica quântica. Isto deve-se ao facto de, a curto prazo, ser mais provável que a maioria dos processadores quânticos continue a ser ruidosa e pequena, tornando assim difícil para os modelos quânticos generalizar os dados quânticos utilizando apenas o processador quântico.
 
-To remain effective, NISQ processors need to closely work with classical co-processors.
 
+Para se manterem eficazes, os processadores NISQ têm de trabalhar em estreita colaboração com os co-processadores clássicos.Um modelo híbrido quântico-clássico representa e generaliza os dados utilizando a origem mecânica quântica. Isto deve-se ao facto de, a curto prazo, ser mais provável que a maioria dos processadores quânticos continue a ser ruidosa e pequena, tornando assim difícil para os modelos quânticos generalizar os dados quânticos utilizando apenas o processador quântico.
+
+Para se manterem eficazes, os processadores NISQ têm de trabalhar em estreita colaboração com os co-processadores clássicos.
 
 ## [Quantum Machine Learning Services](https://qiskit.org/learn/course/machine-learning-course)
 
