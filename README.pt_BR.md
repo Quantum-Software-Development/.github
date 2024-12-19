@@ -176,9 +176,10 @@ $${\color{Gray} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\
 
 <br>
 
-This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
+Este fenómeno permite que partículas distantes interajam instantaneamente, desafiando as noções clássicas de espaço e de tempo.
 
-In summary, this formula describes a state in which two qubits(the basic units of quantum information, analogous to bits in classical computing are in a superposition of being both 0 or both 1, with equal probability. This is an example of quantum entanglement, a phenomenon in which particles become interconnected in such a way that the state of one particle is immediately correlated with the state of the other , no matter how far apart they are.
+
+Em suma, esta fórmula descreve um estado em que dois qubits (as unidades básicas da informação quântica, análogas aos bits na computação clássica) estão numa sobreposição de serem ambos 0 ou ambos 1, com igual probabilidade. Este é um exemplo de emaranhamento quântico, um fenómeno em que as partículas ficam interligadas de tal forma que o estado de uma partícula é imediatamente correlacionado com o estado da outra, independentemente da distância que as separa.Este fenómeno permite que partículas distantes interajam instantaneamente, desafiando as noções clássicas de espaço e de tempo.
 
 
 <br>
