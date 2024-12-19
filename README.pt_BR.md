@@ -142,11 +142,11 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
 <br>
 
-Quantum computing is a technology that uses the properties of quantum physics to overcome the limitations of conventional bits. 
+A computação quântica é uma tecnologia que utiliza as propriedades da física quântica para superar as limitações dos bits convencionais.
 
-While a bit is binary, restricted to zero and one, a qubit can represent several combinations of zero and one at the same time. This is possible thanks to the quantum property called **SUPERPOSITION**.
+Enquanto um bit é binário, restrito a zero e um, um qubit pode representar várias combinações de zero e um ao mesmo tempo. Isso é possível graças à propriedade quântica chamada **SUPERPOSIÇÃO**.
 
-The evolution of quantum computing promises to revolutionize the way we perform complex tasks. Imagine a future in which problems that today would take years to be solved could be solved in a matter of minutes or seconds! There is still much to be discovered and developed in the field of quantum computing, but it is certain that this technology has the potential to change the world as we know it.
+A evolução da computação quântica promete revolucionar a maneira como realizamos tarefas complexas. Imagine um futuro em que problemas que hoje levariam anos para serem resolvidos poderiam ser solucionados em questão de minutos ou segundos! Ainda há muito a ser descoberto e desenvolvido no campo da computação quântica, mas é certo que essa tecnologia tem o potencial de mudar o mundo como o conhecemos.
 
 <br><br>
 
