@@ -209,8 +209,7 @@ As promessas em torno da computação quântica estão a dar passos largos no do
 
 ## [What’s Quantum Data ?](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
-It is also referred to as any type of data that can occur in both a natural and an artificial quantum system. Such data can be easily gathered or generated using quantum computers. The quantum data is said to exhibit entanglement and superposition that may lead to joining probable distributions. These distributions can further require an extensive amount of classical computational resources for storing purposes.
-
+É também referido como qualquer tipo de dados que pode ocorrer tanto num sistema quântico natural como num artificial. Esses dados podem ser facilmente recolhidos ou gerados utilizando computadores quânticos. Diz-se que os dados quânticos apresentam emaranhamento e sobreposição que podem levar à junção de distribuições prováveis. Estas distribuições podem ainda exigir uma grande quantidade de recursos computacionais clássicos para efeitos de armazenamento.
 
 ## [AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
