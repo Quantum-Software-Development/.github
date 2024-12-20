@@ -8,6 +8,11 @@
 ## <p align="center"> ⚛️ Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
 #### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀]()
 
+<br><br>
+
+
+[NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET]() by Malak Trabelsi Loeb - Expert in Tech & Law
+
 
 <br><br>
 
