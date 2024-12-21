@@ -8,6 +8,10 @@
 ## <p align="center"> ⚛️ Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
 #### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀]()
 
+<br><br>
+
+[Download the PDF.pdf](https://github.com/user-attachments/files/18216716/Download.the.PDF.pdf)
+
 
 <br><br>
 
