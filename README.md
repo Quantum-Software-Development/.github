@@ -14,6 +14,8 @@
 #### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
 #### <p align="center"> by Malak Trabelsi Loeb - Expert in Tech & Law 🌟
 
+https://github.com/Quantum-Software-Development/.github/blob/main/Download%20the%20PDF.pdf
+
  
 <br><br>
 
