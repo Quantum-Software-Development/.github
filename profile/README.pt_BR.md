@@ -261,9 +261,9 @@ Apesar de estar em estágio inicial, a computação quântica conseguiu gerar gr
 
   #
 
-###### <p align="center"> [Copyright 2024 Os Autores Quânticos. Código liberado sob a licença Apache-2.0.](https://www.apache.org/licenses/LICENSE-2.0)
+###### <p align="center"> Copyright 2025 Os Autores Quânticos. Código liberado sob a licença [Apache-2.0.](https://www.apache.org/licenses/LICENSE-2.0)
 
-###### <p align="center"> [Copyright 2024 Quantum Software Development. Código liberado sob a licença Apache-2.0.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
+###### <p align="center"> Copyright 2025 Quantum Software Development. Código liberado sob a licença [Apache-2.0.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
 
   
 
