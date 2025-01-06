@@ -46,7 +46,8 @@ At [**Quantum Software Development**](), we invite you to explore the limitless 
 
 Standing at the edge of this transformation, [**Quantum Software Development**]() envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from [Dark to Light]() begins here.
 
-[Join us]() as we shape the future of quantum computing. **Welcome to [Quantum for All](), where the quantum frontier awaits..**
+
+[Join us]() in shaping the future of Quantum Computing because [Quantum is 4 ALL]() !
 
 
 <br><br>
