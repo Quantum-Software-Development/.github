@@ -259,6 +259,8 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - [BLack Hole Hub](https://l.instagram.com/?u=http%3A%2F%2Fblackholehub.org%2F&e=AT1PiRhdQad2RwRJ33__VCYm-jiO5pm2id_Haafme6z71BoLe9evKbbxwyiFEzpsreO8_Ypryv4TZ_l7vhMtXIT7qxMRsrZx2a678WnyT6lHlY14FGZF)
 
+- Carlos Rodembusch Sa - [Quantic Global Advisor](https://www.quanticsglobal.com.br/)
+
 - DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 - IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
