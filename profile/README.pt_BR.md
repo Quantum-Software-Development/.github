@@ -232,6 +232,8 @@ Apesar de estar em estágio inicial, a computação quântica conseguiu gerar gr
 
 - [BLack Hole Hub](https://l.instagram.com/?u=http%3A%2F%2Fblackholehub.org%2F&e=AT1PiRhdQad2RwRJ33__VCYm-jiO5pm2id_Haafme6z71BoLe9evKbbxwyiFEzpsreO8_Ypryv4TZ_l7vhMtXIT7qxMRsrZx2a678WnyT6lHlY14FGZF)
 
+- Quantic Global Advisor
+
 - DZone [Computação Quântica](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
 - IBM Quantum [Qiskit](https://www.ibm.com/quantum/qiskit)
