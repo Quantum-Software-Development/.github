@@ -5,23 +5,18 @@
 
   <!-- Start Header -->
 
-## <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
+# <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
 #### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
-<br><br>
+<br>
 
-#### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
-
-#### <p align="center"> by Malak Trabelsi Loeb - Expert in Tech & Law 🌟
-
-#### <p align="center"> 📥   https://tinyurl.com/Download-the-PDF
 
 <!--
 #### <p align="center"> https://github.com/user-attachments/files/18216607/Download.the.PDF.pdf
+
+[Download the PDF.pdf](https://github.com/user-attachments/files/18216716/Download.the.PDF.pdf)
+
 -->
-
-
-<br><br>
 
 
  <p align="center">
@@ -31,6 +26,36 @@
 
 #### <p align="center">  🔬Research and Exploration in Quantum Computing
 ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+<br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+<br>
+
+### <p align="center"> ────────────── ✦ ──────────────
+
+<br>
+
+#### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
+
+#### <p align="center"> by Malak Trabelsi Loeb - Expert in Tech & Law 🌟
+
+#### <p align="center"> 📥 https://tinyurl.com/Download-the-PDF
+
+<br>
+
+### <p align="center"> ────────────── ✦ ──────────────
+
+
+
+
+<br><br>
+
+###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
+
+ https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
 <br><br>
 
@@ -44,18 +69,6 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 [Join us]() in shaping the future of Quantum Computing because [Quantum is 4 ALL]() !
 
-
-<br><br>
-
-###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
-
- https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
-
-<br><br>
-
-
-<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 <br>
 
@@ -180,7 +193,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298
 
 <br>
 
-## [🔬⚛️ Quantum Physics has Given us The Theory of Entanglement]()
+## [🔬⚛️ Quantum Physics has Given us The Beautiful Theory of Entanglement]()
 
 which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be [mathematically represented by the formula](https://github.com/Quantum-Software-Development/.github/blob/b0077a21bd295284561cef734580728f99051bd4/BellState-QuantumEntanglement/Quantum%20Entanglemen.md):
 
