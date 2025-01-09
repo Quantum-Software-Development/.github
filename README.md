@@ -295,7 +295,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
  <br><br>
 
-<p align="center"> <a href="#top">Back to Top</a>
+<p align="center"> <a href="#top">Back to Top ☝︎</a>
 
   
 
