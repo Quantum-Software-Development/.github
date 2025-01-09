@@ -11,14 +11,6 @@
 <br><br>
 
 
-#### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
-
-#### <p align="center"> by Malak Trabelsi Loeb - Expert in Tech & Law 🌟
-
-#### <p align="center"> 📥 https://tinyurl.com/Download-the-PDF
-
-<br><br>
-
 <!--
 #### <p align="center"> https://github.com/user-attachments/files/18216607/Download.the.PDF.pdf
 
@@ -36,6 +28,14 @@
 
 #### <p align="center">  🔬Research and Exploration in Quantum Computing
 ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+<br><br>
+
+#### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
+
+#### <p align="center"> by Malak Trabelsi Loeb - Expert in Tech & Law 🌟
+
+#### <p align="center"> 📥 https://tinyurl.com/Download-the-PDF
 
 <br><br>
 
