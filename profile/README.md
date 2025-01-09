@@ -27,7 +27,11 @@
 #### <p align="center">  🔬Research and Exploration in Quantum Computing
 ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-<br><br>
+<br>
+
+### <p align="center"> ────────────── ✦ ──────────────
+
+<br>
 
 #### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
 
@@ -35,7 +39,11 @@
 
 #### <p align="center"> 📥 https://tinyurl.com/Download-the-PDF
 
-<br><br>
+<br>
+
+### <p align="center"> ────────────── ✦ ──────────────
+
+<br>
 
 
 At [**Quantum Software Development**](), we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
