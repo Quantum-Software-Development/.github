@@ -43,7 +43,7 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
  <p align="center">
 <img src="https://github.com/user-attachments/assets/37e34182-f872-43e1-8291-0fc4034aac9c" />
 
-#### <p align="center"> Rebirth Of Venus - Sandro Boticelli
+##### <p align="center"> Rebirth Of Venus - Sandro Boticelli
 
 <br><br>
 
@@ -95,7 +95,7 @@ $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
  <p align="center">
 <img src="https://github.com/user-attachments/assets/2ceb3195-c11a-4466-82d5-a230ed3942eb" />
 
-#### <p align="center"> The Creation of Adam (Header) - Michelangelo (Sistine Chapel) - Entanglement Concept.png
+$#### <p align="center"> The Creation of Adam - Michelangelo - (Sistine Chapel) 
 
 <br><br>
 
