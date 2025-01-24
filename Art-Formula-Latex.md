@@ -57,7 +57,7 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
  <p align="center">
 <img src="https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277" />
 
-<br><
+<br>
 
 2. **Mythological and Symbolic Layers**  
    - The depiction of Venus emerging from the sea combines mythological, artistic, and symbolic dimensions. The goddess embodies purity, beauty, and renewal, all coexisting in a harmonious yet layered narrative. This mirrors the idea of superposition, where different possibilities coexist in a unified quantum state [2][5][7].
@@ -97,6 +97,7 @@ $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 #### <p align="center"> The Creation of Adam (Header) - Michelangelo (Sistine Chapel) - Entanglement Concept.png
 
+<br><br>
 
 The concept of **quantum entanglement** can be metaphorically related to Michelangelo's *The Creation of Adam* through the profound idea of interconnectedness and instant influence, which are central to both the artwork and the phenomenon in physics.
 
@@ -105,6 +106,13 @@ The concept of **quantum entanglement** can be metaphorically related to Michela
 #### **1. Interconnection and Unity**
 - In *The Creation of Adam*, the nearly touching hands of God and Adam symbolize a deep, intrinsic connection between the divine and humanity. This connection mirrors quantum entanglement, where two particles are so intrinsically linked that the state of one instantly influences the other, regardless of distance[1][2].
 - The visual tension between their fingertips suggests an invisible force or bond, much like the "spooky action at a distance" described by Einstein when referring to entangled particles[3][4].
+  
+<br><br>
+
+ <p align="center">
+<img src=""/>
+
+<br><br>
 
 #### **2. Dependence of States**
 - The relationship between God and Adam in the painting reflects a dependency: Adam's creation is only possible through God's touch. Similarly, in quantum entanglement, the state of one particle cannot be described independently but is inherently tied to its entangled counterpart[1][3].
