@@ -1,7 +1,7 @@
 
 # Art, Science, and Quantum 
 
-## <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
 <br>
 
@@ -12,6 +12,12 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
 1a-Rebirth Of Venus - Sandro Boticlli - Superposition Concept.
 
 ![Image](https://github.com/user-attachments/assets/2f1460e8-32d6-482a-926d-2c4d3eb6277e)
+
+<br>
+
+1b-Rebirth Of Venus (Header) - Sandro Boticelli - Superposition.jpg
+
+![Image](https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1)
 
 <br>
 
