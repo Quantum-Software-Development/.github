@@ -6,13 +6,7 @@
   <!-- Start Header -->
 
 # <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
-#### <p align="center">  🔬Research and Exploration in Quantum Computing
-##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-
-<br>
-
-<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
 <br>
 
@@ -28,17 +22,21 @@
  <p align="center">
 <img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>
 
-<br><br>
+<br>
 
+#### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
+##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-#### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+<br>
 
-<br><br>
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
+<br>
 
 ### <p align="center"> ────────────── ✦ ──────────────
 
-<br><br>
+<br>
 
 #### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
 
@@ -82,8 +80,7 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 <br>
 
-$$\huge  \color{cyan} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
-
+$$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
 <br>
 
@@ -95,11 +92,7 @@ https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 <br>
 
 #### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
-
-
-<br>
-
-$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
+$$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
 
 #
 
@@ -107,10 +100,7 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 #### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
-
-<br>
-
-$$\huge \color{green} {\color{cyan} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
+$$\huge \color{green} {\color{DeepSkyBlue} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
 
 <!--
@@ -305,7 +295,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
  <br><br>
 
-<p align="center"> <a href="#top">Back to Top ☝︎</a>
+<p align="center"> ☝︎ <a href="#top">Back to Top</a>
 
   
 
