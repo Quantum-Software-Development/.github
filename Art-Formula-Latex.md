@@ -53,13 +53,11 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 
 <br><br>
 
-![Image](https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277)
-
-![Image](https://github.com/user-attachments/assets/2f1460e8-32d6-482a-926d-2c4d3eb6277e)
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277" />
 
 
 <br><br>
-
 
 2. **Mythological and Symbolic Layers**  
    - The depiction of Venus emerging from the sea combines mythological, artistic, and symbolic dimensions. The goddess embodies purity, beauty, and renewal, all coexisting in a harmonious yet layered narrative. This mirrors the idea of superposition, where different possibilities coexist in a unified quantum state [2][5][7].
