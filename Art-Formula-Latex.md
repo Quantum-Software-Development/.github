@@ -26,6 +26,7 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 
 <br>
 
+![Image](https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1)
 
 1b-Rebirth Of Venus (Header) - Sandro Boticelli - Superposition.jpg
 
@@ -52,7 +53,7 @@ In essence, *The Birth of Venus* captures a Renaissance vision of interconnected
 -----
 
 
-![Image](https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1)
+
 
 
 ## <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
