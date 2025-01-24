@@ -89,21 +89,48 @@ $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br><br><br><br><br><br><br><br>
 
+
 #
+
 
 ## <p align="center">   Schrödinger Equation
 
 
-
 <br><br><br><br><br><br><br><br>
-
 
 $$\huge  \color{Peru} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
 <br><br><br><br><br><br><br><br>
 
+<br><br>
 
-### Sources Superposition
+The **Vitruvian Man** by Leonardo da Vinci can be related to Schrödinger's equation through concepts such as harmony, proportion, and the mathematical description of complex systems. Both creations, though in distinct contexts, share a pursuit of a profound understanding of the laws governing the universe.
+
+### Relationship Between the Vitruvian Man and Schrödinger's Equation
+
+#### **1. Proportion and Symmetry**
+- The Vitruvian Man represents the idea that the human body is a microcosm of the universe, organized according to ideal mathematical proportions. Similarly, Schrödinger's equation describes the evolution of quantum states based on mathematical principles governing symmetry and energy conservation.
+- Just as Leonardo used geometry (circle and square) to represent human proportions, Schrödinger's equation employs mathematical functions to describe the behavior of particles in different states.
+
+#### **2. Superposition and Multiple States**
+- In the Vitruvian Man, the figure is depicted in two superimposed positions (arms and legs at different angles), suggesting a visual coexistence of states. This can be linked to the concept of superposition in quantum mechanics, where particles can exist simultaneously in multiple states until observed.
+
+#### **3. Microcosm and Macrocosm**
+- Leonardo viewed the human body as a reflection of universal laws, connecting the human microcosm to the cosmic macrocosm. Schrödinger's equation similarly connects microscopic particle behavior (quantum level) to macroscopic physical properties, demonstrating their interrelation.
+
+#### **4. Mathematical Harmony**
+- Leonardo’s work reflects an attempt to unify art, science, and mathematics to describe the natural world. In a similar way, Schrödinger's equation represents the mathematical harmony underlying quantum physics, unifying kinetic and potential energy to describe dynamic systems.
+
+### Philosophical Connection
+Both creations embody a Renaissance and scientific vision of the universe: a search for universal patterns linking particular elements to broader structures. While Leonardo used art and geometry to explore these ideas in a human context, Schrödinger did so mathematically to uncover the fundamental workings of the quantum world.
+
+
+<br><br>
+
+
+## Souces
+
+### Sources on the relationship between Sandro Botticelli's "The Birth of Venus" and the concept of superposition
 
 [1] O Nascimento de Vênus de Sandro Botticelli - Toda Matéria https://www.todamateria.com.br/o-nascimento-de-venus/
 [2] O Nascimento de Vênus de Sandro Botticelli (análise e características) https://www.culturagenial.com/quadro-o-nascimento-de-venus-botticelli/
@@ -116,7 +143,7 @@ $$\huge  \color{Peru} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}
 
 <br>
 
-### Sources Superposition
+###Sources linking The Creation of Adam to the concept of entanglement.
 
 [1] O que é: Quantum entanglement - Comando Geek Blog https://comandogeek.com.br/blog/glossario/o-que-e-quantum-entanglement/
 [2] O que é: Quantum Entanglement (Emaranhamento Quântico) - DTWI https://transformacaodigitalbr.org/glossario/o-que-e-quantum-entanglement-emaranhamento-quantico/
@@ -128,3 +155,14 @@ $$\huge  \color{Peru} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}
 [8] DA HISTÓRIA COMPARADA AO CONCEITO DE ENTANGLEMENT https://core.ac.uk/outputs/596304180/
 
 <br>
+
+###Sources examining the connection between the Vitruvian Man and Schrödinger's Equation.
+
+[1] “Vitruvian Man” by Leonardo da Vinci and the Golden Ratio http://www.crl.nitech.ac.jp/~ida/education/VitruvianMan/
+[2] Mathematics In The Art Of Leonardo Da Vinci - Mathnasium https://www.mathnasium.com/blog/mathematics-in-the-art-of-leonardo-da-vinci
+[3] Vitruvian Man by Leonardo Da Vinci | Overview & Legacy - Study.com https://study.com/learn/lesson/vitruvian-man-history-proportions.html
+[4] Leonardo da Vinci and his Vitruvian Man | Seeing Art - WordPress.com https://art1100.wordpress.com/2015/11/05/leonardo-da-vinci-and-his-vitruvian-man/
+[5] Revisiting Leonardo da Vinci's Vitruvian Man Using Contemporary ... https://pmc.ncbi.nlm.nih.gov/articles/PMC7284298/
+[6] Leonardo and Mathematics - The Mona Lisa Foundation https://monalisa.org/2012/09/12/leonardo-and-mathematics-in-his-paintings/
+[7] Da Vinci's Vitruvian Man of math - James Earle - YouTube https://www.youtube.com/watch?v=aMsaFP3kgqQ
+[8] Quantum Computers and Schrödinger's Cat https://datavizblog.com/2014/02/25/quantum-computers-and-schrodingers-cat/
