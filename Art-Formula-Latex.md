@@ -18,7 +18,7 @@
 
 
 
-### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+## <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
 <br><br>
 
@@ -111,14 +111,20 @@ Both *The Creation of Adam* and quantum entanglement explore the idea that entit
 
 ## <p align="center">   Schrödinger Equation
 
-
+<!--
 <br><br><br><br><br><br><br><br>
 
 $$\huge  \color{Peru} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
 <br><br><br><br><br><br><br><br>
 
+-->
 
+<br><br>
+
+$$\huge  \color{Peru} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
+
+<br><br>
 
 ────────────── ✦ ──────────────
 
