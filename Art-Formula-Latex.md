@@ -33,6 +33,9 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
 
 $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
+<br><br>
+
+The concept of **superposition** in quantum mechanics can be metaphorically related to Botticelli's *The Birth of Venus* through the painting's visual and symbolic elements, which evoke a coexistence of multiple states and interpretations within a single composition.
 
 <br><br>
 
@@ -42,8 +45,6 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
 #### <p align="center"> Rebirth Of Venus - Sandro Boticelli
 
 <br><br>
-
-The concept of **superposition** in quantum mechanics can be metaphorically related to Botticelli's *The Birth of Venus* through the painting's visual and symbolic elements, which evoke a coexistence of multiple states and interpretations within a single composition.
 
 ### **Superposition and *The Birth of Venus***  
 
