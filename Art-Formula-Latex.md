@@ -1,7 +1,12 @@
 
 # Art, Science, and Quantum 
 
+
 ### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+
+<br><br>
+
+![Image](https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277)
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -87,6 +92,9 @@ $$\huge  \color{Peru} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}
 
 <br><br><br><br><br><br><br><br>
 
+
+
+────────────── ✦ ──────────────
 
 <br><br>
 
