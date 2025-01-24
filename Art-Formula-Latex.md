@@ -22,7 +22,9 @@
 
 <br><br>
 
-![Image](https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277)
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/37e34182-f872-43e1-8291-0fc4034aac9c" />
+
 
 <!--
 <br><br><br><br><br><br><br><br><br><br>
