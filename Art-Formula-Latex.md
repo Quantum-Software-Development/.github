@@ -1,8 +1,12 @@
+<br>
+
+#### <p align="center">   Superpoition
+
+#
+
 <br><br><br><br><br><br><br><br>
 
-$$\color{Peru} {\ {\ {\huge \Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}}}$$
-
-$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
+$$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
 
 Mbr>
 
