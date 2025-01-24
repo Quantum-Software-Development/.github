@@ -9,7 +9,7 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
 
 <br>
 
-1a-Rebirth Of Venus (Header) - Sandro Boticlli - Superposition Concept.
+1a-Rebirth Of Venus - Sandro Boticlli - Superposition Concept.
 
 ![Image](https://github.com/user-attachments/assets/2f1460e8-32d6-482a-926d-2c4d3eb6277e)
 
