@@ -93,7 +93,12 @@ https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 <br>
 
 #### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
+
+
+<br>
+
 $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
+
 
 #
 
@@ -101,7 +106,10 @@ $$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 #### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
-$$\huge \color{green} {\color{DeepSkyBlue} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
+
+<br>
+
+$$\huge \color{green} {\color{cyan} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
 
 <!--
