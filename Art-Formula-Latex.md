@@ -1,7 +1,7 @@
 
 # <p align="center"> Art, Science, and Quantum 
-### <p align="center"> "Study the science of art and the art of science. Learn how to see. Realize that everything connects to everything else."
-### <p align="center">Leonardo da Vinci (1452 - 1519)
+#### <p align="center"> ["Study the science of art and the art of science. Learn how to see. Realize that everything connects to everything else."]()
+#### <p align="center">Leonardo da Vinci (1452 - 1519)
 
 
 ### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
