@@ -25,6 +25,8 @@
  <p align="center">
 <img src="https://github.com/user-attachments/assets/37e34182-f872-43e1-8291-0fc4034aac9c" />
 
+1a-Rebirth Of Venus - Sandro Boticlli - Superposition Concept.
+
 
 <!--
 <br><br><br><br><br><br><br><br><br><br>
@@ -50,9 +52,10 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 
 <br><br>
 
+![Image](https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277)
+
 ![Image](https://github.com/user-attachments/assets/2f1460e8-32d6-482a-926d-2c4d3eb6277e)
 
-1a-Rebirth Of Venus - Sandro Boticlli - Superposition Concept.
 
 <br><br>
 
@@ -68,7 +71,6 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 
 ![Image](https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1)
 
-1b-Rebirth Of Venus (Header) - Sandro Boticelli - Superposition.jpg
 
 <br><br>
 
