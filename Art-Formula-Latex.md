@@ -68,7 +68,8 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
   
 <br><br>
 
-![Image](https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1)
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1" />
 
 
 <br><br>
@@ -90,6 +91,8 @@ $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 <br><br><br><br><br><br><br><br>
 -->
+
+![Image](https://github.com/user-attachments/assets/2ceb3195-c11a-4466-82d5-a230ed3942eb)
 
 
 The concept of **quantum entanglement** can be metaphorically related to Michelangelo's *The Creation of Adam* through the profound idea of interconnectedness and instant influence, which are central to both the artwork and the phenomenon in physics.
