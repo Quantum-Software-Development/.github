@@ -1,8 +1,13 @@
 
 \
 
-#### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+## <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
+<br>
+
+1a-Rebirth Of Venus (Header) - Sandro Boticlli - Superposition.
+
+![Image](https://github.com/user-attachments/assets/2f1460e8-32d6-482a-926d-2c4d3eb6277e)
 
 <br>
 
