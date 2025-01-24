@@ -5,6 +5,8 @@
 
 <br>
 
+\color{teal} {\tt \huge  {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}
+
 $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
 <br>
