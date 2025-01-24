@@ -39,7 +39,7 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
  <p align="center">
 <img src="https://github.com/user-attachments/assets/37e34182-f872-43e1-8291-0fc4034aac9c" />
 
-Rebirth Of Venus - Sandro Boticelli
+#### <p align="center"> Rebirth Of Venus - Sandro Boticelli
 
 <br><br>
 
