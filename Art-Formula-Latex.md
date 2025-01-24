@@ -43,8 +43,6 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
  <p align="center">
 <img src="https://github.com/user-attachments/assets/37e34182-f872-43e1-8291-0fc4034aac9c" />
 
- <p align="center">
-<img src="https://github.com/user-attachments/assets/eca01f63-b09a-4131-921e-e171def45215" />
 
 ##### <p align="center"> Rebirth Of Venus - Sandro Boticelli
 
@@ -55,12 +53,19 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 1. **Visual Overlap and Fluidity**  
    - In the painting, Botticelli creates a sense of movement and dynamism through flowing elements like Venus' hair, the drapery, and the wind-blown flowers. These overlapping details suggest a simultaneous presence of motion and stillness, akin to the quantum superposition where particles exist in multiple states until observed [1][2][4].  
 
+<!--
 <br><br>
 
  <p align="center">
-<img src="https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277" />
+<img src="https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277" />  <br>
+-->
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/eca01f63-b09a-4131-921e-e171def45215" />
 
 <br>
+
 
 2. **Mythological and Symbolic Layers**  
    - The depiction of Venus emerging from the sea combines mythological, artistic, and symbolic dimensions. The goddess embodies purity, beauty, and renewal, all coexisting in a harmonious yet layered narrative. This mirrors the idea of superposition, where different possibilities coexist in a unified quantum state [2][5][7].
