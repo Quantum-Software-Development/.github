@@ -174,41 +174,108 @@ Both creations embody a Renaissance and scientific vision of the universe: a sea
 <br><br>
 
 
-## Souces
+## Sources
 
-### Sources on the relationship between Sandro Botticelli's "The Birth of Venus" and the concept of superposition
+### Sources on the relationship between Sandro Botticelli's *The Birth of Venus* and the concept of superposition
 
-[1] O Nascimento de Vênus de Sandro Botticelli - Toda Matéria https://www.todamateria.com.br/o-nascimento-de-venus/
-[2] O Nascimento de Vênus de Sandro Botticelli (análise e características) https://www.culturagenial.com/quadro-o-nascimento-de-venus-botticelli/
-[3] Sandro Botticelli, Nascimento de Vénus, 1483. - Luís Barreira https://www.luisbarreira.net/art/textos/sandro-botticelli-nascimento-de-venus-1483
-[4] Apreciação Crítica da obra de Sandro Botticelli – O Nascimento de ... https://jornaldomedico.com.br/2020/11/apreciacao-critica-da-obra-de-sandro-botticelli-o-nascimento-de-venus/
-[5] “O Nascimento de Vênus”: análise da obra de Sandro Botticelli https://guiadoestudante.abril.com.br/dica-cultural/o-nascimento-de-venus-analise-da-obra-de-sandro-botticelli
-[6] ANÁLISE: O nascimento de Vênus, de Sandro Botticelli. - YouTube https://www.youtube.com/watch?v=RKenSHNcF6k
-[7] O Nascimento de Vênus – Wikipédia, a enciclopédia livre https://pt.wikipedia.org/wiki/O_Nascimento_de_V%C3%AAnus
-[8] O Nascimento de Vênus - O primeiro nu feminino depois de um ... https://clickmuseus.com.br/o-nascimento-de-venus-o-primeiro-nu-depois-de-um-milenio-de-arte/
+[1] Sandro Botticelli's *The Birth of Venus* - Toda Matéria
 
-<br>
+https://www.todamateria.com.br/o-nascimento-de-venus/  
 
-###Sources linking The Creation of Adam to the concept of entanglement.
+[2] Analysis and Characteristics of *The Birth of Venus* by Sandro Botticelli - Cultura Genial 
 
-[1] O que é: Quantum entanglement - Comando Geek Blog https://comandogeek.com.br/blog/glossario/o-que-e-quantum-entanglement/
-[2] O que é: Quantum Entanglement (Emaranhamento Quântico) - DTWI https://transformacaodigitalbr.org/glossario/o-que-e-quantum-entanglement-emaranhamento-quantico/
-[3] Entrelaçamento quântico – Wikipédia, a enciclopédia livre https://pt.wikipedia.org/wiki/Entrela%C3%A7amento_qu%C3%A2ntico
-[4] Emaranhamento Quântico: Ação Assustadora à Distância - Editverse https://editverse.com/pt/quantum-entanglement-spooky-action-at-a-distance/
-[5] Emaranhamento Quântico - ICE Tech https://www.icetech.io/pt/2021/09/quantum-entanglement/
-[6] Quantum entanglement: strange behaviour of particles - YouTube https://www.youtube.com/watch?v=CXrptgPviN8
-[7] O entrelaçamento quântico permite comunicação mais rápida que a ... https://www.reddit.com/r/AskPhysics/comments/xl6sb6/does_quantum_entanglement_allow_for_faster_than/?tl=pt-br
-[8] DA HISTÓRIA COMPARADA AO CONCEITO DE ENTANGLEMENT https://core.ac.uk/outputs/596304180/
+https://www.culturagenial.com/quadro-o-nascimento-de-venus-botticelli/  
 
-<br>
+[3] Sandro Botticelli, *The Birth of Venus*, 1483 - Luís Barreira 
 
-###Sources examining the connection between the Vitruvian Man and Schrödinger's Equation.
+https://www.luisbarreira.net/art/textos/sandro-botticelli-nascimento-de-venus-1483  
 
-[1] “Vitruvian Man” by Leonardo da Vinci and the Golden Ratio http://www.crl.nitech.ac.jp/~ida/education/VitruvianMan/
-[2] Mathematics In The Art Of Leonardo Da Vinci - Mathnasium https://www.mathnasium.com/blog/mathematics-in-the-art-of-leonardo-da-vinci
-[3] Vitruvian Man by Leonardo Da Vinci | Overview & Legacy - Study.com https://study.com/learn/lesson/vitruvian-man-history-proportions.html
-[4] Leonardo da Vinci and his Vitruvian Man | Seeing Art - WordPress.com https://art1100.wordpress.com/2015/11/05/leonardo-da-vinci-and-his-vitruvian-man/
-[5] Revisiting Leonardo da Vinci's Vitruvian Man Using Contemporary ... https://pmc.ncbi.nlm.nih.gov/articles/PMC7284298/
-[6] Leonardo and Mathematics - The Mona Lisa Foundation https://monalisa.org/2012/09/12/leonardo-and-mathematics-in-his-paintings/
-[7] Da Vinci's Vitruvian Man of math - James Earle - YouTube https://www.youtube.com/watch?v=aMsaFP3kgqQ
-[8] Quantum Computers and Schrödinger's Cat https://datavizblog.com/2014/02/25/quantum-computers-and-schrodingers-cat/
+[4] Critical Appreciation of Sandro Botticelli's Work – *The Birth of Venus* - Jornal do Médico 
+
+https://jornaldomedico.com.br/2020/11/apreciacao-critica-da-obra-de-sandro-botticelli-o-nascimento-de-venus/ 
+
+[5] “*The Birth of Venus*”: Analysis of Sandro Botticelli's Work - Guia do Estudante 
+
+https://guiadoestudante.abril.com.br/dica-cultural/o-nascimento-de-venus-analise-da-obra-de-sandro-botticelli  
+
+[6] Analysis: *The Birth of Venus* by Sandro Botticelli - YouTube 
+
+https://www.youtube.com/watch?v=RKenSHNcF6k  
+
+[7] *The Birth of Venus* – Wikipedia, the free encyclopedia
+
+https://pt.wikipedia.org/wiki/O_Nascimento_de_V%C3%AAnus 
+
+[8] *The Birth of Venus* - The First Female Nude After a Millennium of Art - Click Museus 
+
+https://clickmuseus.com.br/o-nascimento-de-venus-o-primeiro-nu-depois-de-um-milenio-de-arte  
+
+---
+
+### Sources linking *The Creation of Adam* to the concept of entanglement
+
+[1] What is Quantum Entanglement? - Comando Geek Blog 
+
+https://comandogeek.com.br/blog/glossario/o-que-e-quantum-entanglement/  
+
+[2] What is Quantum Entanglement? - DTWI 
+
+https://transformacaodigitalbr.org/glossario/o-que-e-quantum-entanglement-emaranhamento-quantico/  
+
+[3] Quantum Entanglement – Wikipedia, the free encyclopedia 
+
+https://pt.wikipedia.org/wiki/Entrela%C3%A7amento_qu%C3%A2ntico  
+
+[4] Quantum Entanglement: Spooky Action at a Distance - Editverse 
+
+https://editverse.com/pt/quantum-entanglement-spooky-action-at-a-distance/  
+
+[5] Quantum Entanglement - ICE Tech 
+
+https://www.icetech.io/pt/2021/09/quantum-entanglement/  
+
+[6] Quantum Entanglement: Strange Behavior of Particles - YouTube 
+
+https://www.youtube.com/watch?v=CXrptgPviN8  
+
+[7] Quantum Entanglement Enables Faster Communication Than ... - Reddit https://www.reddit.com/r/AskPhysics/comments/xl6sb6/does_quantum_entanglement_allow_for_faster-than/?tl=pt-br 
+
+[8] From History to the Concept of Entanglement - Core 
+
+https://core.ac.uk/outputs/596304180/  
+
+---
+
+### Sources examining the connection between the *Vitruvian Man* and Schrödinger's Equation
+
+[1] *Vitruvian Man* by Leonardo da Vinci and the Golden Ratio - CRL Nitech 
+
+http://www.crl.nitech.ac.jp/~ida/education/VitruvianMan/  
+
+[2] Mathematics in the Art of Leonardo da Vinci - Mathnasium 
+
+https://www.mathnasium.com/blog/mathematics-in-the-art-of-leonardo-da-vinci  
+
+[3] *Vitruvian Man* by Leonardo da Vinci | Overview & Legacy - Study.com 
+
+https://study.com/learn/lesson/vitruvian-man-history-proportions.html  
+
+[4] Leonardo da Vinci and His *Vitruvian Man* | Seeing Art - 
+
+WordPress https://art1100.wordpress.com/2015/11/05/leonardo-da-vinci-and-his-vitruvian-man/  
+
+[5] Revisiting Leonardo da Vinci's *Vitruvian Man* Using Contemporary ... - PMC 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7284298/  
+
+[6] Leonardo and Mathematics - The Mona Lisa Foundation 
+
+https://monalisa.org/2012/09/12/leonardo-and-mathematics-in-his-paintings/  
+
+[7] Da Vinci's *Vitruvian Man* of Math - James Earle - YouTube 
+
+https://www.youtube.com/watch?v=aMsaFP3kgqQ  
+
+[8] Quantum Computers and Schrödinger's Cat - DataViz Blog 
+
+https://datavizblog.com/2014/02/25/quantum-computers-and-schrodingers-cat/  
