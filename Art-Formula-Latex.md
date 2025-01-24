@@ -13,14 +13,8 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
 
 ![Image](https://github.com/user-attachments/assets/2f1460e8-32d6-482a-926d-2c4d3eb6277e)
 
-<br>
-
-1b-Rebirth Of Venus (Header) - Sandro Boticelli - Superposition.jpg
-
-![Image](https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1)
 
 <br>
-
 
 #
 
@@ -40,6 +34,19 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 In essence, *The Birth of Venus* captures a Renaissance vision of interconnected possibilities, paralleling the concept of superposition by presenting a harmonious coexistence of forms, meanings, and movements within a single masterpiece.
 
 <br>
+
+<br>
+
+1b-Rebirth Of Venus (Header) - Sandro Boticelli - Superposition.jpg
+
+
+
+
+
+-----
+
+
+![Image](https://github.com/user-attachments/assets/081f42ae-1d04-42ea-8eaa-bf014578e6c1)
 
 
 ## <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
