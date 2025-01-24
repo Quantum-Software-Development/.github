@@ -62,7 +62,7 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 <br><br>
 
  <p align="center">
-<img src="https://github.com/user-attachments/assets/eca01f63-b09a-4131-921e-e171def45215" />
+<img src="https://github.com/user-attachments/assets/0f5bd037-1511-4ea9-ab30-869e63b5f982" />
 
 <br>
 
