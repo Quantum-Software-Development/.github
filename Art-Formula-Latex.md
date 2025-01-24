@@ -1,7 +1,19 @@
+<br>
 
 # <p align="center"> Art, Science, and Quantum 
 #### <p align="center"> ["Study the science of art and the art of science. Learn how to see. Realize that everything connects to everything else."]()
 #### <p align="center">Leonardo da Vinci (1452 - 1519)
+
+<br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+<br>
+
+### <p align="center"> ────────────── ✦ ──────────────
+
+<br>
 
 
 ### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
