@@ -20,13 +20,6 @@
 
 ## <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
-<br><br>
-
- <p align="center">
-<img src="https://github.com/user-attachments/assets/37e34182-f872-43e1-8291-0fc4034aac9c" />
-
-1a-Rebirth Of Venus - Sandro Boticlli - Superposition Concept.
-
 
 <!--
 <br><br><br><br><br><br><br><br><br><br>
@@ -40,8 +33,15 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
 
 $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
+
 <br><br>
 
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/37e34182-f872-43e1-8291-0fc4034aac9c" />
+
+Rebirth Of Venus - Sandro Boticelli
+
+<br><br>
 
 The concept of **superposition** in quantum mechanics can be metaphorically related to Botticelli's *The Birth of Venus* through the painting's visual and symbolic elements, which evoke a coexistence of multiple states and interpretations within a single composition.
 
