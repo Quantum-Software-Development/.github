@@ -20,6 +20,12 @@
 
 ## <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
+<br><br>
+
+$$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
+
+<br><br>
+
 
 <!--
 <br><br><br><br><br><br><br><br><br><br>
@@ -29,11 +35,6 @@ $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangl
 <br><br><br><br><br><br><br><br><br><br>
 -->
 
-<br><br>
-
-$$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
-
-<br><br>
 
 The concept of **superposition** in quantum mechanics can be metaphorically related to Botticelli's *The Birth of Venus* through the painting's visual and symbolic elements, which evoke a coexistence of multiple states and interpretations within a single composition.
 
@@ -56,8 +57,7 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
  <p align="center">
 <img src="https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277" />
 
-
-<br><br>
+<br><
 
 2. **Mythological and Symbolic Layers**  
    - The depiction of Venus emerging from the sea combines mythological, artistic, and symbolic dimensions. The goddess embodies purity, beauty, and renewal, all coexisting in a harmonious yet layered narrative. This mirrors the idea of superposition, where different possibilities coexist in a unified quantum state [2][5][7].
@@ -73,16 +73,23 @@ The concept of **superposition** in quantum mechanics can be metaphorically rela
 
 <br><br>
 
-────────────── ✦ ──────────────
-
 
 ## <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
 
+<br><br>
+
+$$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$  
+
+<br><br>
+
+
+<!--
 <br><br><br><br><br><br><br><br>
 
 $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
 
 <br><br><br><br><br><br><br><br>
+-->
 
 
 The concept of **quantum entanglement** can be metaphorically related to Michelangelo's *The Creation of Adam* through the profound idea of interconnectedness and instant influence, which are central to both the artwork and the phenomenon in physics.
