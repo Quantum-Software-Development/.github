@@ -1,6 +1,28 @@
+
+#### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
+
+
 <br>
 
-#### <p align="center">   Superpoition
+$$\huge \huge \color{cyan} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
+
+
+#
+
+<br>
+
+#### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+
+
+<br>
+
+$$\huge \color{green} {\color{cyan} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
+
+-----
+
+<br>
+
+#### <p align="center">  Entanglemebt
 
 #
 
