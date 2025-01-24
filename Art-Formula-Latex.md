@@ -22,13 +22,19 @@
 
 ![Image](https://github.com/user-attachments/assets/30f9eb07-650b-4802-9235-ea5c2eb35277)
 
-
+<!--
 <br><br><br><br><br><br><br><br><br><br>
-
 
 $$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
 <br><br><br><br><br><br><br><br><br><br>
+-->
+
+<br><br>
+
+$$\huge \color{green} {\color{Peru} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
+
+<br><br>
 
 
 The concept of **superposition** in quantum mechanics can be metaphorically related to Botticelli's *The Birth of Venus* through the painting's visual and symbolic elements, which evoke a coexistence of multiple states and interpretations within a single composition.
