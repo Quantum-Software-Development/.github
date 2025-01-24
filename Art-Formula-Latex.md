@@ -97,7 +97,7 @@ $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 
 The concept of **quantum entanglement** can be metaphorically related to Michelangelo's *The Creation of Adam* through the profound idea of interconnectedness and instant influence, which are central to both the artwork and the phenomenon in physics.
 
-### **Entanglement and *The Creation of Adam***
+#### <p align="center"> **Entanglement and *The Creation of Adam***
 
 #### **1. Interconnection and Unity**
 - In *The Creation of Adam*, the nearly touching hands of God and Adam symbolize a deep, intrinsic connection between the divine and humanity. This connection mirrors quantum entanglement, where two particles are so intrinsically linked that the state of one instantly influences the other, regardless of distance[1][2].
