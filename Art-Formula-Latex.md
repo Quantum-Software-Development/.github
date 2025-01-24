@@ -110,7 +110,7 @@ The concept of **quantum entanglement** can be metaphorically related to Michela
 <br><br>
 
  <p align="center">
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/a2aa3ea6-24a7-419a-bd5e-d951c097c03a"/>
 
 <br><br>
 
