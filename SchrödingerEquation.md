@@ -1,5 +1,18 @@
 # Schrödinger Equation: Mathematical Formulation
 
+\[
+i\hbar \frac{\partial}{\partial t} |\psi(t)\rangle = \hat{H} |\psi(t)\rangle
+\]
+
+### Components:
+- \( i \): Imaginary unit.
+- \( \hbar \): Reduced Planck's constant.
+- \( \frac{\partial}{\partial t} \): Partial derivative with respect to time.
+- \( |\psi(t)\rangle \): State vector of the quantum system in Hilbert space, containing all information about the system at time \( t \).
+- \( \hat{H} \): Hamiltonian operator, corresponding to the total energy (kinetic + potential) of the system.
+
+This form is more general and abstract, widely used in quantum theory and operator formalism.
+
 ## Time-Dependent Schrödinger Equation
 
 The **time-dependent Schrödinger equation** describes the evolution of the quantum state of a system over time:
