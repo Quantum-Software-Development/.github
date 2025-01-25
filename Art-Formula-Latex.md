@@ -92,13 +92,13 @@ $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\
 <br><br>
 
 
-<!--
+
 <br><br><br><br><br><br><br><br>
 
 $$\huge \huge \color{Peru} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
 
 <br><br><br><br><br><br><br><br>
--->
+
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/2ceb3195-c11a-4466-82d5-a230ed3942eb" />
