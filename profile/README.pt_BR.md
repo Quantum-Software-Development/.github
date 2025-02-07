@@ -19,8 +19,8 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 <br><br>
 
 
-#### <p align="center">  🔬Research and Exploration in Quantum Computing
-##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+### <p align="center">  🔬Research and Exploration in Quantum Computing
+#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br><br>
 
@@ -36,7 +36,7 @@ Junte-se a nós enquanto moldamos o futuro da computação quântica. **Bem-vind
 
 <br><br>
 
-###  <p align="center"> O vídeo foi produzido pelo CERN.
+###  <p align="center"> Vídeo foi produzido pelo CERN.
 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
