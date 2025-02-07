@@ -7,14 +7,17 @@
 ## <p align="center">  🇶 Bem-vindo a uma Nova Era: Quantum 4 All — [Da Escuridão para Luz]()
 ### <p align="center"> Eu vejo a matemática como uma linguagem musical e artística e a Física Quântica como uma psicologia do Universo. [𓂀]()
 
+<!--
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>  -->
+
+https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
+
+##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
+
 
 <br><br>
 
-
- <p align="center">
-<img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>
-
-<br>
 
 #### <p align="center">  🔬Research and Exploration in Quantum Computing
 ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
