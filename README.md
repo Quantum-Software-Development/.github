@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 <br><br>
 
 
-#### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
-##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
+#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 <br>
 
