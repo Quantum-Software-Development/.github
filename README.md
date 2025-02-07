@@ -21,13 +21,13 @@
  <p align="center">
 <img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>  -->
 
-https://github.com/user-attachments/assets/a511816d-f02f-466e-a7c7-6b20037d7778
+https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
-##### 🎶 Prelude Suite no.1 (J. S. Bach) - Sound Design Remix
-
+##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
 
 
 <br><br>
+
 
 #### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
 ##### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
