@@ -300,7 +300,26 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
  <br><br>
 
-<p align="center"> ☝︎ <a href="#top">Back to Top</a>
+## 💌 [Contact Me](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
 
   
 
