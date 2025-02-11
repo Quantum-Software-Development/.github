@@ -17,6 +17,7 @@
 [Download the PDF.pdf](https://github.com/user-attachments/files/18216716/Download.the.PDF.pdf)
 
 -->
+
 <!--
  <p align="center">
 <img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>  -->
@@ -27,7 +28,6 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 
 <br><br>
-
 
 ### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
 #### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
@@ -300,7 +300,26 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
  <br><br>
 
-<p align="center"> ☝︎ <a href="#top">Back to Top</a>
+## 💌 [Contact Me](mailto:fabicampanari@proton.me)
+
+<br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
 
   
 
