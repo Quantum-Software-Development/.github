@@ -5,8 +5,7 @@
 
   <!-- Start Header -->
 
-# <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
-### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+# <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All  <p align="center"> ### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
 <br>
 
