@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 <br>
 
-###  <p align="center"> [Phisycs in School](https://www.vascak.cz/physicsanimations.php?l=pt)
+###  <p align="center"> ➢➣ Clique Aqui  e Acesse o Site Phisycs in School , Disponivel em Todas as Linguas !!!! [Phisycs in School](https://www.vascak.cz/physicsanimations.php?l=pt)
 
 #### <p align="center"> ────────────── 🇶 ──────────────
 
