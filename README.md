@@ -53,9 +53,6 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ### <p align="center"> ────────────── 🇶 ──────────────
 
-
-
-
 <br><br>
 
 ###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
