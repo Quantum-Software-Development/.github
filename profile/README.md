@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ####  ➢ [Click Here](https://proton.me/mail) and access ***[PROTON MAIL]()*** is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
 
-####  ➢ [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and access ***[OSINT]()*** is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like [Shodan](https://www.shodan.io), [Maltego](https://www.maltego.com), [TheHarvester](https://github.com/laramies/theHarvester), [Recon-ng](https://github.com/lanmaster53/recon-ng) and [SpiderFoot ](https://www.spiderfoot.net).
+####  ➢ [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and access ***[OSINT]()*** is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like [Shodan](https://www.shodan.io), [Maltego](https://www.maltego.com), [TheHarvester](https://github.com/laramies/theHarvester), [Recon-ng](https://github.com/lanmaster53/recon-ng) and [SpiderFoot](https://www.spiderfoot.net).
 
 <br><br>
 
