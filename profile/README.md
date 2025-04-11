@@ -44,11 +44,9 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE]()***, Available in All Languages!
 
-####   ➢  [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and access ***OSINT*** is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like Shodan, Maltego, TheHarvester, and Recon-ng.
+####   ➢  [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and access ***[OSINT]()*** is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like Shodan, Maltego, TheHarvester, and Recon-ng.
 
-####  ➢ [Click Here](https://proton.me/mail) and access ***Proton Mail*** is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
-
-<br>
+####  ➢ [Click Here](https://proton.me/mail) and access ***[PROTON MAIL]()*** is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
 
 
 <br><br>
@@ -84,7 +82,7 @@ At [**Quantum Software Development**](), we invite you to explore the limitless 
 Standing at the edge of this transformation, [**Quantum Software Development**]() envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from [Dark to Light]() begins here.
 
 
-[Join us]() in shaping the future of Quantum Computing because [Quantum is 4 ALL]() !
+[Join us]() in shaping the Future of Quantum Computing because [Quantum is 4 ALL]() !
 
 
 <br>
