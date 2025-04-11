@@ -58,6 +58,15 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 <br>
 
+#### <p align="center"> ────────────── 🇶 ──────────────
+
+<br>
+
+
+https://www.myosint.training/courses/introduction-to-osint?ref=f7428c
+
+<br>
+
 ### <p align="center"> ────────────── 🇶 ──────────────
 
 
