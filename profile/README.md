@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ####   ➢  [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and access OSINT is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like Shodan, Maltego, TheHarvester, and Recon-ng.
 
-#### [Click Here](https://proton.me/mail) and access Proton Mail is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
+####  ➢ [Click Here](https://proton.me/mail) and access Proton Mail is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
 
 <br>
 
