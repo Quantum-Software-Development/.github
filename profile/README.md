@@ -42,7 +42,16 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 <br><br>
 
-###  <p align="center"> ➢➣ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and Access the Physics in School Site, Available in All Languages!
+###  <p align="center"> ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and Access the Physics in School Site, Available in All Languages!
+
+<br>
+
+###   <p align="center"> ➢  [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and Access OSINT is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like Shodan, Maltego, TheHarvester, and Recon-ng.
+
+<br>
+
+
+## 
 
 <br><br>
 
@@ -62,10 +71,6 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 <br>
 
-
-https://www.myosint.training/courses/introduction-to-osint?ref=f7428c
-
-<br>
 
 ### <p align="center"> ────────────── 🇶 ──────────────
 
@@ -104,8 +109,6 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
 <br>
-
-https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
 
 #
