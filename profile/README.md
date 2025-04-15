@@ -50,7 +50,13 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ####  ➢ [Click Here](https://www.geogebra.org/math/statistics-probability) to access ***[GeoGebra]()***, a dynamic mathematical platform with tools for **data analysis, statistics, algebra, and interactive graphics**, essential for **Data Science and AI**. It allows users to **import data, generate visualizations (histograms), calculate statistics, perform regressions, and explore relationships between variables**, aiding in the creation of **predictive models**. It integrates **spreadsheets and algebraic tools**, serving as a versatile platform for quantitative analysis.
 
-####  ➢ [Click Here]() and access **PHPSimplex**, an online tool that solves linear programming problems using the simplex method, two-phase method, and graphical method, generating graphs and solutions automatically.
+#### ➣ [Access Tutoril](Geogebra](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst) about solving LP problems using 
+
+####  ➢ [Click Here](https://https://www.phpsimplex.com/en/index.htm) and access **PHPSimplex**, an online tool that solves linear programming problems using the simplex method, two-phase method, and graphical method, generating graphs and solutions automatically.
+
+#### ➢ [Access PHPSimplex](https://https://www.phpsimplex.com/en/index.htm)
+
+#### ➢ [Analytics4All](https://analytics4all.org/2016/06/08/phpsimplex-simplex-linear-programming/)
 
 
 <br><br>
