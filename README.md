@@ -1,3 +1,5 @@
+<br>
+
 \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
@@ -5,10 +7,11 @@
 
   <!-- Start Header -->
 
-# <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All 
-### <p align="center"> *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+# <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All  
+### <p align="center">  *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
-<br>
+
+<br><br>
 
 
 <!--
@@ -32,14 +35,43 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 ### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
 #### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-<br>
+<br><br>
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
+<br><br>
+
+#### <p align="center"> ────────────── 🇶 ──────────────
+
+<br><br>
+
+####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE]()***, Available in All Languages!
+
+####  ➢ [Click Here](https://www.geogebra.org/math/statistics-probability) to access ***[GeoGebra]()***, a dynamic mathematical platform with tools for **data analysis, statistics, algebra, and interactive graphics**, essential for **Data Science and AI**. It allows users to **import data, generate visualizations (histograms), calculate statistics, perform regressions, and explore relationships between variables**, aiding in the creation of **predictive models**. It integrates **spreadsheets and algebraic tools**, serving as a versatile platform for quantitative analysis.
+
+#### ➣ [Access Tutoril](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst) about solving LP problems using Geogebra.
+
+####  ➢ [Click Here](https://https://www.phpsimplex.com/en/index.htm) and access **PHPSimplex**, an online tool that solves linear programming problems using the simplex method, two-phase method, and graphical method, generating graphs and solutions automatically.
+
+#### ➢ [Access PHPSimplex](https://https://www.phpsimplex.com/en/index.htm)
+
+#### ➢ [Analytics4All](https://analytics4all.org/2016/06/08/phpsimplex-simplex-linear-programming/)
+
+
 <br>
 
-### <p align="center"> ────────────── 🇶 ──────────────
+#### <p align="center"> ────────────── 🇶 ──────────────
+
+<br>
+
+####  ➢ [Click Here](https://proton.me/mail) and access ***[PROTON MAIL]()*** is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
+
+####  ➢ [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and access ***[OSINT]()*** is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like [Shodan](https://www.shodan.io), [Maltego](https://www.maltego.com), [TheHarvester](https://github.com/laramies/theHarvester), [Recon-ng](https://github.com/lanmaster53/recon-ng) and [SpiderFoot](https://www.spiderfoot.net).
+
+<br>
+
+#### <p align="center"> ────────────── 🇶 ──────────────
 
 <br>
 
@@ -51,7 +83,8 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 <br>
 
-### <p align="center"> ────────────── 🇶 ──────────────
+#### <p align="center"> ────────────── 🇶 ──────────────
+
 
 <br><br>
 
@@ -69,7 +102,7 @@ At [**Quantum Software Development**](), we invite you to explore the limitless 
 Standing at the edge of this transformation, [**Quantum Software Development**]() envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from [Dark to Light]() begins here.
 
 
-[Join us]() in shaping the future of Quantum Computing because [Quantum is 4 ALL]() !
+[Join us]() in shaping the Future of Quantum Computing because [Quantum is 4 ALL]() !
 
 
 <br>
@@ -85,8 +118,6 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
 <br>
-
-https://github.com/user-attachments/assets/0dc95e95-b0b2-4de8-a37b-e1ad8dac19f2
 
 
 #
@@ -134,24 +165,7 @@ Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two di
 
   <br>
 
-#
 
-<br>
-
-### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
-
-![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
-
-#
-
-### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
-
-<br>
-
-![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
-
-
-<br>
 
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
@@ -263,6 +277,25 @@ There are multiple services available, two of which the tech giants themselves p
 
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
 
+
+#
+
+<br>
+
+### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
+
+![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+
+#
+
+### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
+
+<br>
+
+![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
+
+
+<br>
 
 ## [Source:]()
 
