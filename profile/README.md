@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE]()***, Available in All Languages!
 
-####  ➢ [Click Here]() to access **GeoGebra**, a dynamic mathematical platform with tools for **data analysis, statistics, algebra, and interactive graphics**, essential for **Data Science and AI**. It allows users to **import data, generate visualizations (histograms), calculate statistics, perform regressions, and explore relationships between variables**, aiding in the creation of **predictive models**. It integrates **spreadsheets and algebraic tools**, serving as a versatile platform for quantitative analysis.
+####  ➢ [Click Here](https://www.geogebra.org/math/statistics-probability) to access ***[GeoGebra]()***, a dynamic mathematical platform with tools for **data analysis, statistics, algebra, and interactive graphics**, essential for **Data Science and AI**. It allows users to **import data, generate visualizations (histograms), calculate statistics, perform regressions, and explore relationships between variables**, aiding in the creation of **predictive models**. It integrates **spreadsheets and algebraic tools**, serving as a versatile platform for quantitative analysis.
 
 ####  ➢ [Click Here]() and access **PHPSimplex**, an online tool that solves linear programming problems using the simplex method, two-phase method, and graphical method, generating graphs and solutions automatically.
 
