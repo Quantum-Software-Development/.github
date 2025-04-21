@@ -19,11 +19,6 @@
 
 <br>
 
-#### <p align="center">  *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
-
-<br><br>
-
-
 <!--
 #### <p align="center"> https://github.com/user-attachments/files/18216607/Download.the.PDF.pdf
 
@@ -38,6 +33,16 @@
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
+
+<br><br>
+
+#### <p align="center"> ────────────── 🇶 ──────────────
+
+
+<br><br>
+
+
+#### <p align="center">  *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
 
 <br><br>
