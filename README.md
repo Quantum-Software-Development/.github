@@ -2,13 +2,24 @@
 
 \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
+
 <br><br>
 
   <!-- Start Header -->
 
 # <p align="center">  🇶 Welcome to a New Era: [From Dark to Light]() - Quantum [4]() All  
-### <p align="center">  *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
+#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
+<br><br>
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br>
+
+### <p align="center">  *I see [Mathematics]() as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
 <br><br>
 
@@ -31,13 +42,7 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 <br><br>
 
-### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
-#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
-<br><br>
-
-<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 <br><br>
 
