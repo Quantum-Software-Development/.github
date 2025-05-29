@@ -316,7 +316,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 
-- Francisco Rodrigues, [Professor  Ph.D., USP]() 
+- Francisco Rodrigues, [Professor  Ph.D., USP](https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b/) 
 
 - IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
   
