@@ -318,7 +318,7 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 - Francisco Rodrigues, [Professor  Ph.D., USP](https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b/)
 
-- Professor Francisco Rodrigues, Ph.D., USP - [Physics and Machine Learning]()
+- Professor Francisco Rodrigues, Ph.D., USP - [Physics and Machine Learning](https://github.com/Quantum-Software-Development/.github/blob/6aa5c3b5d05d40eb64665f8618ab7a766971322b/Physics%20and%20machine%20learning-Prof%20Francisco%20%20Rodrigues.pdf)
 
 - IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
   
