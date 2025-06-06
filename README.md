@@ -9,7 +9,7 @@
 
 # <p align="center">  🇶 Welcome to a New Era: [From Dark to Light](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff) - Quantum [4]() All  
 ### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
-#### <p align="center">  by [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+#### <p align="center">  by [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
 
 <br><br>
 
