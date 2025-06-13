@@ -287,26 +287,6 @@ There are multiple services available, two of which the tech giants themselves p
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
 
 
-#
-
-<br>
-
-### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
-
-![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
-
-#
-
-### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
-
-<br>
-
-![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
-
-
-
-
-
  <br><br>
 
 
@@ -350,7 +330,22 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 <br>
   
+## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
+
+<br> 
+
+### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
+
+![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+
 #
+
+### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
+
+<br>
+
+![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
+
 
 
 <br><br>
