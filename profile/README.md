@@ -354,9 +354,12 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 ### [Determine the circuit depth]() by playing Tetris on IBM Quantum - Qiskt.
 
-<br>
+<br><br>
 
-![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f" alt="Descrição da imagem" width="650"/>
+</p>
+
 
 <br>
 
