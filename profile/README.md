@@ -369,6 +369,17 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 
 
+https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
+    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="450" />
+  </a>
+</p>
+
+
+
+
 <!--
 <p align="center">
   <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
