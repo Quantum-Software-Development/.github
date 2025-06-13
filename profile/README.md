@@ -389,7 +389,10 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br> 
 
-![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e" alt="Descrição da imagem" width="650"/>
+</p>
+
 
 #
 
