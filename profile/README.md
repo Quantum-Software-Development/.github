@@ -332,6 +332,34 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 <br><br>
 
 
+
+
+<br>
+
+## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
+
+<br> 
+
+### [Performance of QKNN-KNN algorithms]() in quantum computing using IBM Quantum - Qiskit.
+
+<br> 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e" alt="Descrição da imagem" width="650"/>
+</p>
+
+<br>
+
+#
+
+### [Determine the circuit depth]() by playing Tetris on IBM Quantum - Qiskt.
+
+<br>
+
+![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
+
+<br>
+
 ## 🇶 [Contribution]()
 
 Any contributions are highly appreciated.  You can contribute in two ways:
@@ -380,28 +408,6 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 
 <br>
-
-## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
-
-<br> 
-
-### [Performance of QKNN-KNN algorithms]() in quantum computing using IBM Quantum - Qiskit.
-
-<br> 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e" alt="Descrição da imagem" width="650"/>
-</p>
-
-
-#
-
-### [Determine the circuit depth]() by playing Tetris on IBM Quantum - Qiskt.
-
-<br>
-
-![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
-
 
 ## [Source:]()
 
