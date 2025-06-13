@@ -347,10 +347,93 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
  <br><br>
 
-## 💌 [Contact Me](mailto:fabicampanari@proton.me)
+
+## [Our open-source approach]()
+
+Our open-source commitment allows businesses to access, customize, and [collaborate]() on our AI solutions, creating a space for [innovation]() and [shared]() progress in the AI field.
+
+<br>
+
+## [Get Involved]()
+
+**Mindful AI Assistants Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+
+ <br><br>
+
+
+ <p align="center">
+  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
+    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
+  </a>
+</p>
+
+
+
+
+<!--
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
+    <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
+  </a>
+</p>
+-->
+
+<br>
+
+#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+  
+#
+
 
 <br><br>
 
+
+### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
+
+<br><br>
+
+     
+ ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
+
+ <br>
+
+## 𖤐 [Contribution]()
+
+Any contributions are highly appreciated.  You can contribute in two ways:
+
+   1. Create an issue and tell us your idea ⚡️. Make sure that you use the new idea label in this case;
+
+   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](). ⊹🔭๋
+
+
+<br>
+
+ 
+## 🌎 [Spread the word!]()   
+
+If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
+
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
+
+
+<br>
+
+
+## 👨🏽‍🚀 [Main Contributors]() 
+
+<br>
+
+- [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
+- [Andson Ribeiro](https://github.com/andsonandreribeiro09)
+
+
+<br>
+
+##  Feel Free to [Reach Out:]()
+
+### 💌 [Email Me](mailto:fabicampanari@proton.me)
+
+<br>
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
@@ -361,16 +444,19 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
-<br><br><br>
+<br><br>
 
-<p align="center">  ────────────── 🔭⋆ ──────────────
+<p align="center">  ────────────── ⊹🔭๋ ──────────────
 
+<!--
+<p align="center">  ────────────── 🛸๋*ੈ✩* 🔭*ੈ₊ ──────────────
+-->
+
+<br>
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
-
   
 
-#
 
 ###### <p align="center"> Copyright 2025 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
 
