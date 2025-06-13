@@ -385,13 +385,15 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br> 
 
-### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
+### [Performance of QKNN-KNN algorithms]() in quantum computing using IBM Quantum - Qiskit.
+
+<br> 
 
 ![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
 
 #
 
-### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
+### [Determine the circuit depth]() by playing Tetris on IBM Quantum - Qiskt.
 
 <br>
 
