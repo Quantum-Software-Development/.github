@@ -302,7 +302,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
  <br><br>
 
- ##### <p align="center"> Tap the atom and [groove to the quantum minds behind the code]().
+ ##### <p align="center"> 𝄞 Tap the atom and [groove to the quantum minds behind the code]().
 
  <br>
 
