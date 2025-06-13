@@ -391,23 +391,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 - [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
 - [Andson Ribeiro](https://github.com/andsonandreribeiro09)
-
-
-<br>
-
-##  Feel Free to [Reach Out:]()
-
-### 💌 [Email Me](mailto:fabicampanari@proton.me)
-
-<br>
-
-
-#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
-
-
-<br>
-
-### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+- [Pedro Vyctor Almeida]()
 
 
 <br>
@@ -450,7 +434,22 @@ Do you have any suggestions on how we could improve this project overall? Let us
 - The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum)
 
 
-<br><br>
+<br>
+
+##  Feel Free to [Reach Out:]()
+
+### 💌 [Email Me](mailto:fabicampanari@proton.me)
+
+<br>
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
 
 
 <p align="center">  ────────────── ⊹🔭๋ ──────────────
