@@ -397,7 +397,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
  <br>
 
-## 𖤐 [Contribution]()
+## 🇶 [Contribution]()
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
