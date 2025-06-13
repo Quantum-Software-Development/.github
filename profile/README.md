@@ -360,6 +360,10 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
  <br><br>
 
+ ##### <p align="center"> Tap the atom and [groove to the quantum minds behind the code]().
+
+ <br>
+
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
@@ -381,6 +385,8 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 <br>
 
 #### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+
+<br>
   
 #
 
