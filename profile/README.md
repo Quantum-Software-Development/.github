@@ -350,13 +350,13 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 ## [Our open-source approach]()
 
-Our open-source commitment allows businesses to access, customize, and [collaborate]() on our AI solutions, creating a space for [innovation]() and [shared]() progress in the AI field.
+Our open-source commitment allows businesses to access, customize, and [collaborate]() on our Quantum Technologies solutions, creating a space for [innovation]() and [shared]() progress in the Quantum Field.
 
 <br>
 
 ## [Get Involved]()
 
-**Mindful AI Assistants Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+**Quantum Software Development Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
 
  <br><br>
 
@@ -380,7 +380,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 <br>
 
-#### <p align="center"> 🪷 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+#### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
   
 #
 
@@ -455,8 +455,11 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <br>
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
-  
 
+<br>
+
+#
+  
 
 ###### <p align="center"> Copyright 2025 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
 
