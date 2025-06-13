@@ -301,7 +301,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
  <br><br>
 
  #### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
- ###### 🎶 <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
+ ###### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
 
  <br>
 
