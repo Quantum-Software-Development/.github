@@ -32,10 +32,9 @@
 
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
-##### 🎶 ***Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()***
+###### 🎶  ***[Prelude Suite no.1; J. S. Bach]()  - Art and Sound Design Remix by Fabi***  🖤
 
-
-<br><br>
+<br>
 
 <!--
 
@@ -301,14 +300,15 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
  <br><br>
 
- ##### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
+ #### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
+ ###### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
 
  <br>
 
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
-    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="450" />
+    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="500" />
   </a>
 </p>
 
@@ -325,15 +325,12 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 <br>
 
-#### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+#### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
 
 <br><br>
 
 
-
-
-<br>
 
 ## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
 
@@ -344,7 +341,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 <br> 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e" alt="Descrição da imagem" width="650"/>
+  <img src="https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e" alt="Descrição da imagem" width="500"/>
 </p>
 
 <br>
@@ -355,8 +352,9 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 <br><br>
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f" alt="Descrição da imagem" width="650"/>
+  <img src="https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f" alt="Descrição da imagem" width="500"/>
 </p>
 
 
