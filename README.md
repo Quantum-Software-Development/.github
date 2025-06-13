@@ -13,6 +13,12 @@
 
 <br><br>
 
+
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+<br><br>
+
 <!--
 #### <p align="center"> https://github.com/user-attachments/files/18216607/Download.the.PDF.pdf
 
@@ -26,14 +32,7 @@
 
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
-#### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()
-
-<br><br>
-
-
-<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
-
+##### 🎶 ***Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]()***
 
 
 <br><br>
@@ -287,21 +286,111 @@ There are multiple services available, two of which the tech giants themselves p
 Despite being at a nascent stage, quantum computing managed to make a buzz in the industry. Solving the impossible within seconds is what quantum computing promises the world.
 
 
-#
+ <br><br>
+
+
+## [Our open-source approach]()
+
+Our open-source commitment allows businesses to access, customize, and [collaborate]() on our Quantum Technologies solutions, creating a space for [innovation]() and [shared]() progress in the Quantum Field.
 
 <br>
 
-### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
+## [Get Involved]()
 
-![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+**Quantum Software Development Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
 
-#
+ <br><br>
 
-### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
+ ##### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
+
+ <br>
+
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
+    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="450" />
+  </a>
+</p>
+
+
+
+
+<!--
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
+    <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
+  </a>
+</p>
+-->
 
 <br>
 
-![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
+#### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+
+
+<br><br>
+
+
+
+
+<br>
+
+## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
+
+<br> 
+
+### [Performance of QKNN-KNN algorithms]() in quantum computing using IBM Quantum - Qiskit.
+
+<br> 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e" alt="Descrição da imagem" width="650"/>
+</p>
+
+<br>
+
+#
+
+### [Determine the circuit depth]() by playing Tetris on IBM Quantum - Qiskt.
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f" alt="Descrição da imagem" width="650"/>
+</p>
+
+
+<br>
+
+## 🇶 [Contribution]()
+
+Any contributions are highly appreciated.  You can contribute in two ways:
+
+   1. Create an issue and tell us your idea ⚡️. Make sure that you use the new idea label in this case;
+
+   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](). ⊹🔭๋
+
+
+<br>
+
+ 
+## 🌎 [Spread the word!]()   
+
+If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
+
+Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
+
+
+<br>
+
+
+## 👨🏽‍🚀 [Main Contributors]() 
+
+<br>
+
+- [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
+- [Andson Ribeiro](https://github.com/andsonandreribeiro09)
+- [Pedro Vyctor Almeida]()
 
 
 <br>
@@ -344,89 +433,6 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 - The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum)
 
 
-
- <br><br>
-
-
-## [Our open-source approach]()
-
-Our open-source commitment allows businesses to access, customize, and [collaborate]() on our Quantum Technologies solutions, creating a space for [innovation]() and [shared]() progress in the Quantum Field.
-
-<br>
-
-## [Get Involved]()
-
-**Quantum Software Development Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
-
- <br><br>
-
-
- <p align="center">
-  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
-    <img src="https://github.com/user-attachments/assets/b22f1f19-441d-4e27-963c-88bbb5ab7891" width="450" />
-  </a>
-</p>
-
-
-
-
-<!--
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
-    <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
-  </a>
-</p>
--->
-
-<br>
-
-#### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-  
-#
-
-
-<br><br>
-
-
-### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
-
-<br><br>
-
-     
- ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
-
- <br>
-
-## 🇶 [Contribution]()
-
-Any contributions are highly appreciated.  You can contribute in two ways:
-
-   1. Create an issue and tell us your idea ⚡️. Make sure that you use the new idea label in this case;
-
-   2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](). ⊹🔭๋
-
-
-<br>
-
- 
-## 🌎 [Spread the word!]()   
-
-If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! 
-
-Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
-
-
-<br>
-
-
-## 👨🏽‍🚀 [Main Contributors]() 
-
-<br>
-
-- [Fabiana 🧬 Campanari](https://github.com/FabianaCampanari)
-- [Andson Ribeiro](https://github.com/andsonandreribeiro09)
-
-
 <br>
 
 ##  Feel Free to [Reach Out:]()
@@ -444,7 +450,6 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
-<br><br>
 
 <p align="center">  ────────────── ⊹🔭๋ ──────────────
 
@@ -464,10 +469,3 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ###### <p align="center"> Copyright 2025 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
 
 ###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
-
-
-
-
-
-
-
