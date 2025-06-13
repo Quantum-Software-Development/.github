@@ -361,16 +361,6 @@ Our open-source commitment allows businesses to access, customize, and [collabor
  <br><br>
 
 
- <p align="center">
-  <a href="https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/ec7cf74f-d626-4160-959c-e73df5a852e2">
-    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="450" />
-  </a>
-</p>
-
-
-
-https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
-
 <p align="center">
   <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
     <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="450" />
