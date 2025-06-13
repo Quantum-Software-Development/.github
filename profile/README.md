@@ -32,7 +32,7 @@
 
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
-###### 🎶  ***[Prelude Suite no.1; J. S. Bach]()  - Art and Sound Design Remixed by Fabi***  🖤
+###### 🎶  ***[Prelude Suite no.1; J. S. Bach]()  - Art and Sound Design Remix by Fabi***  🖤
 
 <br>
 
@@ -301,7 +301,7 @@ Our open-source commitment allows businesses to access, customize, and [collabor
  <br><br>
 
  #### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
- ##### 🎶 ***[Symphony No 9 Beethoven in D minor (Ode to Joy)]() - Art and Sound Design Remixed by Fabi*** 🖤
+ ###### 🎶 <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
 
  <br>
 
