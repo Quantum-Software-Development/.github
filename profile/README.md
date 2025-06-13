@@ -328,37 +328,9 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 #### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE CAN CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
-<br>
-  
-## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
-
-<br> 
-
-### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
-
-![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
-
-#
-
-### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
-
-<br>
-
-![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
-
-
 
 <br><br>
 
-
-### <p align="center"> <img width="131" alt="Produced-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/MindfulAI-Copilots-Bots/.github/assets/113218619/3e3085a8-4e8f-49b5-b3f7-387e9649be17">
-
-<br><br>
-
-     
- ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
-
- <br>
 
 ## 🇶 [Contribution]()
 
@@ -407,7 +379,23 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
-<br><br>
+<br>
+
+## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
+
+<br> 
+
+### Performance of QKNN-KNN algorithms in quantum computing using IBM Quantum - Qiskit.
+
+![Quantum Tech](https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e)
+
+#
+
+### Determine the circuit depth by playing Tetris on IBM Quantum - Qiskt.
+
+<br>
+
+![depth](https://github.com/user-attachments/assets/b3456511-05d0-45b3-b2cb-f83deac4b77f)
 
 
 ## [Source:]()
