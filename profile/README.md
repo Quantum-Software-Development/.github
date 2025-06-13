@@ -6,17 +6,8 @@
 
 # <p align="center"> 🇶 **[Quantum Computing]() Timeline with Key Contributions and Formulas**
 
-<br>
-
-
-📺 [Watch on YouTube for better resolution](https://youtu.be/KR5YnSiN5Ao)
-
-https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
-
-##### 🎶 Symphony No 9 Beethoven in D minor (Ode to Joy) - Sound Design Remixed
 
 <br><br>
-
 
 
 <!--
@@ -30,6 +21,17 @@ https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
+
+<br>
+
+
+📺 [Watch on YouTube for better resolution](https://youtu.be/KR5YnSiN5Ao)
+
+https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
+
+##### 🎶 Symphony No 9 Beethoven in D minor (Ode to Joy) - Sound Design Remixed
+
 
 
  <br><br>
@@ -47,7 +49,6 @@ https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee
 </p>
 -->
 
- <br>
 
 ## [About This Repository]()
 
