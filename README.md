@@ -435,7 +435,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 ##  Feel Free to [Reach Out:]()
 
-### 💌 [Email Me](mailto:fabicampanari@proton.me)
+### 💌 [Let the data flow — ping me ](mailto:fabicampanari@proton.me)
 
 <br>
 
