@@ -433,9 +433,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-##  Feel Free to [Reach Out:]()
 
-### 💌 [Let the data flow... Ping Me ](mailto:fabicampanari@proton.me)
+## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br>
 
@@ -448,6 +447,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 ### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
 
 
+<br><br>
 
 <p align="center">  ────────────── ⊹🔭๋ ──────────────
 
@@ -458,11 +458,13 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <br>
 
 <p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+  
 
 <br>
-
-#
   
+#
+ 
+
 
 ###### <p align="center"> Copyright 2025 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
 
