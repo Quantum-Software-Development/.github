@@ -112,9 +112,16 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 [Join us]() in shaping the Future of Quantum Computing because [Quantum is 4 ALL]() !
 
 
+<br><br>
+
+
+## The [Torsion]():
+
 <br>
 
-#
+https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
+
+
 
 <br>
 
