@@ -212,13 +212,6 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/6eba3a6a-b2d2-4a0e-adbf-57cfc281fbf5">
-    📹 Watch the video
-  </a>
-</p>
-
-
 
 <!-- Commutator in Q Mechanics with Starts Effect -->
 
