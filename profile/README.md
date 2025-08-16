@@ -117,7 +117,8 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 ## The Quantum Mind [Torsion]():
 
-<br>
+<br><br>
+
 
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
@@ -148,6 +149,7 @@ https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
 
 <br>
 
+
 ### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
 
 <br><br>
@@ -162,7 +164,7 @@ $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
 
 ### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
-<br>
+<br><br>
 
 
 $$\huge \color{green} {\color{DeepSkyBlue} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
