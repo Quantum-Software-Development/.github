@@ -97,10 +97,23 @@ https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 
 ###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
 
+<br>
+ 
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
+
+
 
 <br><br>
 
+
+###  <p align="center">  Thermodynamics = [Black Holes  Mechanics]()
+
+<br>
+
+https://github.com/user-attachments/assets/32fcc04b-06f8-478e-a376-0643fb8ff7fa
+
+
+<br><br>
 
 At [**Quantum Software Development**](), we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
 
