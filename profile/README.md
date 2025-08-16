@@ -133,11 +133,11 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ### <p align="center">   Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
 
-<br>
+<br><br>
 
 $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
-<br>
+<br><br>
 
 https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
 
@@ -150,6 +150,8 @@ https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
 
 ### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
 
+<br><br>
+
 $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
 
 <br>
@@ -159,6 +161,9 @@ $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
 <br>
 
 ### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+
+<br>
+
 
 $$\huge \color{green} {\color{DeepSkyBlue} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
@@ -190,9 +195,6 @@ Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two di
  -->
 
 
-  <br>
-
-
 
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
@@ -204,9 +206,14 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
    END QUANTUM FORMULAS -->
    
-#
+
 <!-- End Headrer -->
+
+
+#
+
 <br><br>
+
 
 ## [👩🏻‍🚀 Step into the Future, with Circuits and Qubits]()
 
