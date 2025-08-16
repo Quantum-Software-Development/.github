@@ -166,9 +166,10 @@ $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
 
 <br><br>
 
-
 $$\huge \color{green} {\color{DeepSkyBlue} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
+
+<br>
 
 <!--
 The superposition principle in quantum mechanics states that a quantum system can exist simultaneously in multiple states until it is measured. The mathematical representation of superposition is given by:
