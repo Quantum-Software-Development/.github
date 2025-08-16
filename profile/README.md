@@ -134,6 +134,10 @@ $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\ma
 
 <br>
 
+https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
+
+
+<br>
 
 #
 
@@ -212,7 +216,19 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br>
 
+
+<!-- Commutator in Q Mechanics with Starts Effect -->
+
+https://github.com/user-attachments/assets/6eba3a6a-b2d2-4a0e-adbf-57cfc281fbf5
+
+
+<!-- Commutator in Q Mechanics - No Stars t
+
 https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78e-65fd-4570-a204-9952013edcfd
+
+ -->
+
+
 
 <br><br><br>
 
