@@ -134,6 +134,10 @@ $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\ma
 
 <br>
 
+https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
+
+
+<br>
 
 #
 
