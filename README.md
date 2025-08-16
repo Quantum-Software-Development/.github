@@ -117,14 +117,20 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 ## The Quantum Mind [Torsion]():
 
-<br>
+<br><br>
+
 
 https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 
 ##### 🎶  ***Creation  by Fabi***  🖤
 
 
-<br><br>
+<br>
+
+#
+
+<br>
+
 
 ### <p align="center">   Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
 
@@ -141,7 +147,8 @@ https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
 
 #
 
-<br><br>
+<br>
+
 
 ### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
 
@@ -153,15 +160,16 @@ $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle
 
 #
 
-<br><br>
+<br>
 
 ### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
-
 
 <br><br>
 
 $$\huge \color{green} {\color{DeepSkyBlue} {|\psi\rangle = \sum_{i} c_i | \phi_i \rangle}}$$
 
+
+<br><br>
 
 <!--
 The superposition principle in quantum mechanics states that a quantum system can exist simultaneously in multiple states until it is measured. The mathematical representation of superposition is given by:
@@ -191,8 +199,6 @@ Here, \( | \phi_i \rangle_A \) and \( | \chi_j \rangle_B \) are states of two di
 
 
 
-
-
 <!-- START QUANTUM FORMULAS
 $${\color{Green} \boldsymbol{E=m c^2}}$$ 
 # $${\Huge\color{Green} \boldsymbol{E=m c^2}}$$ 
@@ -203,10 +209,14 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
    END QUANTUM FORMULAS -->
    
-#
 
 <!-- End Headrer -->
+
+
+#
+
 <br><br>
+
 
 ## [👩🏻‍🚀 Step into the Future, with Circuits and Qubits]()
 
@@ -225,20 +235,21 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 <br>
 
 
-<!-- Commutator in Q Mechanics with Starts Effect -->
+<!-- Commutator in Q Mechanics with Starts Effect 
 
 https://github.com/user-attachments/assets/6eba3a6a-b2d2-4a0e-adbf-57cfc281fbf5
 
+-->
 
-<!-- Commutator in Q Mechanics - No Stars t
+
+<!-- Commutator in Q Mechanics - No Stars t  -->
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78e-65fd-4570-a204-9952013edcfd
-
- -->
 
 
 
 <br><br><br>
+
 
 ## [🔀⚛️  Superconducting - Qbits Types]()
 
