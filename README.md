@@ -30,7 +30,11 @@
  <p align="center">
 <img src="https://github.com/user-attachments/assets/41b0a092-7204-42cd-b45f-4929fde77b7c"/>  -->
 
+<!--Q Logpo + Remix Bach Preelude NO STATS - ONLY LOGO
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
+-->
+
+https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 ###### 🎶  ***[Prelude Suite no.1; J. S. Bach]()  - Art and Sound Design Remix by Fabi***  🖤
 
