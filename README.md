@@ -458,8 +458,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 - [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 - [Andson Ribeiro](https://github.com/andsonandreribeiro09)
-- [Pedro Vyctor Almeida]()
-
+<!--
+- [Pedro  Vyctor](https://github.com/ppvyctor)
+-->
 
 <br>
 
