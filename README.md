@@ -3,7 +3,14 @@
 \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
+
+<!-- Line
+### <p align="center"> ────────────── 🇶 ──────────────
+-->
+
+
 <br><br>
+
 
   <!-- Start Header -->
 
@@ -11,13 +18,24 @@
 ### <p align="center">  🔬 Research and Exploration in Quantum Computing and Quantum Mechanics
 #### <p align="center">  by [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 
+
 <br><br>
 
 
-<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+ <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
-<br><br>
+
+<br><br><br>
+
+
+### <p align="center">  *I see [Mathematics](https://github.com/user-attachments/assets/4195fbab-a2c4-4b99-9157-e21542b4a69e) as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+
+
+
+<br><br><br>
+
+
 
 <!--
 #### <p align="center"> https://github.com/user-attachments/files/18216607/Download.the.PDF.pdf
@@ -34,26 +52,18 @@
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 -->
 
+##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]() 🖤
+
 https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
-###### 🎶  ***[Prelude Suite no.1; J. S. Bach]()  - Art and Sound Design Remix by Fabi***  🖤
-
-<br>
-
-<!--
-
-### <p align="center"> ────────────── 🇶 ──────────────
--->
-
-<br>
+####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
 
 
-### <p align="center">  *I see [Mathematics](https://github.com/user-attachments/assets/4195fbab-a2c4-4b99-9157-e21542b4a69e) as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+<br><br>
 
-
-<br>
 
 #### <p align="center"> ────────────── 🇶 ──────────────
+
 
 <br><br>
 
