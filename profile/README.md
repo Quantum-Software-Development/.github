@@ -174,7 +174,7 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 <br><br>
 
 
-## The Quantum Mind [Torsion]():
+## <p align="center"> The Quantum Mind [Torsion]():
 
 <br><br>
 
@@ -289,16 +289,16 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br><br>
 
-## **[🔄⚛️ Commutator in Quantum Mechanics]()** 
-
-<br>
-
-
 <!-- Commutator in Q Mechanics with Starts Effect 
 
 https://github.com/user-attachments/assets/6eba3a6a-b2d2-4a0e-adbf-57cfc281fbf5
 
 -->
+
+##  <p align="center"> **[Commutator in Quantum Mechanics]()** 
+
+
+<br><br>
 
 
 <!-- Commutator in Q Mechanics - No Stars t  -->
@@ -309,24 +309,39 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <br><br><br>
 
+<!--Singularity Video-->
 
-## [🔀⚛️  Superconducting - Qbits Types]()
+##  <p align="center">  ꩜ **[Singularity - Dimensions - Oneness]()**
 
-<br>
+<br><br>
+
+
+https://github.com/user-attachments/assets/32b2654b-9d42-4704-b957-06d701f22320
+
+
+<br><br><br>
+
+
+##  <p align="center">  **[Superconducting - Qbits Types]()** 
+
+<br><br>
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/2227298a-aa2c-4d89-a00f-406d738a1d64
 
 <br>
 
-## [🔬⚛️ Quantum Physics has Given us The Beautiful Theory of Entanglement]()
+## [🔬 Quantum Physics has Given us The Beautiful Theory of Entanglement]()
 
 which in quantum mechanics can be connected with the Bell State (Quantum Entanglement), , that can be [mathematically represented by the formula](https://github.com/Quantum-Software-Development/.github/blob/b0077a21bd295284561cef734580728f99051bd4/BellState-QuantumEntanglement/Quantum%20Entanglemen.md):
 
-<br>
+
+<br><br>
+
 
 $${\color{Gray} \mathbf{{\color{Green} }|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle}}$$
 
-<br>
+
+<br><br>
 
 This phenomenon allows distant particles to interact instantaneously, challenging classical notions of space and time.
 
