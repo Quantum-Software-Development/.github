@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 
  #### <p align="center"> 🎶 Tap the atom and [groove to the Quantum Minds Behind the Code]().
@@ -91,7 +91,7 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 #### <p align="center">  ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
 
-<br><br><br>
+<br><br><br><br>
 
 
 #### <p align="center"> ────────────── 🇶 ──────────────
