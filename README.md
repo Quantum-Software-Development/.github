@@ -289,7 +289,7 @@ The evolution of quantum computing promises to revolutionize the way we perform 
 
 <br><br>
 
-## **[🔄⚛️ Commutator in Quantum Mechanics]()** 
+## **[Commutator in Quantum Mechanics]()** 
 
 <br>
 
@@ -309,8 +309,18 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <br><br><br>
 
+<!--Singularity Video-->
 
-## [🔀⚛️  Superconducting - Qbits Types]()
+##  ꩜ **[Singularity - Dimensions - Oneness]()**
+
+
+https://github.com/user-attachments/assets/32b2654b-9d42-4704-b957-06d701f22320
+
+
+<br><br><br>
+
+
+## **[Superconducting - Qbits Types]()** 
 
 <br>
 
