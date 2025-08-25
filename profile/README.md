@@ -311,7 +311,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <!--Singularity Video-->
 
-##  <p align="center">  ꩜ [Singularity() - [Dimensions() - [Oneness]()
+##  <p align="center">  ꩜ [Singularity]() - [Dimensions]() - [Oneness]()
 
 <br><br>
 
