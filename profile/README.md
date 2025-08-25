@@ -61,6 +61,36 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 <br><br>
 
+ #### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
+ ###### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
+
+ <br>
+
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
+    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="500" />
+  </a>
+</p>
+
+
+
+
+<!--
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
+    <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
+  </a>
+</p>
+-->
+
+<br>
+
+#### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+
+
+<br><br>
+
 
 #### <p align="center"> ────────────── 🇶 ──────────────
 
