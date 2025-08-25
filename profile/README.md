@@ -29,7 +29,7 @@
 <br><br><br>
 
 
-### <p align="center">  *I see [Mathematics](https://github.com/user-attachments/assets/4195fbab-a2c4-4b99-9157-e21542b4a69e) as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+### <p align="center">  *I see [Mathematics](https://github.com/user-attachments/assets/4195fbab-a2c4-4b99-9157-e21542b4a69e) as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𝚿](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
 
 
