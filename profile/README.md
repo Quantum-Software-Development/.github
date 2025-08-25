@@ -52,16 +52,18 @@
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 -->
 
-##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]() 🖤
+##### 🎶  ***[Prelude Suite no.1 (J. S. Bach)]() - Art and Sound Design Remix by Fabi*** 🖤
 
 https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 ####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
 
 
-<br><br>
 
- #### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
+<br><br><br>
+
+
+ #### <p align="center"> 🎶 Tap the atom and [groove to the Quantum Minds Behind the Code]().
  ###### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
 
  <br>
@@ -89,7 +91,7 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 #### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
 
-<br><br>
+<br><br><br>
 
 
 #### <p align="center"> ────────────── 🇶 ──────────────
