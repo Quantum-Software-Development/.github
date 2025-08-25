@@ -322,7 +322,7 @@ https://github.com/user-attachments/assets/32b2654b-9d42-4704-b957-06d701f22320
 <br><br><br>
 
 
-## ##  <p align="center">  **[Superconducting - Qbits Types]()** 
+##  <p align="center">  **[Superconducting - Qbits Types]()** 
 
 <br><br>
 
