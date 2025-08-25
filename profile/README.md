@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 <br><br><br><br><br>
 
 
- #### <p align="center"> 🎶 Tap the atom and [Groove to the Quantum Minds Behind the Code]().
+ #### <p align="center"> 🎶 Hit the Atom and [Groove to the Quantum Minds Behind the Code]().
  ##### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
 
  <br>
