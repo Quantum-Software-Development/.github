@@ -29,7 +29,7 @@
 <br><br><br>
 
 
-### <p align="center">  *I see [Mathematics](https://github.com/user-attachments/assets/4195fbab-a2c4-4b99-9157-e21542b4a69e) as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𓂀](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
+### <p align="center">  *I see [Mathematics](https://github.com/user-attachments/assets/4195fbab-a2c4-4b99-9157-e21542b4a69e) as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𝚿](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
 
 
 
@@ -52,14 +52,46 @@
 https://github.com/user-attachments/assets/afeebb4e-6df3-4ef6-8ecf-7bb317fd4f7d
 -->
 
-##### 🎶 Prelude Suite no.1 (J. S. Bach) - [Sound Design Remix]() 🖤
+##### 🎶  ***[Prelude Suite no.1 (J. S. Bach)]() - Art and Sound Design Remix by Fabi*** 🖤
 
 https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 ####  📺 For better resolution, watch the video on [YouTube.](https://youtu.be/_ytC6S4oDbM)
 
 
-<br><br>
+
+<br><br><br><br><br>
+
+
+ #### <p align="center"> 🎶 Hit the Atom and [Groove to the Quantum Minds Behind the Code]().
+ ##### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
+
+ <br>
+
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
+    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="500" />
+  </a>
+</p>
+
+
+
+
+<!--
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
+    <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
+  </a>
+</p>
+-->
+
+<br>
+
+#### <p align="center">  ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
+
+
+<br><br><br><br>
 
 
 #### <p align="center"> ────────────── 🇶 ──────────────
@@ -80,11 +112,11 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 #### ➢ [Analytics4All](https://analytics4all.org/2016/06/08/phpsimplex-simplex-linear-programming/)
 
 
-<br>
+<br><br>
 
 #### <p align="center"> ────────────── 🇶 ──────────────
 
-<br>
+<br><br>
 
 ####  ➢ [Click Here](https://proton.me/mail) and access ***[PROTON MAIL]()*** is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
 
@@ -366,39 +398,10 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 ## [Get Involved]()
 
-**Quantum Software Development Organization** [encourages everyone]() to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+[**Quantum Software Development Community**]()  encourages everyone to participate in the project and contribute to its success, building solutions that drive progress for a better future!
+
 
  <br><br>
-
- #### <p align="center"> 🎶 Tap the atom and [groove to the quantum minds behind the code]().
- ###### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
-
- <br>
-
-
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/6eaafec8-fc98-4180-9c1f-ac4f9b0199ee">
-    <img src="https://github.com/user-attachments/assets/fc87456c-08ac-4cc2-962a-872481e00f7b" width="500" />
-  </a>
-</p>
-
-
-
-
-<!--
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/751b6903-e9b4-483d-860a-bdde627c6890">
-    <img src="https://github.com/user-attachments/assets/dc99bcbd-2599-4b12-8b6e-ba1fb6fda496" width="150" />
-  </a>
-</p>
--->
-
-<br>
-
-#### <p align="center"> 🇶 ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
-
-
-<br><br>
 
 
 
@@ -461,6 +464,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <!--
 - [Pedro  Vyctor](https://github.com/ppvyctor)
 -->
+
 
 <br>
 
