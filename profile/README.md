@@ -174,7 +174,7 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 <br><br>
 
 
-## <p align="center"> The Quantum Mind [Torsion]():
+## <p align="center"> The Quantum Mind [Torsion]()
 
 <br><br>
 
@@ -295,7 +295,7 @@ https://github.com/user-attachments/assets/6eba3a6a-b2d2-4a0e-adbf-57cfc281fbf5
 
 -->
 
-##  <p align="center"> **[Commutator in Quantum Mechanics]()** 
+##  <p align="center"> Commutator in [Quantum Mechanics]()
 
 
 <br><br>
@@ -311,7 +311,7 @@ https://github.com/Quantum-Software-Development/.github/assets/113218619/11f1e78
 
 <!--Singularity Video-->
 
-##  <p align="center">  ꩜ **[Singularity - Dimensions - Oneness]()**
+##  <p align="center">  ꩜ [Singularity() - [Dimensions() - [Oneness]()
 
 <br><br>
 
@@ -322,7 +322,7 @@ https://github.com/user-attachments/assets/32b2654b-9d42-4704-b957-06d701f22320
 <br><br><br>
 
 
-##  <p align="center">  **[Superconducting - Qbits Types]()** 
+##  <p align="center">  [Superconducting]() - Qbits Type
 
 <br><br>
 
