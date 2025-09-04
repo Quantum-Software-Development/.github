@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 <br><br>
 
-####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE]()***, Available in All Languages!
+####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE](https://www.vascak.cz/physicsanimations.php?l=pt)***, Available in All Languages!
 
 ####  ➢ [Click Here](https://www.geogebra.org/math/statistics-probability) to access ***[GeoGebra]()***, a dynamic mathematical platform with tools for **data analysis, statistics, algebra, and interactive graphics**, essential for **Data Science and AI**. It allows users to **import data, generate visualizations (histograms), calculate statistics, perform regressions, and explore relationships between variables**, aiding in the creation of **predictive models**. It integrates **spreadsheets and algebraic tools**, serving as a versatile platform for quantitative analysis.
 
@@ -496,7 +496,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 - Francisco Rodrigues, [Professor  Ph.D., USP](https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b/)
 
-- Professor [Filipe Fernandes](https://www.linkedin.com/in/filipefernandesphd/), PhD 
+- Professor [Filipe Fernandes](https://www.linkedin.com/in/filipefernandesphd/), PhD
+
+- Professor [Dr. Sardar M. N. Islam (Naz)](https://www.linkedin.com/in/sardar-m-n-islam-mel/), Ph.D.
   
 - Professor Francisco Rodrigues, Ph.D., USP - [Physics and Machine Learning](https://github.com/Quantum-Software-Development/.github/blob/6aa5c3b5d05d40eb64665f8618ab7a766971322b/Physics%20and%20machine%20learning-Prof%20Francisco%20%20Rodrigues.pdf)
 
