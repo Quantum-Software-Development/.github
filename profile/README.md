@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 <br><br>
 
-####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE]()***, Available in All Languages!
+####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE](https://www.vascak.cz/physicsanimations.php?l=pt)***, Available in All Languages!
 
 ####  ➢ [Click Here](https://www.geogebra.org/math/statistics-probability) to access ***[GeoGebra]()***, a dynamic mathematical platform with tools for **data analysis, statistics, algebra, and interactive graphics**, essential for **Data Science and AI**. It allows users to **import data, generate visualizations (histograms), calculate statistics, perform regressions, and explore relationships between variables**, aiding in the creation of **predictive models**. It integrates **spreadsheets and algebraic tools**, serving as a versatile platform for quantitative analysis.
 
