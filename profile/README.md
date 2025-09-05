@@ -476,51 +476,84 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 - [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
 - [Andson Ribeiro](https://github.com/andsonandreribeiro09)
-<!--
 - [Pedro  Vyctor](https://github.com/ppvyctor)
--->
+
 
 
 <br>
 
-## [Source:]()
+## [Knowledge Constellations that Inspire]():
 
-- Ana Paula Appel - [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
+<br>
 
-- BLack Hole [Hub](https://l.instagram.com/?u=http%3A%2F%2Fblackholehub.org%2F&e=AT1PiRhdQad2RwRJ33__VCYm-jiO5pm2id_Haafme6z71BoLe9evKbbxwyiFEzpsreO8_Ypryv4TZ_l7vhMtXIT7qxMRsrZx2a678WnyT6lHlY14FGZF)
+> [!IMPORTANT]
+>
+> * Ana Paula Appel - [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
+>
+> *  BLack Hole [Hub](https://l.instagram.com/?u=http%3A%2F%2Fblackholehub.org%2F&e=AT1PiRhdQad2RwRJ33__VCYm-jiO5pm2id_Haafme6z71BoLe9evKbbxwyiFEzpsreO8_Ypryv4TZ_l7vhMtXIT7qxMRsrZx2a678WnyT6lHlY14FGZF)
+>
+> * Carlos Rodembusch Sa - [Quantic Global Advisor](https://www.quanticsglobal.com.br/)
+>
+> *  DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
+>
+> * Francisco Rodrigues, [Professor  Ph.D., USP](https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b/)
+> 
+> * [Muria Roberts](https://www.linkedin.com/in/muria-roberts/) Quantum Cybersecurity | Director QTM-X 
+> 
+> * Professor [Filipe Fernandes](https://www.linkedin.com/in/filipefernandesphd/), PhD
+>
+> * Professor Francisco Rodrigues, Ph.D., USP - [Physics and Machine Learning](https://github.com/Quantum-Software-Development/.github/blob/6aa5c3b5d05d40eb64665f8618ab7a766971322b/Physics%20and%20machine%20learning-Prof%20Francisco%20%20Rodrigues.pdf)
+> 
+> * IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
+> 
+> * Jack Hidary - [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
+>
+> * MIT Technology [Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
+>
+> * Quantum Classiq [Technologies](https://platform.classiq.io/)
+>
+> * Quantum Data - TensorFlow Quantum Design - [The TensorFlow Authors](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
+> 
+> * [QSECDEF](https://www.linkedin.com/showcase/tqn-quantum-safe-transition-working-group/) Australia
+>   
+> * Sandbox[AQ](https://www.sandboxaq.com/)
+> 
+> * [QTM-X](https://www.linkedin.com/company/qtm-x/) - Quantum Futures Company
+> 
+> * The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
+>
+> * The TensorFlow Quantum - [Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum) 
+> 
+> * The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum)
+>
+> * [TQN Quantum AI](https://www.linkedin.com/showcase/tqn-quantum-ai/)
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 
-- Carlos Rodembusch Sa - [Quantic Global Advisor](https://www.quanticsglobal.com.br/)
 
-- DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
-
-
-- Francisco Rodrigues, [Professor  Ph.D., USP](https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b/)
-
-- Professor [Filipe Fernandes](https://www.linkedin.com/in/filipefernandesphd/), PhD
-
-- Professor [Dr. Sardar M. N. Islam (Naz)](https://www.linkedin.com/in/sardar-m-n-islam-mel/), Ph.D.
-  
-- Professor Francisco Rodrigues, Ph.D., USP - [Physics and Machine Learning](https://github.com/Quantum-Software-Development/.github/blob/6aa5c3b5d05d40eb64665f8618ab7a766971322b/Physics%20and%20machine%20learning-Prof%20Francisco%20%20Rodrigues.pdf)
-
-- IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
-  
-
-- Jack Hidary - [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
-
-- MIT Technology [Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
-
-
-- Quantum Classiq [Technologies](https://platform.classiq.io/)
-
-- Quantum Data - TensorFlow Quantum Design - [The TensorFlow Authors](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
-
-- Sandbox[AQ](https://www.sandboxaq.com/)
-
-- The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
-
-- The TensorFlow Quantum - [Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum)
-
-- The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum)
 
 
 <br>
