@@ -66,7 +66,8 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
  #### <p align="center"> 🎶 Hit the Atom and [Groove to the Quantum Minds Behind the Code]().
  ##### <p align="center"> ***[Symphony No 9 in D minor (Ode to Joy); Beethoven]() - Art and Sound Design Remix by Fabi*** 🖤
 
- <br>
+
+ <br><br>
 
 
 <p align="center">
@@ -86,7 +87,9 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 </p>
 -->
 
-<br>
+
+<br><br>
+
 
 #### <p align="center">  ***TOGETHER WE ARE STRONGER, TOGETHER [WE WILL CHANGE THE WORLD!](https://github.com/FabianaCampanari/FabianaCampanari/assets/113218619/665fbed5-68e9-459c-8106-8a9b53bb74e0)*** 🌎💙
 
@@ -97,17 +100,28 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 #### <p align="center"> ────────────── 🇶 ──────────────
 
 
-<br><br>
+<br><br><br>
+
 
 ####  ➢ [Click Here](https://www.vascak.cz/physicsanimations.php?l=pt) and access the ***[PHYYSICS IN SCHOOL SITE](https://www.vascak.cz/physicsanimations.php?l=pt)***, Available in All Languages!
 
+<br>
+
 ####  ➢ [Click Here](https://www.geogebra.org/math/statistics-probability) to access ***[GeoGebra]()***, a dynamic mathematical platform with tools for **data analysis, statistics, algebra, and interactive graphics**, essential for **Data Science and AI**. It allows users to **import data, generate visualizations (histograms), calculate statistics, perform regressions, and explore relationships between variables**, aiding in the creation of **predictive models**. It integrates **spreadsheets and algebraic tools**, serving as a versatile platform for quantitative analysis.
+
+<br>
 
 #### ➣ [Access Tutoril](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst) about solving LP problems using Geogebra.
 
+<br>
+
 ####  ➢ [Click Here](https://https://www.phpsimplex.com/en/index.htm) and access **PHPSimplex**, an online tool that solves linear programming problems using the simplex method, two-phase method, and graphical method, generating graphs and solutions automatically.
 
+<br>
+
 #### ➢ [Access PHPSimplex](https://https://www.phpsimplex.com/en/index.htm)
+
+<br>
 
 #### ➢ [Analytics4All](https://analytics4all.org/2016/06/08/phpsimplex-simplex-linear-programming/)
 
@@ -163,10 +177,15 @@ https://github.com/user-attachments/assets/32fcc04b-06f8-478e-a376-0643fb8ff7fa
 
 At [**Quantum Software Development**](), we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
 
+<br>
+
 [**Quantum 4 All**]() is more than just a motto; it’s a commitment to making quantum computing accessible to everyone. We aim to dismantle the barriers that have restricted access to this transformative field, providing a space for learners and experts alike to engage, discover, and innovate. Inclusivity and empowerment drive our mission, creating opportunities for all to be part of this new quantum era.
+
+<br>
 
 Standing at the edge of this transformation, [**Quantum Software Development**]() envisions a future where quantum breakthroughs solve humanity’s biggest challenges, from enhancing cybersecurity to unlocking new possibilities in technology. The journey from [Dark to Light]() begins here.
 
+<br>
 
 [Join us]() in shaping the Future of Quantum Computing because [Quantum is 4 ALL]() !
 
@@ -283,7 +302,11 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 
 Quantum computing is a technology that uses the properties of quantum physics to overcome the limitations of conventional bits. 
 
+<br>
+
 While a bit is binary, restricted to zero and one, a qubit can represent several combinations of zero and one at the same time. This is possible thanks to the quantum property called **SUPERPOSITION**.
+
+<br>
 
 The evolution of quantum computing promises to revolutionize the way we perform complex tasks. Imagine a future in which problems that today would take years to be solved could be solved in a matter of minutes or seconds! There is still much to be discovered and developed in the field of quantum computing, but it is certain that this technology has the potential to change the world as we know it.
 
@@ -348,11 +371,12 @@ This phenomenon allows distant particles to interact instantaneously, challengin
 In summary, this formula describes a state in which two qubits(the basic units of quantum information, analogous to bits in classical computing are in a superposition of being both 0 or both 1, with equal probability. This is an example of quantum entanglement, a phenomenon in which particles become interconnected in such a way that the state of one particle is immediately correlated with the state of the other , no matter how far apart they are.
 
 
-<br>
+<br><br>
 
 https://github.com/Quantum-Software-Development/.github/assets/113218619/7a2ea62f-99b0-4cd8-bd4d-45c425cc4c1b
 
-<br>
+<br><br>
+
 
 ## [Quantum Computers: What Are They?](https://www.ibm.com/topics/quantum-computing)
 
@@ -426,7 +450,8 @@ Despite being at a nascent stage, quantum computing managed to make a buzz in th
 
 Our open-source commitment allows businesses to access, customize, and [collaborate]() on our Quantum Technologies solutions, creating a space for [innovation]() and [shared]() progress in the Quantum Field.
 
-<br>
+<br><br>
+
 
 ## [Get Involved]()
 
@@ -514,43 +539,45 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 > [!IMPORTANT]
 >
-> * Ana Paula Appel - [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
+> * Ana Paula Appel  | [Quantum Ambassador at IBM](https://www.linkedin.com/pulse/como-come%C3%A7ar-sua-jornada-na-computa%C3%A7%C3%A3o-qu%C3%A2ntica-ana-paula-appel/)
 >
 > *  BLack Hole [Hub](https://l.instagram.com/?u=http%3A%2F%2Fblackholehub.org%2F&e=AT1PiRhdQad2RwRJ33__VCYm-jiO5pm2id_Haafme6z71BoLe9evKbbxwyiFEzpsreO8_Ypryv4TZ_l7vhMtXIT7qxMRsrZx2a678WnyT6lHlY14FGZF)
 >
-> * Carlos Rodembusch Sa - [Quantic Global Advisor](https://www.quanticsglobal.com.br/)
+> * Carlos Rodembusch Sa  | VC Investor  | [Quantic Global Advisor](https://www.quanticsglobal.com.br/)
 >
 > *  DZone [Quantum Computing](https://dzone.com/articles/the-quantum-machine-learning-hype)
 >
 > * Francisco Rodrigues, [Professor  Ph.D., USP](https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b/)
 > 
-> * [Muria Roberts](https://www.linkedin.com/in/muria-roberts/) Quantum Cybersecurity | Director QTM-X 
+> * [Professor Dr. Sardar M. N. Islam (Naz)](https://www.linkedin.com/in/sardar-m-n-islam-mel/), Ph.D.
 > 
 > * Professor [Filipe Fernandes](https://www.linkedin.com/in/filipefernandesphd/), PhD
 >
-> * Professor Francisco Rodrigues, Ph.D., USP - [Physics and Machine Learning](https://github.com/Quantum-Software-Development/.github/blob/6aa5c3b5d05d40eb64665f8618ab7a766971322b/Physics%20and%20machine%20learning-Prof%20Francisco%20%20Rodrigues.pdf)
+> * Professor Francisco Rodrigues, Ph.D., USP  | [Physics and Machine Learning](https://github.com/Quantum-Software-Development/.github/blob/6aa5c3b5d05d40eb64665f8618ab7a766971322b/Physics%20and%20machine%20learning-Prof%20Francisco%20%20Rodrigues.pdf)
 > 
-> * IBM Quantum [Quiskit](https://www.ibm.com/quantum/qiskit)
+> * IBM Quantum  | [Quiskit](https://www.ibm.com/quantum/qiskit)
 > 
-> * Jack Hidary - [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
+> * Jack Hidary  | [SANDBOXAQ™](https://www.sandboxaq.com/company/leadership/jack-hidary)
 >
 > * MIT Technology [Review ](https://forms.technologyreview.com/global-panel-application/?utm_source=banner_ad&utm_medium=display&utm_campaign=global_panel.unpaid.acquisition&utm_term=bannerads&utm_content=global_panel_apply)
 >
+> * [Muria Roberts](https://www.linkedin.com/in/muria-roberts/) Quantum Cybersecurity | Director QTM-X 
+>   
 > * Quantum Classiq [Technologies](https://platform.classiq.io/)
 >
-> * Quantum Data - TensorFlow Quantum Design - [The TensorFlow Authors](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
+> * Quantum Data  | TensorFlow Quantum Design  | [The TensorFlow Authors](https://github.com/Quantum-Software-Development/.github/blob/37258f9de403a3418c37ce48d1e6012a4f7272ef/quantum_data.ipynb)
 > 
 > * [QSECDEF](https://www.linkedin.com/showcase/tqn-quantum-safe-transition-working-group/) Australia
 >   
 > * Sandbox[AQ](https://www.sandboxaq.com/)
 > 
-> * [QTM-X](https://www.linkedin.com/company/qtm-x/) - Quantum Futures Company
+> * [QTM-X](https://www.linkedin.com/company/qtm-x/)  | Quantum Futures Company
 > 
 > * The Quantum Insider [Magazine](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 >
-> * The TensorFlow Quantum - [Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum) 
+> * The TensorFlow Quantum  | [Library for Hybrid Quantum Classical Machine Learning](https://www.tensorflow.org/quantum) 
 > 
-> * The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum)
+> * The TensorFlow Quantum  | [(TFQ) on GitHub](https://github.com/tensorflow/quantum)
 >
 > * [TQN Quantum AI](https://www.linkedin.com/showcase/tqn-quantum-ai/)
 >
