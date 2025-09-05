@@ -482,7 +482,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 <br>
 
-## [Knowledge Constellations that Inspire]():
+## ✨ [Knowledge Constellations]() that Inspire:
 
 <br>
 
@@ -527,25 +527,6 @@ Do you have any suggestions on how we could improve this project overall? Let us
 > * The TensorFlow Quantum - [(TFQ) on GitHub](https://github.com/tensorflow/quantum)
 >
 > * [TQN Quantum AI](https://www.linkedin.com/showcase/tqn-quantum-ai/)
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
->
 >
 >
 >
