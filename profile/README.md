@@ -467,21 +467,26 @@ If the information from this repo was useful to you in any way, make sure you gi
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
 
-<br>
+<br><br>
+
+## 👨🏽‍🚀 [Main Contributors]()
+
+> [!TIP]
+>
+>  * [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari) – PUC São Paulo
+>
+> * [Professor Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) – PUC São Paulo
+>
+> * [Andson Ribeiro](https://github.com/andsonandreribeiro09) - PUC São Paulo
+>
+> * [Pedro  Vyctor](https://github.com/ppvyctor) - PUC São Paulo
+>
+>
 
 
-## 👨🏽‍🚀 [Main Contributors]() 
-
-<br>
-
-- [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
-- [Professor Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) – PUC São Paulo
-- [Andson Ribeiro](https://github.com/andsonandreribeiro09)
-- [Pedro  Vyctor](https://github.com/ppvyctor)
+<br><br>
 
 
-
-<br>
 
 ## ✨ [Knowledge Constellations]() that Inspire:
 
