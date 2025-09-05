@@ -366,17 +366,28 @@ From drug development to weather forecasts and stock trades, quantum computers w
 
 Promises around quantum computing making strides in the medical field. As a result, it can enable AI specialists and AI professionals working in the field to gain maximum benefit from the technology
 
+<br>
+
 
 ## [What’s Quantum Data ?](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
 It is also referred to as any type of data that can occur in both a natural and an artificial quantum system. Such data can be easily gathered or generated using quantum computers. The quantum data is said to exhibit entanglement and superposition that may lead to joining probable distributions. These distributions can further require an extensive amount of classical computational resources for storing purposes.
 
 
+<br>
+
+
 ## [AI Quantum Programming Language](https://thequantuminsider.com/2022/08/23/quantum-computer-ai-powering-computers-with-quantum-brains/)
 
-- Qiskit — an open-source library useful to quantum computers. Qiskit provides tools to create and manipulate quantum programs while running them on devices (prototyped). It functions by creating a quantum neural network using a parameterized quantum circuit through a hidden layer for the neural network.
 
-- Pennylane — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
+- [**Qiskit**]() — an open-source library useful to quantum computers. Qiskit provides tools to create and manipulate quantum programs while running them on devices (prototyped). It functions by creating a quantum neural network using a parameterized quantum circuit through a hidden layer for the neural network.
+
+<br>
+
+- [**Pennylane**]() — a library written in Python and can be easily integrated with Qiskit. This tool helps perform parameter-shift amidst gradient descent optimization which leads to quantum gradient descent.
+
+
+<br><br>
 
  
 ## [What’s a Hybrid Quantum-classical Model?](https://www.tensorflow.org/quantum)
@@ -384,6 +395,9 @@ It is also referred to as any type of data that can occur in both a natural and 
 A hybrid quantum-classical model represents and generalizes data using the quantum mechanical origin. This is because, in the near term, most quantum processors are more likely to remain noisy and small, thus making it difficult for quantum models to generalize quantum data using just the quantum processor.
 
 To remain effective, NISQ processors need to closely work with classical co-processors.
+
+
+<br><br>
 
 
 ## [Quantum Machine Learning Services](https://qiskit.org/learn/course/machine-learning-course)
@@ -395,6 +409,9 @@ There are multiple services available, two of which the tech giants themselves p
 - Xanadu — is a hardware-based cloud started by a Canadian startup. This processor can handle 8-, 12, and 24-qubit chips.
 
 - IBM Q Experience — an online platform that allows its users from the general public access to a certain set of IBM’s prototype quantum processor using the Cloud.
+
+
+<br><br>
 
 
 ## [For Reflection](https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/)
@@ -422,17 +439,17 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 
 ## [Qiskit-Powered Examples of Quantum Algorithms and Circuits]()
 
-<br> 
+<br><br>
 
 ### [Performance of QKNN-KNN algorithms]() in quantum computing using IBM Quantum - Qiskit.
 
-<br> 
+<br><br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c9d4fbd6-d5d6-4987-94a8-d97aad518a1e" alt="Descrição da imagem" width="500"/>
 </p>
 
-<br>
+<br><br>
 
 #
 
@@ -446,7 +463,8 @@ Our open-source commitment allows businesses to access, customize, and [collabor
 </p>
 
 
-<br>
+<br><br>
+
 
 ## 🇶 [Contribution]()
 
@@ -457,7 +475,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
    2. Fork the project and submit a full request with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](). ⊹🔭๋
 
 
-<br>
+<br><br>
 
  
 ## 🌎 [Spread the word!]()   
@@ -467,7 +485,8 @@ If the information from this repo was useful to you in any way, make sure you gi
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback
 
 
-<br><br>
+<br><br><br>
+
 
 ## 👨🏽‍🚀 [Main Contributors]()
 
@@ -484,7 +503,8 @@ Do you have any suggestions on how we could improve this project overall? Let us
 >
 
 
-<br><br>
+
+<br><br><br>
 
 
 
@@ -543,7 +563,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 
 
 
-<br>
+<br><br>
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
@@ -576,7 +596,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
   
 #
  
-
+<br>
 
 ###### <p align="center"> Copyright 2025 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
 
