@@ -475,6 +475,7 @@ Do you have any suggestions on how we could improve this project overall? Let us
 <br>
 
 - [Fabiana ⚡️ Campanari](https://github.com/FabianaCampanari)
+- [Professor Dr. Daniel Gatti](https://www.linkedin.com/in/dgatti/) – PUC São Paulo
 - [Andson Ribeiro](https://github.com/andsonandreribeiro09)
 - [Pedro  Vyctor](https://github.com/ppvyctor)
 
