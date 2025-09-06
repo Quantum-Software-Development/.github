@@ -549,7 +549,9 @@ Do you have any suggestions on how we could improve this project overall? Let us
 >
 > * Francisco Rodrigues, [Professor  Ph.D., USP](https://www.linkedin.com/in/francisco-rodrigues-ph-d-usp-b613aa3b/)
 > 
-> * [Professor Dr. Sardar M. N. Islam (Naz)](https://www.linkedin.com/in/sardar-m-n-islam-mel/), Ph.D.
+> * [Professor Dr. Sardar M. N. Islam, Ph.D.](https://www.linkedin.com/in/sardar-m-n-islam-mel/), Linkedin
+>
+>  * [Professor Dr. Sardar M. N. Islam, Ph.D.](https://arxiv.org/), arXiv 
 > 
 > * Professor [Filipe Fernandes](https://www.linkedin.com/in/filipefernandesphd/), PhD
 >
