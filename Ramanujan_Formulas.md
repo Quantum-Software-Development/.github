@@ -1,12 +1,12 @@
 
 <br> 
 
-In your presence, numbers bow to intuition, and logic learns to dream again.
+## In your presence, numbers bow to intuition, and logic learns to dream again.
 
 
 <br> 
 
-This community exists because of you, to honor the patterns you saw where others saw none, and to follow the silent music of the universe that only your mind could hear.”
+## This community exists because of you, to honor the patterns you saw where others saw none, and to follow the silent music of the universe that only your mind could hear.”
 
 
 <br> 
