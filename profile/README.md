@@ -111,36 +111,51 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 <br>
 
+
 #### ➣ [Access Tutoril](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst) about solving LP problems using Geogebra.
+
 
 <br>
 
+
 ####  ➢ [Click Here](https://https://www.phpsimplex.com/en/index.htm) and access **PHPSimplex**, an online tool that solves linear programming problems using the simplex method, two-phase method, and graphical method, generating graphs and solutions automatically.
+
 
 <br>
 
 #### ➢ [Access PHPSimplex](https://https://www.phpsimplex.com/en/index.htm)
 
+
 <br>
+
 
 #### ➢ [Analytics4All](https://analytics4all.org/2016/06/08/phpsimplex-simplex-linear-programming/)
 
 
-<br><br>
+<br>
 
 #### <p align="center"> ────────────── 🇶 ──────────────
 
-<br><br>
+<br>
+
 
 ####  ➢ [Click Here](https://proton.me/mail) and access ***[PROTON MAIL]()*** is an end-to-end encrypted email service designed to protect user privacy and data. Founded by scientists from CERN, it offers strong encryption, no ads, and zero access to user content — even Proton Mail itself can’t read your emails.
 
+<br>
+
 ####  ➢ [Click Here](https://www.myosint.training/courses/introduction-to-osint?ref=f7428c) and access ***[OSINT]()*** is a powerful cybersecurity ally, uncovering risks and vulnerabilities through open data using tools like [Shodan](https://www.shodan.io), [Maltego](https://www.maltego.com), [TheHarvester](https://github.com/laramies/theHarvester), [Recon-ng](https://github.com/lanmaster53/recon-ng) and [SpiderFoot](https://www.spiderfoot.net).
 
+
+
 <br>
+
 
 #### <p align="center"> ────────────── 🇶 ──────────────
 
+
 <br>
+
+
 
 #### <p align="center"> 🛸 [NATIONAL QUANTUM INITIATVE SUPPLEMENT TO THE PRESIDENT'S FY 2025 BUDGET](https://github.com/Quantum-Software-Development/.github/blob/8a21d77bf14f9786040082a44d214b295193e3a0/NATIONAL%20QUANTUM%20INITIATVE%20SUPPLEMENT%20TO%20THE%20PRESIDENT'S%20FY%202025%20BUDGET-Malak%20Trabelsi%20Loeb%20-%20Expert%20in%20Tech%20%26%20Law.pdf)
 
@@ -148,14 +163,21 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 #### <p align="center"> 📥 https://tinyurl.com/Download-the-PDF
 
-<br>
-
-#### <p align="center"> ────────────── 🇶 ──────────────
 
 
 <br><br>
 
-###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
+
+
+#### <p align="center"> ────────────── 🇶 ──────────────
+
+
+
+<br><br>
+
+
+
+##  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
 
 <br>
  
@@ -163,17 +185,34 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 
 
-<br><br>
+<br><br><br>
 
 
-###  <p align="center">  Thermodynamics = [Black Holes  Mechanics]()
+
+##  <p align="center"> Derivation of [Newton's 2nd law]():
+###  <p align="center"> Performing derivatives gives….   [Newton's 2nd law]() !
+
+
+<br>
+
+https://github.com/user-attachments/assets/7d1cf107-efe4-46a9-96f0-10aaeee158d3
+
+##### 🎶  ***[Sun - Adrián Berenguer]()
+
+
+
+<br><br><br>
+
+
+##  <p align="center">  Thermodynamics = [Black Holes  Mechanics]()
 
 <br>
 
 https://github.com/user-attachments/assets/32fcc04b-06f8-478e-a376-0643fb8ff7fa
 
 
-<br><br>
+<br><br><br>
+
 
 At [**Quantum Software Development**](), we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
 
@@ -190,10 +229,12 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 [Join us]() in shaping the Future of Quantum Computing because [Quantum is 4 ALL]() !
 
 
-<br><br>
+
+<br><br><br>
 
 
 ## <p align="center"> The Quantum Mind [Torsion]()
+
 
 <br><br>
 
@@ -203,44 +244,43 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 ##### 🎶  ***Creation  by Fabi***  🖤
 
 
-<br>
-
-#
-
-<br>
+<br><br><br>
 
 
-### <p align="center">   Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
+## <p align="center">  ᘏᗢ Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
+
 
 <br><br>
 
 $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
+
 <br><br>
+
 
 https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
 
 
-<br>
-
-#
-
-<br>
+<br><br><br>
 
 
-### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
+
+
+## <p align="center">   🕸️  Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
+
 
 <br><br>
 
 $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
 
-<br>
 
-#
 
-<br>
+<br><br><br>
 
-### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+
+
+
+## <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
 <br><br>
 
@@ -291,9 +331,6 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 <!-- End Headrer -->
 
 
-#
-
-<br><br>
 
 
 ## [👩🏻‍🚀 Step into the Future, with Circuits and Qubits]()
