@@ -168,9 +168,9 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 ##  <p align="center"> Derivation of [Newton's 2nd law]():
 
-###  <p align="center"> Performing derivatives gives….
+###  <p align="center"> Performing derivatives gives….   Newton's 2nd law !
 
-###  <p align="center">  Newton's 2nd law !
+
 
 
 <br>
