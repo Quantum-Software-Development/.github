@@ -230,11 +230,11 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 
 
 
-
 <br><br><br>
 
 
 ## <p align="center"> The Quantum Mind [Torsion]()
+
 
 <br><br>
 
@@ -244,9 +244,7 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 ##### 🎶  ***Creation  by Fabi***  🖤
 
 
-
 <br><br><br>
-
 
 
 ## <p align="center">  ᘏᗢ Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
