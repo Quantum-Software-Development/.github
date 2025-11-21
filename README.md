@@ -155,15 +155,34 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 <br><br>
 
-###  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
+##  <p align="center"> CERN's Explanation of [Quantum Mechanics]().
 
 <br>
  
  https://github.com/user-attachments/assets/0a36bfbf-1055-40f9-acb1-e488e933b0d5
 
 
+<br><br>
+
+
+
+##  <p align="center"> Derivation of [Newton's 2nd law]():
+
+###  <p align="center"> Performing derivatives gives….
+
+###  <p align="center">  Newton's 2nd law !
+
+
+<br>
+
+
+https://github.com/user-attachments/assets/7d1cf107-efe4-46a9-96f0-10aaeee158d3
+
 
 <br><br>
+
+
+
 
 
 ###  <p align="center">  Thermodynamics = [Black Holes  Mechanics]()
