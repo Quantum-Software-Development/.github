@@ -164,12 +164,9 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 <br><br>
 
-ᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢ
 
 ##  <p align="center"> Derivation of [Newton's 2nd law]():
-####  <p align="center"> Performing derivatives gives….   [Newton's 2nd law]() !
-
-
+###  <p align="center"> Performing derivatives gives….   [Newton's 2nd law]() !
 
 <br>
 
@@ -182,6 +179,15 @@ https://github.com/user-attachments/assets/7d1cf107-efe4-46a9-96f0-10aaeee158d3
 
 
 
+
+
+
+
+
+
+
+
+ᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢ
 
 ###  <p align="center">  Thermodynamics = [Black Holes  Mechanics]()
 
