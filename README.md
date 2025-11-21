@@ -168,28 +168,19 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 ##  <p align="center"> Derivation of [Newton's 2nd law]():
 ###  <p align="center"> Performing derivatives gives….   [Newton's 2nd law]() !
 
+
 <br>
 
-
 https://github.com/user-attachments/assets/7d1cf107-efe4-46a9-96f0-10aaeee158d3
+
+##### 🎶  ***[Sun - Adrián Berenguer]()
+
 
 
 <br><br>
 
 
-
-
-
-
-
-
-
-
-
-
-ᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢᓚᘏᗢ
-
-###  <p align="center">  Thermodynamics = [Black Holes  Mechanics]()
+##  <p align="center">  Thermodynamics = [Black Holes  Mechanics]()
 
 <br>
 
@@ -197,6 +188,7 @@ https://github.com/user-attachments/assets/32fcc04b-06f8-478e-a376-0643fb8ff7fa
 
 
 <br><br>
+
 
 At [**Quantum Software Development**](), we invite you to explore the limitless potential of quantum technology—a field where classical physics yields to the mysterious and powerful forces at the quantum level. 
 
@@ -213,6 +205,8 @@ Standing at the edge of this transformation, [**Quantum Software Development**](
 [Join us]() in shaping the Future of Quantum Computing because [Quantum is 4 ALL]() !
 
 
+
+
 <br><br>
 
 
@@ -226,29 +220,27 @@ https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
 ##### 🎶  ***Creation  by Fabi***  🖤
 
 
-<br>
 
-#
-
-<br>
+<br><br>
 
 
-### <p align="center">   Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
+
+## <p align="center">  ᘏᗢ Schrödinger [Equation](https://github.com/Quantum-Software-Development/.github/blob/d23939d4b59f69e7cabb48e6ff908ea29ab9141a/Schr%C3%B6dingerEquation.md)
+
 
 <br><br>
 
 $$\huge  \color{DeepSkyBlue} {{}{    i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi(\mathbf{r}, t)}}$$ 
 
+
 <br><br>
+
 
 https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
 
 
-<br>
+<br><br>
 
-#
-
-<br>
 
 
 ### <p align="center">     Entanglement [Equation](https://github.com/Quantum-Software-Development/.github/blob/6d61e8f36226f75474a9cc6eae7310f50df46a05/entanglement.md)
@@ -257,13 +249,13 @@ https://github.com/user-attachments/assets/b358a5ee-5a7a-4629-8c94-1a70d04cdac0
 
 $$\huge \huge \color{DeepSkyBlue} {\Phi^+\rangle = \frac{1}{\sqrt{2}}(|00\rangle + |11\rangle)}$$   
 
-<br>
 
-#
 
-<br>
+<br><br>
 
-### <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
+
+
+## <p align="center">   Superposition [Equation](https://github.com/Quantum-Software-Development/.github/blob/0f7f1809dbaf1bf1b31b579b069951a8b6449cfc/superposition.md)
 
 <br><br>
 
@@ -314,9 +306,6 @@ $${\color{Green} \boldsymbol{E=m c^2}}$$
 <!-- End Headrer -->
 
 
-#
-
-<br><br>
 
 
 ## [👩🏻‍🚀 Step into the Future, with Circuits and Qubits]()
