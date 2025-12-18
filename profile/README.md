@@ -664,6 +664,6 @@ Do you have any suggestions on how we could improve this project overall? Let us
  
 <br>
 
-###### <p align="center"> Copyright 2025 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
+###### <p align="center"> Copyright 2026 The Quantum Authors. Code released under the [Apache-2.0 license.](https://www.apache.org/licenses/LICENSE-2.0)
 
-###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
+###### <p align="center"> Copyright 2026 Quantum Software Development. Code released under the [Apache-2.0 license.](https://github.com/Quantum-Software-Development/.github/blob/39cb7f4118242778536b138bf035bba3031741e9/LICENSE)
