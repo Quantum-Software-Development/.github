@@ -123,12 +123,6 @@ https://github.com/user-attachments/assets/ba89c794-0b41-4129-81ca-362a5eefa1ec
 
 <br>
 
-#### ➢ [Access PHPSimplex](https://https://www.phpsimplex.com/en/index.htm)
-
-
-<br>
-
-
 #### ➢ [Analytics4All](https://analytics4all.org/2016/06/08/phpsimplex-simplex-linear-programming/)
 
 
