@@ -1,15 +1,14 @@
 <br>
 
-\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
+##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
 
+<br><br>
+<!--END 🇬🇧English LANGUAGE BUTTON  --
 
 
 <!-- Line
 ### <p align="center"> ────────────── 🇶 ──────────────
 -->
-
-
-<br><br>
 
 
   <!-- Start Header -->
