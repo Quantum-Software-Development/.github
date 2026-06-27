@@ -1,7 +1,10 @@
-\[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
+<br>
+
+\[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇬🇧 English](README.md)\]
 
 <br><br>
+<!--END 🇧🇷 Portuguese LANGUAGE BUTTON  -->
 
   <!-- Start Header -->
 
