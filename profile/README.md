@@ -553,8 +553,10 @@ Do you have any suggestions on how we could improve this project overall? Let us
 >
 > * [Andson Ribeiro](https://github.com/andsonandreribeiro09) - PUC São Paulo
 >
+> <!--
 > * [Pedro  Vyctor](https://github.com/ppvyctor) - PUC São Paulo
->
+> 
+> 
 >
 
 
