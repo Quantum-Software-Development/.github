@@ -20,12 +20,28 @@
 
 <br><br>
 
+ <!-- START ♡ Sponsor ····· 🇶 Quantum Software Development -->
+<p align="center">
+  <a href="https://github.com/sponsors/Quantum-Software-Development">
+    <img
+      src="https://img.shields.io/badge/♡%20SPONSOR-07111F?style=for-the-badge&labelColor=07111F&logoColor=white"
+      alt="Sponsor"
+      height="36"
+    >
+    <img
+      src="https://img.shields.io/badge/%F0%9F%87%B6%20Quantum%20Software%20Development-3A424C?style=for-the-badge&labelColor=3A424C&logoColor=white"
+      alt="🇶 Quantum Software Development"
+      height="36"
+    >
+  </a>
+</p>
 
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+<br><br>
 
-
-<br><br><br>
+ #
+ 
+ <br><br>
+ <!-- END ♡ Sponsor ····· 🇶 Quantum Software Development -->
 
 
 ### <p align="center">  *I see [Mathematics](https://github.com/user-attachments/assets/4195fbab-a2c4-4b99-9157-e21542b4a69e) as a Musical and Artistic Language and [Quantum Physics]() as a Psychology of the Universe*. [𝚿](https://github.com/user-attachments/assets/3fa9dee6-23ed-47bf-bc74-234a187cecff)
